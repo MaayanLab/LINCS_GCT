@@ -2,7 +2,10 @@
 I'm using the python cmap l1k io tools to read the gct file - I'm specifically 
 using Zichen's modified version. 
 
-I'm only going to include categories that have unique values. 
+I'm only going to include categories that have unique values. I'm going to load 
+the gct data into a pandas dataframe with tuple labels and my custom category 
+title encoding (title: category) to pass the title of the category to the 
+visualization. 
 
 LDS-1207.gct: 
   There are 30 rows and 5 columns. The columns are the measurements that were 
