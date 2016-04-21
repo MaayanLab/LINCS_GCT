@@ -1,0 +1,11 @@
+
+I'm using the python cmap l1k io tools to read the gct file - I'm specifically 
+using Zichen's modified version. 
+
+I'm only going to include categories that have unique values. 
+
+LDS-1207.gct: 
+  There are 30 rows and 5 columns. The columns are the measurements that were 
+  made for a perturbation (called id). The columns are the perturbations (data
+  points) that were made. The main descriptor is the smName (small molecule name
+  ). There is also the cell line name available - I'll make this a category. 

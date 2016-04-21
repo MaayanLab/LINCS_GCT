@@ -12,38 +12,30 @@ path_to_gctx_file = 'gcts/LDS-1207.gct'
 # read the full data file
 GCTObject = gct.GCT(path_to_gctx_file)
 GCTObject.read(verbose=False)
-# GCTObject.matrix.shape
 
-print('--- here -------')
-
-# # read the first 100 rows and 10 columns of the data
-# GCTObject = gct.GCT(path_to_gctx_file)
-# GCTObject.read(row_inds=range(100),col_inds=range(10))
-# print(GCTObject.matrix)
-
-# # read the first 10 columns of the data, identified by their
-# # column ids, stored in a grp file given below
-# path_to_column_ids = '/xchip/cogs/l1ktools/data/cids_n10.grp'
-# # read the column ids as a list
-# column_ids = grp.read_grp(path_to_column_ids)
-# GCTObject = gct.GCT(path_to_gctx_file)
-# # extract only the specified columns from the matrix
-# GCTObject.read(cid=column_ids)
-# print(GCTObject.matrix)
+print(GCTObject.matrix.shape)
 
 # get the available meta data headers for data columns and row
-column_headers = GCTObject.get_chd()
-row_headers = GCTObject.get_rhd()
-
-print(column_headers)
-print(row_headers)
-
+cat_titles = {}
+# get the gene symbol meta data field from the row data
+cat_titles['row'] = GCTObject.get_rhd()
 # get the perturbagen description meta data field from the column data
-inames = GCTObject.get_column_meta('datapointUnit')
+cat_titles['col'] = GCTObject.get_chd()
 
-print(inames)
+for inst_rc in ['row', 'col']:
 
-# # get the gene symbol meta data field from the row data
-# symbols = GCTObject.get_row_meta('pr_gene_symbol')
+  for inst_title in cat_titles[inst_rc]:
 
-# GCTObject.write('/xchip/cogs/l1ktools/data/python_example.gctx')
+    if inst_rc == 'row':
+      inst_cats = GCTObject.get_row_meta(inst_title)
+
+    elif inst_rc == 'col':
+      inst_cats = GCTObject.get_column_meta(inst_title)
+  
+
+    print('\nfound '+ str(len(inst_cats)) + ' categories for ' + inst_title)
+
+
+
+
+
