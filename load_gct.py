@@ -6,15 +6,15 @@ def main():
 
   for inst_filename in all_paths:
 
-    # print('\n'+inst_filename)
-    # try:
-    df = load_file(inst_filename)
-    # except:
-    #   print('failed')
+    print('\n'+inst_filename)
+    try:
+      df = load_file(inst_filename)
+      make_viz_from_df(df, inst_filename)
+    except:
+      print('failed')
 
-    make_viz_from_df(df)
 
-def make_viz_from_df(df):
+def make_viz_from_df(df, filename):
   from clustergrammer import Network
 
   net = Network()
@@ -22,10 +22,14 @@ def make_viz_from_df(df):
   net.df_to_dat(df)
   net.swap_nan_for_zero()
 
+  net.filter_N_top('row', 3000)
+
   views = ['N_row_sum', 'N_row_var']
   net.make_clust(dist_type='cos', views=views)
 
-  net.write_json_to_file('viz', 'json/example_gct.json')
+  filename = 'json/' + filename.split('/')[1].replace('.gct','') + '.json'
+
+  net.write_json_to_file('viz', filename)
 
 def load_file(filename):
   import pandas as pd
@@ -55,7 +59,11 @@ def load_file(filename):
 
     # generate unique names for rows and columns 
     if inst_rc == 'row':
-      tmp_names = GCTObject.get_row_meta('smName')
+      if 'smName' in cat_titles['row']:
+        tmp_names = GCTObject.get_row_meta('smName')
+      else: 
+        tmp_names = GCTObject.get_row_meta('id')
+
       tmp_ids = GCTObject.get_row_meta('id') 
       names['row'] = merge_name_id(tmp_names, tmp_ids)
 
@@ -101,7 +109,7 @@ def load_file(filename):
 
 
           if inst_title in cat_info[inst_rc]:
-            
+
             # get individual category
             inst_cat_name = inst_title+ ': '+ cat_info[inst_rc][inst_title][i]
 
