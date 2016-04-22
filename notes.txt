@@ -13,6 +13,8 @@ LDS-1207.gct:
   points) that were made. The main descriptor is the smName (small molecule name
   ). There is also the cell line name available - I'll make this a category. 
 
+  If I do not find the 
+
   I'll include a category if it meets two requirements 
     1: there are more than one unique categories 
     2: the number of unique categories is not equal to the number of data points
@@ -24,3 +26,5 @@ LDS-1207.gct:
     The smName (a.k.a. smallmolecule_smName) will be the name. 
 
   It looks like the perturbations are always the rows. 
+
+  I'm saving a quick summary of the gct sizes in gct_sizes.txt. 

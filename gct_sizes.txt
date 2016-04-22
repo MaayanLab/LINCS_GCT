@@ -1,0 +1,227 @@
+
+gcts/LDS-1002.gct
+(3120, 2)
+found smName: smallmolecule_smName
+found col name
+
+gcts/LDS-1003.gct
+(3360, 3)
+found smName: smName
+found col name
+
+gcts/LDS-1004.gct
+(22704, 8)
+found smName: smName
+found col name
+
+gcts/LDS-1005.gct
+(12240, 5)
+found smName: smName
+found col name
+
+gcts/LDS-1106.gct
+(3339, 9)
+found smName: smName
+found col name
+
+gcts/LDS-1122.gct
+(2880, 4)
+found smName: smName
+found col name
+
+gcts/LDS-1123.gct
+(39, 46)
+['ind', 'id', 'hmsDatasetID', 'recordedPlate', 'recordedWell', 'controlType', 'cell_clCenterSpecificID', 'cell_clCenterSampleID', 'cell_clName']
+found col name
+
+gcts/LDS-1124.gct
+(13832, 1)
+found smName: smName
+found col name
+
+gcts/LDS-1125.gct
+(6364, 1)
+found smName: smName
+found col name
+
+gcts/LDS-1126.gct
+(1209, 8)
+['ind', 'id', 'hmsDatasetID', 'recordedPlate', 'recordedWell', 'controlType', 'protein_ppCenterSpecificID', 'protein_ppCenterSampleID', 'protein_ppName', 'cell_clCenterSpecificID', 'cell_clCenterSampleID', 'cell_clName', 'ligandConcentration']
+found col name
+
+gcts/LDS-1196.gct
+(90, 141)
+['ind', 'Id', 'pr_gene_id', 'pr_gene_symbol', 'pr_p100_base_peptide', 'pr_p100_cluster', 'pr_p100_gene_cluster_code', 'pr_p100_modified_peptide_code', 'pr_p100_original_probe_id', 'pr_p100_phosphosite', 'pr_uniprot_id']
+found col name
+found col name
+found col name
+
+gcts/LDS-1206.gct
+(5370, 3)
+found smName: smName
+found col name
+
+gcts/LDS-1207.gct
+(30, 5)
+found smName: smName
+found col name
+
+gcts/LDS-1208.gct
+(5040, 6)
+found smName: smName
+found col name
+
+gcts/LDS-1209.gct
+failed
+
+gcts/LDS-1210.gct
+failed
+
+gcts/LDS-1219.gct
+(1060, 2)
+found smName: smName
+found col name
+
+gcts/LDS-1220.gct
+(960, 2)
+found smName: smName
+found col name
+
+gcts/LDS-1221.gct
+(950, 1)
+found smName: smName
+found col name
+
+gcts/LDS-1222.gct
+(164, 5)
+found smName: smName
+found col name
+
+gcts/LDS-1223.gct
+(35616, 2)
+found smName: smName
+found col name
+
+gcts/LDS-1224.gct
+(27438, 2)
+found smName: smName
+found col name
+
+gcts/LDS-1225.gct
+(27438, 2)
+found smName: smName
+found col name
+
+gcts/LDS-1226.gct
+(12420, 5)
+found smName: smName
+found col name
+
+gcts/LDS-1227.gct
+(12072, 5)
+found smName: smName
+found col name
+
+gcts/LDS-1228.gct
+(12420, 5)
+found smName: smName
+found col name
+
+gcts/LDS-1229.gct
+(4140, 5)
+found smName: smName
+found col name
+
+gcts/LDS-1230.gct
+(4140, 5)
+found smName: smName
+found col name
+
+gcts/LDS-1231.gct
+(4140, 5)
+found smName: smName
+found col name
+
+gcts/LDS-1232.gct
+(4140, 4)
+found smName: smName
+found col name
+
+gcts/LDS-1237.gct
+(1120, 3)
+['ind', 'id', 'Cell', 'Condition1', 'Condition2', 'Gene']
+found col name
+
+gcts/LDS-1238.gct
+failed
+
+gcts/LDS-1239.gct
+(2040, 3)
+['ind', 'id', 'Cell', 'Condition1', 'Condition2', 'Gene']
+found col name
+
+gcts/LDS-1240.gct
+(2431, 26)
+['ind', 'id', 'ECMpAnnotID', 'Well', 'CellLine', 'Ligand', 'Endpoint488', 'Endpoint555', 'Endpoint647', 'EndpointDAPI', 'ReplicateCount', 'ECMp']
+found col name
+
+gcts/LDS-1249.gct
+(764, 180)
+found smName: smname_smName
+found col name
+
+gcts/LDS-1250.gct
+(13356, 5)
+found smName: smallmolecule_smName
+found col name
+
+gcts/LDS-1251.gct
+(12982, 5)
+found smName: smallmolecule_smName
+found col name
+
+gcts/LDS-1252.gct
+(13356, 5)
+found smName: smallmolecule_smName
+found col name
+
+gcts/LDS-1253.gct
+(4140, 5)
+found smName: smallmolecule_smName
+found col name
+
+gcts/LDS-1254.gct
+(4140, 5)
+found smName: smallmolecule_smName
+found col name
+
+gcts/LDS-1255.gct
+(4140, 5)
+found smName: smallmolecule_smName
+found col name
+
+gcts/LDS-1256.gct
+(4140, 4)
+found smName: smallmolecule_smName
+found col name
+
+gcts/LDS-1257.gct
+(690, 1)
+found smName: smallmolecule_smName
+found col name
+
+gcts/LDS-1261.gct
+(54120, 6)
+found smName: smallmolecule_smName
+found col name
+
+gcts/LDS-1262.gct
+(9072, 6)
+found smName: smallmolecule_smName
+found col name
+
+gcts/LDS-1263.gct
+(1008, 17)
+found smName: smallmolecule_smName
+found col name
+[Finished in 36.3s]
