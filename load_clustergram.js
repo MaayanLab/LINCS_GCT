@@ -1,5 +1,5 @@
 
-make_clust('example_gct.json');
+make_clust('LDS-1207.json');
 // make_clust('mult_view.json');
 
 

@@ -121,9 +121,16 @@ def load_file(filename):
   mat = GCTObject.matrix 
 
 
-  df = {}
-  df['mat'] = pd.DataFrame(data=mat, columns=meta_data['col'], 
+  tmp_df = pd.DataFrame(data=mat, columns=meta_data['col'], 
     index=meta_data['row'])
+
+  # calc zscore of rows 
+  df_z = (tmp_df - tmp_df.mean())/tmp_df.std()
+
+  import pdb; pdb.set_trace()
+
+  df = {}
+  df['mat'] = df_z
 
   return df 
 
