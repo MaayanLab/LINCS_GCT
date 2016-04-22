@@ -3,8 +3,8 @@ def main():
   import glob
   all_paths = glob.glob('gcts/*')
 
-  for inst_filename in all_paths[:1]:
-    
+  for inst_filename in all_paths:
+
     print('\n'+inst_filename)
     try:
       load_file(inst_filename)
@@ -39,8 +39,9 @@ def load_file(filename):
         inst_cats = GCTObject.get_column_meta(inst_title)
     
 
-      # print('\nfound '+ str(len(inst_cats)) + ' categories for ' + inst_title)
-      # print(inst_cats)
+      # print('\n'+inst_rc+' found '+ str(len(inst_cats)) + ' categories for ' + inst_title)
+      # unique_cats = sorted(list(set(inst_cats)))
+      # print(len(unique_cats))
 
 
       ## ind is an index 
