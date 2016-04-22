@@ -46,6 +46,7 @@ def load_file(filename):
 
   # generate unique names, append name and id (since names are not unique)
   names = {}
+  meta_data = {}
 
   for inst_rc in ['row', 'col']:
 
@@ -68,14 +69,16 @@ def load_file(filename):
       elif inst_rc == 'col':
         inst_cats = GCTObject.get_column_meta(inst_title)
 
-      # print(inst_title)
-      # print(len(inst_cats))
-      # print('\n')
+    # define metadata: names, categories with optional titles 
+    meta_data[inst_rc] = []
+    for inst_name in names[inst_rc]:
+      meta_data[inst_rc].append( (inst_name, 'something: yes') )
 
   mat = GCTObject.matrix 
 
   df = {}
-  df['mat'] = pd.DataFrame(data=mat, columns=names['col'], index=names['row'])
+  df['mat'] = pd.DataFrame(data=mat, columns=meta_data['col'], 
+    index=meta_data['row'])
 
   return df 
 
