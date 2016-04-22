@@ -86,17 +86,19 @@ def load_file(filename):
 
       name_tuple = name_tuple + (inst_name,)
 
-      inst_title = cat_titles[inst_rc]
-      if inst_rc == 'row':
-        inst_title = 'clName'
-      else:
-        inst_title = 'datapointUnit'
+      all_titles = cat_titles[inst_rc]
 
-      # get individual category
-      inst_cat = inst_title+ ': '+ cat_info[inst_rc][inst_title][i]
+      # if inst_rc == 'row':
+      #   all_titles = ['clName','ppName']
+      # else:
+      #   all_titles = ['datapointUnit']
 
+      for inst_title in all_titles:
 
-      name_tuple = name_tuple + (inst_cat,)
+        # get individual category
+        inst_cat = inst_title+ ': '+ cat_info[inst_rc][inst_title][i]
+
+        name_tuple = name_tuple + (inst_cat,)
 
       meta_data[inst_rc].append( name_tuple )
 
