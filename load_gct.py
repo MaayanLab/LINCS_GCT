@@ -6,14 +6,29 @@ def main():
 
   for inst_filename in all_paths:
 
-    print('\n'+inst_filename)
-    try:
-      load_file(inst_filename)
-    except:
-      print('failed')
+    # print('\n'+inst_filename)
+    # try:
+    df = load_file(inst_filename)
+    # except:
+    #   print('failed')
+
+    make_viz_from_df(df)
+
+def make_viz_from_df(df):
+  from clustergrammer import Network
+
+  net = Network()
+
+  net.df_to_dat(df)
+  net.swap_nan_for_zero()
+
+  views = ['N_row_sum', 'N_row_var']
+  net.make_clust(dist_type='cos', views=views)
+
+  net.write_json_to_file('viz', 'json/example_gct.json')
 
 def load_file(filename):
-
+  import pandas as pd
   import cmap.io.gct as gct
   import cmap.io.plategrp as grp
 
@@ -38,10 +53,10 @@ def load_file(filename):
     if inst_rc == 'row':
       tmp_names = GCTObject.get_row_meta('smName')
       tmp_ids = GCTObject.get_row_meta('id') 
-      inst_names = merge_name_id(tmp_names, tmp_ids)
+      names['row'] = merge_name_id(tmp_names, tmp_ids)
 
     elif inst_rc == 'col':
-      inst_names = GCTObject.get_column_meta('id')
+      names['col'] = GCTObject.get_column_meta('id')
 
     # determine which categories (meta-data) will be included 
     # must be more than one unique category and the number of unique categories
@@ -53,12 +68,16 @@ def load_file(filename):
       elif inst_rc == 'col':
         inst_cats = GCTObject.get_column_meta(inst_title)
 
-      print(inst_title)
-      print(len(inst_cats))
-      print('\n')
+      # print(inst_title)
+      # print(len(inst_cats))
+      # print('\n')
 
+  mat = GCTObject.matrix 
 
+  df = {}
+  df['mat'] = pd.DataFrame(data=mat, columns=names['col'], index=names['row'])
 
+  return df 
 
 def merge_name_id(tmp_names, tmp_ids):
   new_names = []
