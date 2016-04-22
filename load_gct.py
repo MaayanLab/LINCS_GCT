@@ -1,8 +1,9 @@
   
 def main():
   import glob
-  # all_paths = glob.glob('gcts/*')
-  all_paths = ['gcts/LDS-1207.gct']
+  all_paths = glob.glob('gcts/*')
+  # all_paths = ['gcts/LDS-1207.gct']
+  all_paths[1]
 
   for inst_filename in all_paths:
 
@@ -127,7 +128,7 @@ def load_file(filename):
   # calc zscore of rows 
   df_z = (tmp_df - tmp_df.mean())/tmp_df.std()
 
-  import pdb; pdb.set_trace()
+  # import pdb; pdb.set_trace()
 
   df = {}
   df['mat'] = df_z
