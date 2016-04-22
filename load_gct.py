@@ -47,8 +47,11 @@ def load_file(filename):
   # generate unique names, append name and id (since names are not unique)
   names = {}
   meta_data = {}
+  cat_info = {}
 
   for inst_rc in ['row', 'col']:
+
+    cat_info[inst_rc] = {}
 
     # generate unique names for rows and columns 
     if inst_rc == 'row':
@@ -69,12 +72,36 @@ def load_file(filename):
       elif inst_rc == 'col':
         inst_cats = GCTObject.get_column_meta(inst_title)
 
+      cat_info[inst_rc][inst_title] = inst_cats
+
     # define metadata: names, categories with optional titles 
     meta_data[inst_rc] = []
-    for inst_name in names[inst_rc]:
-      meta_data[inst_rc].append( (inst_name, 'something: yes') )
+    for i in range(len(names[inst_rc])):
+
+      # names and categories are stored in tuple in pandas df 
+      name_tuple = ()
+
+      # get individual row/col name 
+      inst_name = names[inst_rc][i]
+
+      name_tuple = name_tuple + (inst_name,)
+
+      inst_title = cat_titles[inst_rc]
+      if inst_rc == 'row':
+        inst_title = 'clName'
+      else:
+        inst_title = 'datapointUnit'
+
+      # get individual category
+      inst_cat = inst_title+ ': '+ cat_info[inst_rc][inst_title][i]
+
+
+      name_tuple = name_tuple + (inst_cat,)
+
+      meta_data[inst_rc].append( name_tuple )
 
   mat = GCTObject.matrix 
+
 
   df = {}
   df['mat'] = pd.DataFrame(data=mat, columns=meta_data['col'], 
