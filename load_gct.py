@@ -3,7 +3,7 @@ def main():
   import glob
   # all_paths = ['gcts/LDS-1207.gct']
   all_paths = glob.glob('gcts/*')
-  all_paths = all_paths[1]
+  # all_paths = all_paths[1]
 
   for inst_filename in all_paths:
 
@@ -27,6 +27,8 @@ def make_viz_from_df(df, filename):
 
   # filter the rows to keep the perts with the largest normalizes values
   net.filter_N_top('row', 3000)
+
+  print(net.dat['mat'].shape)
 
   views = ['N_row_sum', 'N_row_var']
   net.make_clust(dist_type='cos', views=views)
@@ -63,8 +65,11 @@ def load_file(filename):
 
     # generate unique names for rows and columns 
     if inst_rc == 'row':
+
       if 'smName' in cat_titles['row']:
         tmp_names = GCTObject.get_row_meta('smName')
+      elif 'smallmolecule_smName' in cat_titles['row']:
+        tmp_names = GCTObject.get_row_meta('smallmolecule_smName')
       else: 
         tmp_names = GCTObject.get_row_meta('id')
 
