@@ -26,16 +26,18 @@ def make_viz_from_df(df, filename):
   net.normalize(axis='col', norm_type='zscore', keep_orig=True)
 
   # filter the rows to keep the perts with the largest normalizes values
-  net.filter_N_top('row', 3000)
+  net.filter_N_top('row', 2000)
 
-  print(net.dat['mat'].shape)
+  num_coluns = net.dat['mat'].shape[1]
 
-  views = ['N_row_sum', 'N_row_var']
-  net.make_clust(dist_type='cos', views=views)
+  if num_coluns < 50:
+    # views = ['N_row_sum', 'N_row_var']
+    views = ['N_row_sum']
+    net.make_clust(dist_type='cos', views=views)
 
-  filename = 'json/' + filename.split('/')[1].replace('.gct','') + '.json'
+    filename = 'json/' + filename.split('/')[1].replace('.gct','') + '.json'
 
-  net.write_json_to_file('viz', filename)
+    net.write_json_to_file('viz', filename)
 
 def load_file(filename):
   import pandas as pd
