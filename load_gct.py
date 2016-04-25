@@ -1,9 +1,9 @@
   
 def main():
   import glob
-  # all_paths = glob.glob('gcts/*')
-  all_paths = ['gcts/LDS-1207.gct']
-  # all_paths[1]
+  # all_paths = ['gcts/LDS-1207.gct']
+  all_paths = glob.glob('gcts/*')
+  all_paths = all_paths[1]
 
   for inst_filename in all_paths:
 
@@ -13,7 +13,6 @@ def main():
       make_viz_from_df(df, inst_filename)
     except:
       print('failed')
-
 
 def make_viz_from_df(df, filename):
   from clustergrammer import Network
@@ -35,14 +34,6 @@ def make_viz_from_df(df, filename):
   filename = 'json/' + filename.split('/')[1].replace('.gct','') + '.json'
 
   net.write_json_to_file('viz', filename)
-
-  inst_df = net.dat_to_df()
-
-  # print(len(inst_df['mat'].values.sum(axis=0)))
-  # print(inst_df['mat'].values.sum(axis=0))
-
-  # print(len(inst_df['mat'].values.sum(axis=1)))
-  # print(inst_df['mat'].values.sum(axis=1))
 
 def load_file(filename):
   import pandas as pd
