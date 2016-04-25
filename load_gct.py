@@ -1,9 +1,9 @@
   
 def main():
   import glob
-  all_paths = glob.glob('gcts/*')
-  # all_paths = ['gcts/LDS-1207.gct']
-  all_paths[1]
+  # all_paths = glob.glob('gcts/*')
+  all_paths = ['gcts/LDS-1207.gct']
+  # all_paths[1]
 
   for inst_filename in all_paths:
 
@@ -23,6 +23,10 @@ def make_viz_from_df(df, filename):
   net.df_to_dat(df)
   net.swap_nan_for_zero()
 
+  # zscore first to get the columns distributions to be similar 
+  net.normalize(axis='col', norm_type='zscore', keep_orig=True)
+
+  # filter the rows to keep the perts with the largest normalizes values
   net.filter_N_top('row', 3000)
 
   views = ['N_row_sum', 'N_row_var']
@@ -31,6 +35,14 @@ def make_viz_from_df(df, filename):
   filename = 'json/' + filename.split('/')[1].replace('.gct','') + '.json'
 
   net.write_json_to_file('viz', filename)
+
+  inst_df = net.dat_to_df()
+
+  # print(len(inst_df['mat'].values.sum(axis=0)))
+  # print(inst_df['mat'].values.sum(axis=0))
+
+  # print(len(inst_df['mat'].values.sum(axis=1)))
+  # print(inst_df['mat'].values.sum(axis=1))
 
 def load_file(filename):
   import pandas as pd
@@ -125,13 +137,12 @@ def load_file(filename):
   tmp_df = pd.DataFrame(data=mat, columns=meta_data['col'], 
     index=meta_data['row'])
 
-  # calc zscore of rows 
-  df_z = (tmp_df - tmp_df.mean())/tmp_df.std()
-
-  # import pdb; pdb.set_trace()
+  # # calc zscore of rows 
+  # df_z = (tmp_df - tmp_df.mean())/tmp_df.std()
 
   df = {}
-  df['mat'] = df_z
+  # df['mat'] = df_z
+  df['mat'] = tmp_df
 
   return df 
 
