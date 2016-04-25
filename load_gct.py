@@ -1,18 +1,29 @@
   
 def main():
   import glob
-  # all_paths = ['gcts/LDS-1207.gct']
   all_paths = glob.glob('gcts/*')
-  # all_paths = all_paths[1]
+
+  done_jsons = glob.glob('json/*')
 
   for inst_filename in all_paths:
+    name = inst_filename.split('/')[1].split('.gct')[0]
 
-    print('\n'+inst_filename)
-    try:
-      df = load_file(inst_filename)
-      make_viz_from_df(df, inst_filename)
-    except:
-      print('failed')
+    found_done = False
+    for done_name in done_jsons:
+      done_name = done_name.split('/')[1].split('.json')[0]
+      if name == done_name:
+        found_done = True
+
+        print('done with '+inst_filename)
+
+    if found_done == False:
+
+      print('\n'+inst_filename)
+      try:
+        df = load_file(inst_filename)
+        make_viz_from_df(df, inst_filename)
+      except:
+        print('failed')
 
 def make_viz_from_df(df, filename):
   from clustergrammer import Network
