@@ -1,7 +1,19 @@
-
 make_clust('LDS-1003.json');
 // make_clust('mult_view.json');
-
+// make_clust('filter_row_sum.json');
+// make_clust('mult_cats.json');
+// make_clust('large_vect_post_example.json');
+// make_clust('vect_post_example.json');
+// make_clust('enr_clust_example.json');
+// make_clust('default_example.json');
+// make_clust('ccle.json');
+// make_clust('updn_example.json');
+// make_clust('narrow_example.json');
+// make_clust('narrow_long_name.json');
+// make_clust('bar_example.json');
+// make_clust('kin_sub_example.json');
+// make_clust('harmonogram_example.json');
+// make_clust('sim_mat.json');
 
 
 function make_clust(inst_network){
@@ -21,11 +33,11 @@ function make_clust(inst_network){
       };
 
       // define arguments object
-      var arguments_obj = {
+      var args = {
         root: '#container-id-1',
         'network_data': network_data,
-        'row_label':'Row Title',
-        'col_label':'Colum Title',
+        // 'row_label':'Row Title',
+        // 'col_label':'Colum Title',
         'outer_margins': outer_margins,
         // 'outline_colors':['black','yellow'],
         // 'tile_click_hlight':true,
@@ -55,13 +67,32 @@ function make_clust(inst_network){
         // 'title':'Clustergrammer',
         'about':'Zoom, scroll, and click buttons to interact with the clustergram.',
         // 'sidebar_width':150,
-        'row_search_placeholder':'Gene',
+        // 'sidebar_icons':false,
+        // 'row_search_placeholder':'Gene',
         // 'buffer_width':10,
         // 'show_sim_mat':'col',
+        // 'clamp_opacity':0.85,
+        // 'max_allow_fs':15,
       };
 
+      function resize_container(){
 
-      cgm = Clustergrammer(arguments_obj);
+        var screen_width = window.innerWidth;
+        var screen_height = window.innerHeight - 30;
+
+        d3.select(args.root)
+          .style('width', screen_width+'px')
+          .style('height', screen_height+'px');
+      }
+
+      resize_container();
+
+      d3.select(window).on('resize',function(){
+        resize_container();
+        cgm.resize_viz();
+      });
+
+      cgm = Clustergrammer(args);
 
       d3.select(cgm.params.root + ' .wait_message').remove();
 
@@ -71,7 +102,7 @@ function make_clust(inst_network){
         .attr('src','img/clustergrammer_logo.png')
         .attr('alt','clustergrammer')
         .style('width','167px')
-        .style('margin-left','-2px')
+        .style('margin-left','3px')
         .style('margin-top','5px');
 
   });

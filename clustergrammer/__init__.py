@@ -48,15 +48,17 @@ class Network(object):
     load_data.load_data_to_net(self, inst_dat)
 
   def make_clust(self, dist_type='cosine', run_clustering=True,
-                 dendro=True, views=['pct_row_sum', 'N_row_sum'],
-                 linkage_type='average', sim_mat=False, filter_sim=0.1):
+                 dendro=True, views=['N_row_sum', 'N_row_var'],
+                 linkage_type='average', sim_mat=False, filter_sim=0.1,
+                 calc_cat_pval=False):
     ''' 
     The main function run by the user to make their clustergram. 
     views is later referred to as requested_views.
     '''
     import make_clust_fun
     make_clust_fun.make_clust(self, dist_type, run_clustering, dendro, 
-                                   views, linkage_type, sim_mat, filter_sim)
+                                   views, linkage_type, sim_mat, filter_sim,
+                                   calc_cat_pval)
 
   def produce_view(self, requested_view=None):
     '''
@@ -97,6 +99,10 @@ class Network(object):
     import export_data
     export_data.write_json_to_file(self, net_type, filename, indent)
 
+  def write_matrix_to_tsv(self, filename, df=None):
+    import export_data
+    export_data.write_matrix_to_tsv(self, filename, df)
+
   def filter_sum(self, inst_rc, threshold, take_abs=True):
     ''' 
     Filter a network's rows or columns based on the sum across rows or columns 
@@ -110,7 +116,7 @@ class Network(object):
       inst_df = run_filter.df_filter_col_sum(inst_df, threshold, take_abs)
     self.df_to_dat(inst_df)
 
-  def filter_N_top(self, inst_rc, N_top, axis='row', rank_type='sum'):
+  def filter_N_top(self, inst_rc, N_top, rank_type='sum'):
     '''
     Filter a network's rows or cols based on sum/variance, and only keep the top
     N  
@@ -120,6 +126,20 @@ class Network(object):
     inst_df = self.dat_to_df()
 
     inst_df = run_filter.filter_N_top(inst_rc, inst_df, N_top, rank_type)
+
+    self.df_to_dat(inst_df)
+
+  def filter_threshold(self, inst_rc, threshold, num_occur=1):
+    '''
+    Filter a network's rows or cols based on num_occur values being above a 
+    threshold (in absolute value) 
+    '''
+    import run_filter
+
+    inst_df = self.dat_to_df()
+
+    inst_df = run_filter.filter_threshold(inst_df, inst_rc, threshold, 
+      num_occur)
 
     self.df_to_dat(inst_df)
 
