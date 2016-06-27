@@ -70,7 +70,6 @@ var Clustergrammer =
 
 	  // consume and validate user arguments, produce configuration object
 	  var config = make_config(args);
-
 	  // make visualization parameters using configuration object
 	  var params = make_params(config);
 
@@ -164,8 +163,8 @@ var Clustergrammer =
 	    });
 	  });
 
-	  config.network_data.row_nodes_names = _.pluck(config.network_data.row_nodes, 'name');
-	  config.network_data.col_nodes_names = _.pluck(config.network_data.col_nodes, 'name');
+	  config.network_data.row_nodes_names = utils.pluck(config.network_data.row_nodes, 'name');
+	  config.network_data.col_nodes_names = utils.pluck(config.network_data.col_nodes, 'name');
 
 	  config.sim_mat = check_sim_mat(config);
 
@@ -307,7 +306,7 @@ var Clustergrammer =
 	          }
 	        });
 
-	        var names_of_cat = _.uniq(_.pluck(config.network_data[inst_rc + '_nodes'], inst_cat)).sort();
+	        var names_of_cat = _.uniq(utils.pluck(config.network_data[inst_rc + '_nodes'], inst_cat)).sort();
 
 	        if (predefine_colors === false) {
 
@@ -382,6 +381,32 @@ var Clustergrammer =
 	   */
 	  has: function has(obj, key) {
 	    return obj != null && hasOwnProperty.call(obj, key);
+	  },
+
+	  property: function property(key) {
+	    return function (obj) {
+	      return obj == null ? void 0 : obj[key];
+	    };
+	  },
+
+	  // Convenience version of a common use case of `map`: fetching a property.
+	  pluck: function pluck(arr, key) {
+	    var self = this;
+	    // Double check that we have lodash or underscore available
+	    if (window._) {
+	      // Underscore provides a _.pluck function. Use that.
+	      if (typeof _.pluck === 'function') {
+	        return _.pluck(arr, key);
+	      } else if (typeof _.map === 'function') {
+	        // Lodash does not have a pluck function.
+	        // Use _.map with the property function defined above.
+	        return _.map(arr, self.property(key));
+	      }
+	    } else if (arr.map && typeof arr.map === 'function') {
+	      // If lodash or underscore not available, check to see if the native arr.map is available.
+	      // If so, use it with the property function defined above.
+	      return arr.map(self.property(key));
+	    }
 	  },
 
 	  /* Returns true if the object is undefined.
@@ -508,7 +533,7 @@ var Clustergrammer =
 
 	        filter_data[inst_key].push(inst_view[inst_key]);
 
-	        filter_data[inst_key] = _.unique(filter_data[inst_key]);
+	        filter_data[inst_key] = _.uniq(filter_data[inst_key]);
 	      }
 	    });
 	  });
@@ -698,7 +723,7 @@ var Clustergrammer =
 	var make_requested_view = __webpack_require__(43);
 	var get_available_filters = __webpack_require__(5);
 
-	/* 
+	/*
 	Params: calculates the size of all the visualization elements in the
 	clustergram.
 	 */
@@ -815,15 +840,17 @@ var Clustergrammer =
 
 /***/ },
 /* 12 */
-/***/ function(module, exports) {
+/***/ function(module, exports, __webpack_require__) {
 
 	'use strict';
+
+	var utils = __webpack_require__(2);
 
 	module.exports = function (params, new_nodes, links, views) {
 
 	  // get new names of rows and cols
-	  var row_names = _.pluck(new_nodes.row_nodes, 'name');
-	  var col_names = _.pluck(new_nodes.col_nodes, 'name');
+	  var row_names = utils.pluck(new_nodes.row_nodes, 'name');
+	  var col_names = utils.pluck(new_nodes.col_nodes, 'name');
 
 	  var new_links = _.filter(links, function (d) {
 	    var inst_row = d.name.split('_')[0];
@@ -1330,7 +1357,7 @@ var Clustergrammer =
 	    var inst_nodes = network_data[other_rc + '_nodes'];
 	    var num_nodes = inst_nodes.length;
 
-	    var nodes_names = _.pluck(inst_nodes, 'name');
+	    var nodes_names = utils.pluck(inst_nodes, 'name');
 	    var tmp = nodes_names.sort();
 
 	    var alpha_index = _.map(tmp, function (d) {
@@ -2482,7 +2509,7 @@ var Clustergrammer =
 	      col_nodes = network_data.col_nodes,
 	      clust_group;
 
-	  var row_nodes_names = _.pluck(row_nodes, 'name');
+	  var row_nodes_names = utils.pluck(row_nodes, 'name');
 
 	  // append a group that will hold clust_group and position it once
 	  clust_group = svg_elem.append('g').attr('class', 'clust_container').attr('transform', 'translate(' + params.viz.clust.margin.left + ',' + params.viz.clust.margin.top + ')').append('g').attr('class', 'clust_group').classed('clust_group', true);
@@ -3449,6 +3476,7 @@ var Clustergrammer =
 
 	'use strict';
 
+	var utils = __webpack_require__(2);
 	var reposition_tile_highlight = __webpack_require__(57);
 	var toggle_dendro_view = __webpack_require__(58);
 	var show_visible_area = __webpack_require__(36);
@@ -3471,7 +3499,7 @@ var Clustergrammer =
 	  var row_nodes = params.network_data.row_nodes;
 	  var col_nodes = params.network_data.col_nodes;
 
-	  var col_nodes_names = _.pluck(col_nodes, 'name');
+	  var col_nodes_names = utils.pluck(col_nodes, 'name');
 
 	  // find the index of the row
 	  var tmp_arr = [];
@@ -4043,6 +4071,7 @@ var Clustergrammer =
 
 	'use strict';
 
+	var utils = __webpack_require__(2);
 	var reposition_tile_highlight = __webpack_require__(57);
 	var toggle_dendro_view = __webpack_require__(58);
 	var show_visible_area = __webpack_require__(36);
@@ -4062,7 +4091,7 @@ var Clustergrammer =
 	  var row_nodes = params.network_data.row_nodes;
 	  var col_nodes = params.network_data.col_nodes;
 
-	  var row_nodes_names = _.pluck(row_nodes, 'name');
+	  var row_nodes_names = utils.pluck(row_nodes, 'name');
 
 	  // // get inst col (term)
 	  // var inst_term = d3.select(col_selection).select('text').attr('full_name');
@@ -4657,6 +4686,7 @@ var Clustergrammer =
 
 	'use strict';
 
+	var utils = __webpack_require__(2);
 	var toggle_dendro_view = __webpack_require__(58);
 	var show_visible_area = __webpack_require__(36);
 
@@ -4684,10 +4714,10 @@ var Clustergrammer =
 	  }
 
 	  var row_nodes_obj = params.network_data.row_nodes;
-	  var row_nodes_names = _.pluck(row_nodes_obj, 'name');
+	  var row_nodes_names = utils.pluck(row_nodes_obj, 'name');
 
 	  var col_nodes_obj = params.network_data.col_nodes;
-	  var col_nodes_names = _.pluck(col_nodes_obj, 'name');
+	  var col_nodes_names = utils.pluck(col_nodes_obj, 'name');
 
 	  if (row_col === 'row') {
 
@@ -5260,7 +5290,7 @@ var Clustergrammer =
 	  setTimeout(position_play_button, 100, params);
 
 	  var row_nodes = params.network_data.row_nodes;
-	  var row_nodes_names = _.pluck(row_nodes, 'name');
+	  var row_nodes_names = utils.pluck(row_nodes, 'name');
 
 	  resize_row_tiles(params, svg_group);
 
@@ -6096,13 +6126,14 @@ var Clustergrammer =
 
 	'use strict';
 
+	var utils = __webpack_require__(2);
 	var draw_up_tile = __webpack_require__(49);
 	var draw_dn_tile = __webpack_require__(50);
 
 	module.exports = function resize_row_tiles(params, svg_group) {
 
 	  var row_nodes = params.network_data.row_nodes;
-	  var row_nodes_names = _.pluck(row_nodes, 'name');
+	  var row_nodes_names = utils.pluck(row_nodes, 'name');
 
 	  svg_group.selectAll('.row').attr('transform', function (d) {
 	    var tmp_index = _.indexOf(row_nodes_names, d.name);
@@ -6415,6 +6446,7 @@ var Clustergrammer =
 	  var inst_selection;
 
 	  if (params.viz.show_categories.row) {
+
 	    d3.selectAll(params.root + ' .row_cat_group').each(function () {
 
 	      inst_selection = this;
@@ -7053,14 +7085,12 @@ var Clustergrammer =
 	'use strict';
 
 	module.exports = function disable_sidebar(params) {
-	  $(params.root + ' .slider').slider('disable');
-	  d3.selectAll(params.root + ' .btn').attr('disabled', true);
-	  d3.select(params.viz.viz_svg).style('opacity', 0.70);
 
-	  // d3.selectAll(params.root+' .category_section')
-	  // .on('click', '')
-	  // .select('text')
-	  // .style('opacity',0.5);
+	  $(params.root + ' .slider').slider('disable');
+
+	  d3.selectAll(params.root + ' .btn').attr('disabled', true);
+
+	  d3.select(params.viz.viz_svg).style('opacity', 0.70);
 		};
 
 /***/ },
@@ -8678,7 +8708,7 @@ var Clustergrammer =
 	    sidebar.select('.about_section').append('h5').classed('sidebar_text', true).style('margin-left', '7px').style('margin-top', '5px').style('margin-bottom', '2px').style('width', about_section_width + 'px').style('text-align', 'justify').text(params.sidebar.about);
 	  }
 
-	  sidebar.append('div').classed('icons_section', true);
+	  sidebar.append('div').classed('icons_section', true).style('text-align', 'center');
 
 	  if (params.sidebar.icons) {
 	    make_modals(params);
@@ -8744,7 +8774,7 @@ var Clustergrammer =
 
 	  var params = cgm.params;
 
-	  var div_filters = d3.select(params.root + ' .sidebar_wrapper').append('div').classed('div_filters', true);
+	  var div_filters = d3.select(params.root + ' .sidebar_wrapper').append('div').classed('div_filters', true).style('padding-left', '15px').style('padding-right', '15px');
 
 	  if (params.viz.possible_filters[filter_type] == 'numerical') {
 	    make_slider_filter(cgm, filter_type, div_filters);
@@ -8781,9 +8811,9 @@ var Clustergrammer =
 
 	  var filter_title = make_filter_title(params, filter_type);
 
-	  div_filters.append('div').classed('title_' + filter_type, true).classed('sidebar_text', true).classed('slider_description', true).style('margin-top', '5px').style('margin-bottom', '3px').style('margin-left', '5px').text(filter_title.text + filter_title.state + filter_title.suffix);
+	  div_filters.append('div').classed('title_' + filter_type, true).classed('sidebar_text', true).classed('slider_description', true).style('margin-top', '5px').style('margin-bottom', '3px').text(filter_title.text + filter_title.state + filter_title.suffix);
 
-	  div_filters.append('div').classed('slider_' + filter_type, true).classed('slider', true).style('width', params.sidebar.slider.width + 'px').style('margin-left', params.sidebar.slider.margin_left + 'px').attr('current_state', filter_title.state);
+	  div_filters.append('div').classed('slider_' + filter_type, true).classed('slider', true).attr('current_state', filter_title.state);
 
 	  var views = params.network_data.views;
 
@@ -9001,10 +9031,10 @@ var Clustergrammer =
 	module.exports = function make_button_filter(config, params, filter_type, div_filters) {
 
 	  /*
-	  Enrichr specific code 
+	  Enrichr specific code
 	  */
 
-	  var buttons = div_filters.append('div').classed('categorical_filter', true).classed('toggle_' + filter_type, true).style('width', params.sidebar.slider.width + 'px').style('margin-left', params.sidebar.slider.margin_left + 'px').classed('btn-group-vertical', true).style('width', '135px').style('margin-left', '0px').style('margin-top', '10px').attr('current_state', 'combined_score');
+	  var buttons = div_filters.append('div').classed('categorical_filter', true).classed('toggle_' + filter_type, true).classed('btn-group-vertical', true).style('width', '100%').style('margin-top', '10px').attr('current_state', 'combined_score');
 
 	  var filter_options = params.viz.filter_data[filter_type];
 
@@ -9055,7 +9085,7 @@ var Clustergrammer =
 
 	module.exports = function set_up_dendro_sliders(sidebar, params) {
 
-	  var dendro_sliders = sidebar.append('div').classed('dendro_sliders', true);
+	  var dendro_sliders = sidebar.append('div').classed('dendro_sliders', true).style('padding-left', '15px').style('padding-right', '15px');
 
 	  var dendro_types;
 	  if (params.sim_mat) {
@@ -9071,9 +9101,9 @@ var Clustergrammer =
 
 	  _.each(dendro_types, function (inst_rc) {
 
-	    dendro_sliders.append('div').classed('sidebar_text', true).classed('slider_description', true).style('margin-top', '5px').style('margin-bottom', '3px').style('margin-left', '5px').text(dendro_text[inst_rc]);
+	    dendro_sliders.append('div').classed('sidebar_text', true).classed('slider_description', true).style('margin-top', '5px').style('margin-bottom', '3px').text(dendro_text[inst_rc]);
 
-	    dendro_sliders.append('div').classed('slider_' + inst_rc, true).classed('slider', true).style('width', params.sidebar.slider.width + 'px').style('margin-left', params.sidebar.slider.margin_left + 'px');
+	    dendro_sliders.append('div').classed('slider_' + inst_rc, true).classed('slider', true);
 	  });
 		};
 
@@ -9087,11 +9117,11 @@ var Clustergrammer =
 
 	  var search_container = sidebar.append('div')
 	  // .classed('row',true)
-	  .classed('gene_search_container', true).style('margin-top', '10px').style('margin-left', params.sidebar.row_search.margin_left + 'px').style('width', '145px');
+	  .classed('gene_search_container', true).style('padding-left', '15px').style('padding-right', '15px').style('margin-top', '10px');
 
-	  search_container.append('input').classed('form-control', true).classed('gene_search_box', true).classed('sidebar_text', true).attr('type', 'text').attr('placeholder', params.sidebar.row_search.placeholder).style('width', '70px').style('height', params.sidebar.row_search.box.height + 'px').style('float', 'left');
+	  search_container.append('input').classed('form-control', true).classed('gene_search_box', true).classed('sidebar_text', true).attr('type', 'text').attr('placeholder', params.sidebar.row_search.placeholder).style('height', params.sidebar.row_search.box.height + 'px');
 
-	  search_container.append('div').classed('btn-group', true).classed('gene_search_button', true).attr('data-toggle', 'buttons').append('div').append('button').classed('sidebar_text', true).html('Search').attr('type', 'button').classed('btn', true).classed('btn-primary', true).classed('submit_gene_button', true).style('margin-left', '4px').style('float', 'left').style('padding-top', '6px').style('padding-bottom', '6px');
+	  search_container.append('div').classed('gene_search_button', true).style('margin-top', '5px').attr('data-toggle', 'buttons').append('button').classed('sidebar_text', true).html('Search').attr('type', 'button').classed('btn', true).classed('btn-primary', true).classed('submit_gene_button', true).style('width', '100%').style('font-size', '14px');
 		};
 
 /***/ },
@@ -9112,7 +9142,7 @@ var Clustergrammer =
 	  // var all_cats;
 	  // var inst_order_label;
 
-	  var reorder_section = sidebar.append('div').classed('reorder_section', true).style('margin-left', '18px');
+	  var reorder_section = sidebar.append('div').style('padding-left', '15px').style('padding-right', '15px').classed('reorder_section', true);
 
 	  var reorder_types;
 	  if (params.sim_mat) {
@@ -9186,9 +9216,9 @@ var Clustergrammer =
 	      reorder_text = 'Reorder Matrix';
 	    }
 
-	    reorder_section.append('div').classed('sidebar_text', true).style('clear', 'both').style('margin-left', '7px').style('margin-top', '10px').style('font-size', '13px').html(rc_dict[inst_rc] + reorder_text);
+	    reorder_section.append('div').classed('sidebar_text', true).style('clear', 'both').style('margin-top', '10px').style('font-size', '13px').html(rc_dict[inst_rc] + reorder_text);
 
-	    inst_reorder = reorder_section.append('div').classed('btn-group-vertical', true).classed('toggle_' + inst_rc + '_order', true).attr('role', 'group').style('max-width', params.sidebar.buttons.width + 'px');
+	    inst_reorder = reorder_section.append('div').classed('btn-group-vertical', true).style('width', '100%').classed('toggle_' + inst_rc + '_order', true).attr('role', 'group');
 
 	    inst_reorder.selectAll('.button').data(possible_orders).enter().append('button').attr('type', 'button').style('font-size', '13px').classed('btn', true).classed('btn-primary', true).classed('sidebar_text', true).classed('active', function (d) {
 	      is_active = false;
@@ -9268,17 +9298,17 @@ var Clustergrammer =
 	  var saveSvgAsPng = save_svg_png();
 	  var saveAs = file_saver();
 
-	  var row = sidebar.select('.icons_section').style('margin-top', '7px').style('margin-left', params.sidebar.icon_margin_left + 'px').style('width', params.sidebar.buttons.width + 'px').append('row');
+	  var row = sidebar.select('.icons_section').style('margin-top', '7px');
 
-	  row.append('col').classed('col-xs-4', true).append('a').attr('href', 'http://amp.pharm.mssm.edu/clustergrammer/help').attr('target', '_blank').append('i').classed('fa', true).classed('fa-question-circle', true).classed('icon_buttons', true).style('font-size', '25px');
+	  row.append('div').classed('col-xs-4', true).append('a').attr('href', 'http://amp.pharm.mssm.edu/clustergrammer/help').attr('target', '_blank').append('i').classed('fa', true).classed('fa-question-circle', true).classed('icon_buttons', true).style('font-size', '25px');
 
-	  row.append('col').classed('col-xs-4', true).append('i').classed('fa', true).classed('fa-share-alt', true).classed('icon_buttons', true).style('font-size', '25px').on('click', function () {
+	  row.append('div').classed('col-xs-4', true).append('i').classed('fa', true).classed('fa-share-alt', true).classed('icon_buttons', true).style('font-size', '25px').on('click', function () {
 
 	    $(params.root + ' .share_info').modal('toggle');
 	    $('.share_url').val(window.location.href);
 	  });
 
-	  row.append('col').classed('col-xs-4', true).append('i').classed('fa', true).classed('fa-camera', true).classed('icon_buttons', true).style('font-size', '25px').on('click', function () {
+	  row.append('div').classed('col-xs-4', true).append('i').classed('fa', true).classed('fa-camera', true).classed('icon_buttons', true).style('font-size', '25px').on('click', function () {
 
 	    $(params.root + ' .picture_info').modal('toggle');
 	  });
@@ -9530,7 +9560,7 @@ var Clustergrammer =
 	  /* FileSaver.js
 	   * A saveAs() FileSaver implementation.
 	   * 2013-01-23
-	   * 
+	   *
 	   * By Eli Grey, http://eligrey.com
 	   * License: X11/MIT
 	   *   See LICENSE.md
@@ -9807,13 +9837,11 @@ var Clustergrammer =
 
 	module.exports = function set_up_opacity_slider(sidebar, params) {
 
-	  var slider_container = sidebar.append('div').classed('opacity_slider_container', true).style('margin-top', '5px');
+	  var slider_container = sidebar.append('div').classed('opacity_slider_container', true).style('margin-top', '5px').style('padding-left', '15px').style('padding-right', '15px');
 
-	  slider_container.append('div').classed('sidebar_text', true).classed('opacity_slider_text', true).style('margin-bottom', '3px').style('margin-left', '5px').text('Opacity Slider');
+	  slider_container.append('div').classed('sidebar_text', true).classed('opacity_slider_text', true).style('margin-bottom', '3px').text('Opacity Slider');
 
-	  slider_container.append('div').classed('opacity_slider', true)
-	  // .classed('slider', true)
-	  .style('width', params.sidebar.slider.width + 'px').style('margin-left', params.sidebar.slider.margin_left + 'px');
+	  slider_container.append('div').classed('slider', true).classed('opacity_slider', true);
 
 	  $(params.root + ' .opacity_slider').slider({
 	    value: 1.0

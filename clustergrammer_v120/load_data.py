@@ -3,13 +3,9 @@ def load_file(net, filename):
   f = open(filename, 'r')
   buff = StringIO.StringIO(f.read())
   f.close()
+  net.load_tsv_to_net(buff)
 
-  if '/' in filename:
-    filename = filename.split('/')[-1]
-
-  net.load_tsv_to_net(buff, filename)
-
-def load_tsv_to_net(net, file_buffer, filename=None):
+def load_tsv_to_net(net, file_buffer):
   import numpy as np
   import pandas as pd
   import categories
@@ -84,12 +80,12 @@ def load_tsv_to_net(net, file_buffer, filename=None):
     col_names = [str(x) for x in col_names]
     tmp_df['mat'].columns = col_names
 
+
   # # remove columns with all nans, occurs when there are trailing
   # # tabs on rows
   # tmp_df['mat'] = tmp_df['mat'].dropna(axis=1, how='all')
 
-  net.df_to_dat(tmp_df)
-  net.dat['filename'] = filename
+  net.df_to_dat(tmp_df)  
 
 def load_json_to_dict(filename):
   import json
