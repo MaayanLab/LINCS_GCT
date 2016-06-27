@@ -1,7 +1,7 @@
-  
+
 def main():
 
-  # process_GCT_export_tsv()
+  process_GCT_and_export_tsv()
 
   # make_all_gct_viz()
 
@@ -39,7 +39,7 @@ def make_viz_from_df(df, filename):
   net.df_to_dat(df)
   net.swap_nan_for_zero()
 
-  # zscore first to get the columns distributions to be similar 
+  # zscore first to get the columns distributions to be similar
   net.normalize(axis='col', norm_type='zscore', keep_orig=True)
 
   # filter the rows to keep the perts with the largest normalizes values
@@ -82,23 +82,23 @@ def load_file(filename):
 
     cat_info[inst_rc] = {}
 
-    # generate unique names for rows and columns 
+    # generate unique names for rows and columns
     if inst_rc == 'row':
 
       if 'smName' in cat_titles['row']:
         tmp_names = GCTObject.get_row_meta('smName')
       elif 'smallmolecule_smName' in cat_titles['row']:
         tmp_names = GCTObject.get_row_meta('smallmolecule_smName')
-      else: 
+      else:
         tmp_names = GCTObject.get_row_meta('id')
 
-      tmp_ids = GCTObject.get_row_meta('id') 
+      tmp_ids = GCTObject.get_row_meta('id')
       names['row'] = merge_name_id(tmp_names, tmp_ids)
 
     elif inst_rc == 'col':
       names['col'] = GCTObject.get_column_meta('id')
 
-    # determine which categories (meta-data) will be included 
+    # determine which categories (meta-data) will be included
     # must be more than one unique category and the number of unique categories
     # must not equal the number of data points
     for inst_title in cat_titles[inst_rc]:
@@ -114,17 +114,17 @@ def load_file(filename):
 
       if num_unique_cats > 1 and num_unique_cats < num_data:
 
-        cat_info[inst_rc][inst_title] = inst_cats 
+        cat_info[inst_rc][inst_title] = inst_cats
 
 
-    # define metadata: names, categories with optional titles 
+    # define metadata: names, categories with optional titles
     meta_data[inst_rc] = []
     for i in range(len(names[inst_rc])):
 
-      # names and categories are stored in tuple in pandas df 
+      # names and categories are stored in tuple in pandas df
       name_tuple = ()
 
-      # get individual row/col name 
+      # get individual row/col name
       inst_name = names[inst_rc][i]
 
       name_tuple = name_tuple + (inst_name,)
@@ -143,23 +143,23 @@ def load_file(filename):
 
             name_tuple = name_tuple + (inst_cat_name,)
 
-      # write the entire tuple 
+      # write the entire tuple
       meta_data[inst_rc].append( name_tuple )
 
-  mat = GCTObject.matrix 
+  mat = GCTObject.matrix
 
 
-  tmp_df = pd.DataFrame(data=mat, columns=meta_data['col'], 
+  tmp_df = pd.DataFrame(data=mat, columns=meta_data['col'],
     index=meta_data['row'])
 
-  # # calc zscore of rows 
+  # # calc zscore of rows
   # df_z = (tmp_df - tmp_df.mean())/tmp_df.std()
 
   df = {}
   # df['mat'] = df_z
   df['mat'] = tmp_df
 
-  return df 
+  return df
 
 def merge_name_id(tmp_names, tmp_ids):
   new_names = []
@@ -173,11 +173,11 @@ def merge_name_id(tmp_names, tmp_ids):
 
   return new_names
 
-def process_GCT_export_tsv():
+def process_GCT_and_export_tsv():
   from clustergrammer import Network
 
   filename = 'gcts/LDS-1003.gct'
-  print('making viz from single GCT')
+  print('exporting processed GCT as tsv file')
 
   df = load_file(filename)
 
@@ -186,12 +186,12 @@ def process_GCT_export_tsv():
   net.df_to_dat(df)
   net.swap_nan_for_zero()
 
-  # zscore first to get the columns distributions to be similar 
+  # zscore first to get the columns distributions to be similar
   net.normalize(axis='col', norm_type='zscore', keep_orig=True)
 
   # filter the rows to keep the perts with the largest normalizes values
-  net.filter_N_top('row', 2000)
+  net.filter_N_top('row', 200)
 
-  net.write_matrix_to_tsv('txt/example_gct_export')
+  net.write_matrix_to_tsv('txt/example_gct_export.txt')
 
 main()

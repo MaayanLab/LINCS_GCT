@@ -1,9 +1,11 @@
 def main():
   import glob
 
-  all_paths = glob.glob('gcts/*')
+  all_paths = glob.glob('gcts-vis/*')
 
   for inst_filename in all_paths:
-    print(inst_filename)
+
+    name = inst_filename.split('/')[1].split('.gct')[0]
+    print(name)
 
 main()
