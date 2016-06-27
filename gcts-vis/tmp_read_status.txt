@@ -1,0 +1,71 @@
+KiNativ-vis
+did not work
+
+
+KINOMEScan-vis
+(483, 103)
+works
+
+
+LDS-1123-vis
+(39, 46)
+works
+
+
+LDS-1126-vis-1
+(1170, 6)
+works
+
+
+LDS-1126-vis-2
+did not work
+
+
+LDS-1196-vis
+(48, 90)
+works
+
+
+LDS-1209-vis
+(1750, 21)
+works
+
+
+LDS-1223-vis
+did not work
+
+
+LDS-1234-vis
+(160, 96)
+works
+
+
+LDS-1235-vis
+did not work
+
+
+LDS-1236-vis
+(161, 59)
+works
+
+
+LDS-1238-vis
+did not work
+
+
+LDS-1240-vis
+(2247, 26)
+works
+
+
+LDS-1264-vis
+(127, 94)
+works
+
+
+LDS-1265-vis
+(98, 53)
+works
+
+
+[Finished in 2.5s]
