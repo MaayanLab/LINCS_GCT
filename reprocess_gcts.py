@@ -1,7 +1,7 @@
 def main():
   import glob
 
-  all_paths = glob.glob('gcts-vis/*')
+  all_paths = glob.glob('gcts-vis/*.gct')
 
   for inst_filename in all_paths:
 
@@ -9,12 +9,12 @@ def main():
 
     print(name)
 
-    try:
-      df = load_file(inst_filename)
-      print('works')
+    # try:
+    df = load_file(inst_filename)
+    print('works')
 
-    except:
-      print('did not work')
+    # except:
+    #   print('did not work')
 
     print('\n')
 
