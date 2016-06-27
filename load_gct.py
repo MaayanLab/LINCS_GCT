@@ -1,30 +1,9 @@
   
 def main():
 
-  process_GCT_export_tsv()
+  # process_GCT_export_tsv()
 
   # make_all_gct_viz()
-
-def process_GCT_export_tsv():
-  from clustergrammer import Network
-
-  filename = 'gcts/LDS-1003.gct'
-  print('making viz from single GCT')
-
-  df = load_file(filename)
-
-  net = Network()
-
-  net.df_to_dat(df)
-  net.swap_nan_for_zero()
-
-  # zscore first to get the columns distributions to be similar 
-  net.normalize(axis='col', norm_type='zscore', keep_orig=True)
-
-  # filter the rows to keep the perts with the largest normalizes values
-  net.filter_N_top('row', 2000)
-
-  net.write_matrix_to_tsv('txt/example_gct_export')
 
 def make_all_gct_viz():
   import glob
@@ -193,5 +172,26 @@ def merge_name_id(tmp_names, tmp_ids):
     new_names.append(new_name)
 
   return new_names
+
+def process_GCT_export_tsv():
+  from clustergrammer import Network
+
+  filename = 'gcts/LDS-1003.gct'
+  print('making viz from single GCT')
+
+  df = load_file(filename)
+
+  net = Network()
+
+  net.df_to_dat(df)
+  net.swap_nan_for_zero()
+
+  # zscore first to get the columns distributions to be similar 
+  net.normalize(axis='col', norm_type='zscore', keep_orig=True)
+
+  # filter the rows to keep the perts with the largest normalizes values
+  net.filter_N_top('row', 2000)
+
+  net.write_matrix_to_tsv('txt/example_gct_export')
 
 main()
