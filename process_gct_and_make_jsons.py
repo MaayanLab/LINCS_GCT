@@ -9,7 +9,7 @@ def minimally_proc_gct_to_df():
 
   all_paths = glob.glob('gcts-vis/*.gct')
 
-  all_paths = all_paths[0:1]
+  # all_paths = all_paths[0:1]
 
   for inst_filename in all_paths:
 
@@ -22,7 +22,7 @@ def minimally_proc_gct_to_df():
     inst_df = gct_to_df(inst_gct)
 
     # save
-    filename = 'txt/tmp.tsv'
+    filename = 'txt/' + name + '.txt'
     inst_df.to_csv(filename, sep='\t')
 
     # except:
@@ -121,8 +121,6 @@ def get_meta_data(gct):
       all_titles = cat_titles[inst_rc]
 
       for inst_title in all_titles:
-
-        print(all_titles)
 
         if inst_title != 'ind':
 
