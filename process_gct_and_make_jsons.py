@@ -3,7 +3,7 @@ def main():
 
   all_paths = glob.glob('gcts-vis/*.gct')
 
-  all_paths = all_paths[0:2]
+  all_paths = all_paths[0:1]
 
   for inst_filename in all_paths:
 
@@ -43,22 +43,29 @@ def gct_to_df(gct):
 
   net = Network()
 
-
-
   meta_data = get_meta_data(gct)
 
   mat = gct.matrix
 
-  # tmp_df = pd.DataFrame(data=mat, columns=meta_data['col'],
-  #   index=meta_data['row'])
+  tmp_df = pd.DataFrame(data=mat, columns=meta_data['col'],
+    index=meta_data['row'])
 
+  # print('\n------------')
   # print(mat.shape)
-  # print(len(meta_data['col']))
+  # print('row')
   # print(len(meta_data['row']))
+  # print(meta_data['row'])
+  # print('\n')
+  # print('col')
+  # print(len(meta_data['col']))
+  # print(meta_data['col'])
 
   # print(tmp_df)
 
 def get_meta_data(gct):
+  '''
+  define the metadata/categories from the gcts
+  '''
   # generate unique names
   # may have to append name and id since names are not in general unique
   names = {}
@@ -77,7 +84,12 @@ def get_meta_data(gct):
     cat_info[inst_rc] = {}
 
     # tmp use ids, since they are unique
-    names[inst_rc] = gct.get_column_meta('id')
+    if inst_rc == 'row':
+      names[inst_rc] = gct.get_row_meta('id')
+    elif inst_rc == 'col':
+      names[inst_rc] = gct.get_column_meta('id')
+
+    # print(inst_rc + ' ' + str(len(cat_titles[inst_rc])) + '\n')
 
     # determine which categories (meta data) will be included
     # there must be more than one unique category and the number of unique
@@ -88,6 +100,9 @@ def get_meta_data(gct):
         inst_cats = gct.get_row_meta(inst_title)
       elif inst_rc == 'col':
         inst_cats = gct.get_column_meta(inst_title)
+
+      # print('\n' + inst_rc + ' title: ' + inst_title)
+      # print(len(inst_cats))
 
       num_data = len(inst_cats)
 
@@ -100,6 +115,10 @@ def get_meta_data(gct):
     # define metadata tuples
     # this includes names and categories with optional titles
     meta_data[inst_rc] = []
+
+    # print('\nnames length --------')
+
+    # print(len(names[inst_rc]))
 
     for i in range(len(names[inst_rc])):
 
@@ -126,6 +145,9 @@ def get_meta_data(gct):
 
       # save the entire tuple
       meta_data[inst_rc].append(name_tuple)
+
+
+    # print('check ' + str(len(meta_data[inst_rc])) )
 
   return meta_data
 
