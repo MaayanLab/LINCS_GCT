@@ -1,13 +1,27 @@
 def main():
-  minimally_proc_gct_to_df()
 
-def minimally_proc_gct_to_df():
+  # minimally_proc_gct_to_df('gcts-vis')
+  # minimally_proc_gct_to_df('gcts-orig')
+  # minimally_proc_gct_to_df('gcts-failed-orig')
+
+  filter_and_cluster_tsvs()
+
+def filter_and_cluster_tsvs():
+  '''
+  This will filter and cluster the tsvs that are saved in the /txt directory,
+  which have been made from the gcts.
+  '''
+
+  pass
+
+
+def minimally_proc_gct_to_df(inst_directory):
   '''
   minimally process (clean meta data) gcts and save as tsv files
   '''
   import glob
 
-  all_paths = glob.glob('gcts-vis/*.gct')
+  all_paths = glob.glob(inst_directory + '/*.gct')
 
   # all_paths = all_paths[0:1]
 
@@ -17,16 +31,16 @@ def minimally_proc_gct_to_df():
 
     print(name)
 
-    # try:
-    inst_gct = load_file(inst_filename)
-    inst_df = gct_to_df(inst_gct)
+    try:
+      inst_gct = load_file(inst_filename)
+      inst_df = gct_to_df(inst_gct)
 
-    # save
-    filename = 'txt/' + name + '.txt'
-    inst_df.to_csv(filename, sep='\t')
+      # save
+      filename = 'txt/' + name + '.txt'
+      inst_df.to_csv(filename, sep='\t')
 
-    # except:
-    #   print('did not work')
+    except:
+      print('did not work\n===============')
 
     print('\n')
 
@@ -135,17 +149,5 @@ def get_meta_data(gct):
       meta_data[inst_rc].append(name_tuple)
 
   return meta_data
-
-def merge_name_id(tmp_names, tmp_ids):
-  new_names = []
-  for i in range(len(tmp_names)):
-    inst_name = tmp_names[i]
-    inst_id = tmp_ids[i]
-
-    new_name = inst_name+'-'+inst_id
-
-    new_names.append(new_name)
-
-  return new_names
 
 main()
