@@ -1,8 +1,8 @@
 def main():
 
-  # minimally_proc_gct_to_df('gcts-vis')
-  # minimally_proc_gct_to_df('gcts-orig')
-  # minimally_proc_gct_to_df('gcts-failed-orig')
+  # minimally_proc_gct_to_tsv('gcts-vis')
+  # minimally_proc_gct_to_tsv('gcts-orig')
+  # minimally_proc_gct_to_tsv('gcts-failed-orig')
 
   filter_and_cluster_tsvs()
 
@@ -12,10 +12,47 @@ def filter_and_cluster_tsvs():
   which have been made from the gcts.
   '''
 
-  pass
+  make_json_from_tsv('KiNativ-vis')
+
+def make_json_from_tsv(name):
+  '''
+  make a clustergrammer json from a tsv file
+  '''
+  from clustergrammer import Network
+
+  print(name)
+
+  net = Network()
+
+  filename = 'txt/'+ name + '.txt'
+
+  net.load_file(filename)
+
+  net.swap_nan_for_zero()
+
+  # zscore first to get the columns distributions to be similar
+  net.normalize(axis='col', norm_type='zscore', keep_orig=True)
+
+  # filter the rows to keep the perts with the largest normalizes values
+  net.filter_N_top('row', 2000)
+
+  num_rows = net.dat['mat'].shape[0]
+  num_coluns = net.dat['mat'].shape[1]
+
+  if num_coluns < 50 and num_rows < 1000:
+
+    views = ['N_row_sum']
+    net.make_clust(dist_type='cos', views=views)
+
+    export_filename = 'json/' + name + '.json'
+
+    net.write_json_to_file('viz', export_filename)
+
+  else:
+    print('did not cluster, too many columns ')
 
 
-def minimally_proc_gct_to_df(inst_directory):
+def minimally_proc_gct_to_tsv(inst_directory):
   '''
   minimally process (clean meta data) gcts and save as tsv files
   '''
