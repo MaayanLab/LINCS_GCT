@@ -1,951 +1,951 @@
 	('averageVIPScore 0',)
-(' 0', 'clName: C32', 'timePoint: 1', 'variable: p-p90RSK(S380)')	
-(' 1', 'clName: C32', 'timePoint: 1', 'variable: p-p90RSK(T573)')	-0.083785
-(' 2', 'clName: C32', 'timePoint: 1', 'variable: p-AKT(T308)')	-0.30089
-(' 3', 'clName: C32', 'timePoint: 1', 'variable: p-AKT(S473)')	-0.76446
-(' 4', 'clName: C32', 'timePoint: 1', 'variable: p-mTOR(S2448)')	
-(' 5', 'clName: C32', 'timePoint: 1', 'variable: p-p70S6K(T421/S424)')	0.32858
-(' 6', 'clName: C32', 'timePoint: 1', 'variable: p-p70S6K(T389)')	
-(' 7', 'clName: C32', 'timePoint: 1', 'variable: p-S6(S235/236)')	0.39171
-(' 8', 'clName: C32', 'timePoint: 1', 'variable: p-AMPK(T172)')	-0.33118
-(' 9', 'clName: C32', 'timePoint: 1', 'variable: p-JNK(T183/Y185)')	0.25916
-(' 10', 'clName: C32', 'timePoint: 1', 'variable: Total c-Jun')	0.32059
-(' 11', 'clName: C32', 'timePoint: 1', 'variable: p-cJun(S63)')	
-(' 12', 'clName: C32', 'timePoint: 1', 'variable: p-P38(T180/Y182)')	0.58661
-(' 13', 'clName: C32', 'timePoint: 1', 'variable: p-HSP27(S82)')	
-(' 14', 'clName: C32', 'timePoint: 1', 'variable: p-NFKB(S536)')	0.37812
-(' 15', 'clName: C32', 'timePoint: 1', 'variable: Bim')	-0.066807
-(' 16', 'clName: C32', 'timePoint: 1', 'variable: cPARP')	0.30901
-(' 17', 'clName: C32', 'timePoint: 1', 'variable: p-Histone H3(S10)')	-0.15771
-(' 18', 'clName: C32', 'timePoint: 1', 'variable: p27 Kip1')	0.018919
-(' 19', 'clName: C32', 'timePoint: 5', 'variable: p-p90RSK(S380)')	
-(' 20', 'clName: C32', 'timePoint: 5', 'variable: p-p90RSK(T573)')	-0.42106
-(' 21', 'clName: C32', 'timePoint: 5', 'variable: p-AKT(T308)')	-0.60889
-(' 22', 'clName: C32', 'timePoint: 5', 'variable: p-AKT(S473)')	-1.0263
-(' 23', 'clName: C32', 'timePoint: 5', 'variable: p-mTOR(S2448)')	
-(' 24', 'clName: C32', 'timePoint: 5', 'variable: p-p70S6K(T421/S424)')	0.34501
-(' 25', 'clName: C32', 'timePoint: 5', 'variable: p-p70S6K(T389)')	
-(' 26', 'clName: C32', 'timePoint: 5', 'variable: p-S6(S235/236)')	0.80421
-(' 27', 'clName: C32', 'timePoint: 5', 'variable: p-AMPK(T172)')	-0.49728
-(' 28', 'clName: C32', 'timePoint: 5', 'variable: p-JNK(T183/Y185)')	-0.33016
-(' 29', 'clName: C32', 'timePoint: 5', 'variable: Total c-Jun')	1.0783
-(' 30', 'clName: C32', 'timePoint: 5', 'variable: p-cJun(S63)')	
-(' 31', 'clName: C32', 'timePoint: 5', 'variable: p-P38(T180/Y182)')	-0.47396
-(' 32', 'clName: C32', 'timePoint: 5', 'variable: p-HSP27(S82)')	
-(' 33', 'clName: C32', 'timePoint: 5', 'variable: p-NFKB(S536)')	0.64144
-(' 34', 'clName: C32', 'timePoint: 5', 'variable: Bim')	-0.72875
-(' 35', 'clName: C32', 'timePoint: 5', 'variable: cPARP')	0.10205
-(' 36', 'clName: C32', 'timePoint: 5', 'variable: p-Histone H3(S10)')	-0.33609
-(' 37', 'clName: C32', 'timePoint: 5', 'variable: p27 Kip1')	-0.36568
-(' 38', 'clName: C32', 'timePoint: 10', 'variable: p-p90RSK(S380)')	
-(' 39', 'clName: C32', 'timePoint: 10', 'variable: p-p90RSK(T573)')	-0.32086
-(' 40', 'clName: C32', 'timePoint: 10', 'variable: p-AKT(T308)')	-0.73599
-(' 41', 'clName: C32', 'timePoint: 10', 'variable: p-AKT(S473)')	-1.0779
-(' 42', 'clName: C32', 'timePoint: 10', 'variable: p-mTOR(S2448)')	
-(' 43', 'clName: C32', 'timePoint: 10', 'variable: p-p70S6K(T421/S424)')	0.53232
-(' 44', 'clName: C32', 'timePoint: 10', 'variable: p-p70S6K(T389)')	
-(' 45', 'clName: C32', 'timePoint: 10', 'variable: p-S6(S235/236)')	1.0221
-(' 46', 'clName: C32', 'timePoint: 10', 'variable: p-AMPK(T172)')	-0.33165
-(' 47', 'clName: C32', 'timePoint: 10', 'variable: p-JNK(T183/Y185)')	-0.23631
-(' 48', 'clName: C32', 'timePoint: 10', 'variable: Total c-Jun')	1.8229
-(' 49', 'clName: C32', 'timePoint: 10', 'variable: p-cJun(S63)')	
-(' 50', 'clName: C32', 'timePoint: 10', 'variable: p-P38(T180/Y182)')	-0.2397
-(' 51', 'clName: C32', 'timePoint: 10', 'variable: p-HSP27(S82)')	
-(' 52', 'clName: C32', 'timePoint: 10', 'variable: p-NFKB(S536)')	0.72615
-(' 53', 'clName: C32', 'timePoint: 10', 'variable: Bim')	-0.70591
-(' 54', 'clName: C32', 'timePoint: 10', 'variable: cPARP')	-0.2144
-(' 55', 'clName: C32', 'timePoint: 10', 'variable: p-Histone H3(S10)')	-0.29139
-(' 56', 'clName: C32', 'timePoint: 10', 'variable: p27 Kip1')	-0.77624
-(' 57', 'clName: C32', 'timePoint: 24', 'variable: p-p90RSK(S380)')	
-(' 58', 'clName: C32', 'timePoint: 24', 'variable: p-p90RSK(T573)')	0.37544
-(' 59', 'clName: C32', 'timePoint: 24', 'variable: p-AKT(T308)')	-1.208
-(' 60', 'clName: C32', 'timePoint: 24', 'variable: p-AKT(S473)')	-1.0008
-(' 61', 'clName: C32', 'timePoint: 24', 'variable: p-mTOR(S2448)')	
-(' 62', 'clName: C32', 'timePoint: 24', 'variable: p-p70S6K(T421/S424)')	1.398
-(' 63', 'clName: C32', 'timePoint: 24', 'variable: p-p70S6K(T389)')	
-(' 64', 'clName: C32', 'timePoint: 24', 'variable: p-S6(S235/236)')	1.2768
-(' 65', 'clName: C32', 'timePoint: 24', 'variable: p-AMPK(T172)')	-1.0207
-(' 66', 'clName: C32', 'timePoint: 24', 'variable: p-JNK(T183/Y185)')	-0.44703
-(' 67', 'clName: C32', 'timePoint: 24', 'variable: Total c-Jun')	1.3417
-(' 68', 'clName: C32', 'timePoint: 24', 'variable: p-cJun(S63)')	
-(' 69', 'clName: C32', 'timePoint: 24', 'variable: p-P38(T180/Y182)')	-0.76311
-(' 70', 'clName: C32', 'timePoint: 24', 'variable: p-HSP27(S82)')	
-(' 71', 'clName: C32', 'timePoint: 24', 'variable: p-NFKB(S536)')	-0.16232
-(' 72', 'clName: C32', 'timePoint: 24', 'variable: Bim')	-1.5588
-(' 73', 'clName: C32', 'timePoint: 24', 'variable: cPARP')	-1.0029
-(' 74', 'clName: C32', 'timePoint: 24', 'variable: p-Histone H3(S10)')	1.0116
-(' 75', 'clName: C32', 'timePoint: 24', 'variable: p27 Kip1')	-1.7921
-(' 76', 'clName: C32', 'timePoint: 48', 'variable: p-p90RSK(S380)')	
-(' 77', 'clName: C32', 'timePoint: 48', 'variable: p-p90RSK(T573)')	-0.68196
-(' 78', 'clName: C32', 'timePoint: 48', 'variable: p-AKT(T308)')	-2.0676
-(' 79', 'clName: C32', 'timePoint: 48', 'variable: p-AKT(S473)')	0.87427
-(' 80', 'clName: C32', 'timePoint: 48', 'variable: p-mTOR(S2448)')	
-(' 81', 'clName: C32', 'timePoint: 48', 'variable: p-p70S6K(T421/S424)')	1.3193
-(' 82', 'clName: C32', 'timePoint: 48', 'variable: p-p70S6K(T389)')	
-(' 83', 'clName: C32', 'timePoint: 48', 'variable: p-S6(S235/236)')	0.94756
-(' 84', 'clName: C32', 'timePoint: 48', 'variable: p-AMPK(T172)')	-2.4355
-(' 85', 'clName: C32', 'timePoint: 48', 'variable: p-JNK(T183/Y185)')	-0.47751
-(' 86', 'clName: C32', 'timePoint: 48', 'variable: Total c-Jun')	0.65195
-(' 87', 'clName: C32', 'timePoint: 48', 'variable: p-cJun(S63)')	
-(' 88', 'clName: C32', 'timePoint: 48', 'variable: p-P38(T180/Y182)')	-1.2007
-(' 89', 'clName: C32', 'timePoint: 48', 'variable: p-HSP27(S82)')	
-(' 90', 'clName: C32', 'timePoint: 48', 'variable: p-NFKB(S536)')	0.89789
-(' 91', 'clName: C32', 'timePoint: 48', 'variable: Bim')	-2.0912
-(' 92', 'clName: C32', 'timePoint: 48', 'variable: cPARP')	-2.7212
-(' 93', 'clName: C32', 'timePoint: 48', 'variable: p-Histone H3(S10)')	1.8878
-(' 94', 'clName: C32', 'timePoint: 48', 'variable: p27 Kip1')	-2.1425
-(' 95', 'clName: COLO 858', 'timePoint: 1', 'variable: p-p90RSK(S380)')	0.84691
-(' 96', 'clName: COLO 858', 'timePoint: 1', 'variable: p-p90RSK(T573)')	0.89866
-(' 97', 'clName: COLO 858', 'timePoint: 1', 'variable: p-AKT(T308)')	0.75851
-(' 98', 'clName: COLO 858', 'timePoint: 1', 'variable: p-AKT(S473)')	
-(' 99', 'clName: COLO 858', 'timePoint: 1', 'variable: p-mTOR(S2448)')	0.63295
-(' 100', 'clName: COLO 858', 'timePoint: 1', 'variable: p-p70S6K(T421/S424)')	0.86383
-(' 101', 'clName: COLO 858', 'timePoint: 1', 'variable: p-p70S6K(T389)')	
-(' 102', 'clName: COLO 858', 'timePoint: 1', 'variable: p-S6(S235/236)')	0.33607
-(' 103', 'clName: COLO 858', 'timePoint: 1', 'variable: p-AMPK(T172)')	0.3059
-(' 104', 'clName: COLO 858', 'timePoint: 1', 'variable: p-JNK(T183/Y185)')	0.76476
-(' 105', 'clName: COLO 858', 'timePoint: 1', 'variable: Total c-Jun')	0.80793
-(' 106', 'clName: COLO 858', 'timePoint: 1', 'variable: p-cJun(S63)')	0.59998
-(' 107', 'clName: COLO 858', 'timePoint: 1', 'variable: p-P38(T180/Y182)')	1.2019
-(' 108', 'clName: COLO 858', 'timePoint: 1', 'variable: p-HSP27(S82)')	0.69943
-(' 109', 'clName: COLO 858', 'timePoint: 1', 'variable: p-NFKB(S536)')	0.58301
-(' 110', 'clName: COLO 858', 'timePoint: 1', 'variable: Bim')	0.65979
-(' 111', 'clName: COLO 858', 'timePoint: 1', 'variable: cPARP')	0.39988
-(' 112', 'clName: COLO 858', 'timePoint: 1', 'variable: p-Histone H3(S10)')	0.19602
-(' 113', 'clName: COLO 858', 'timePoint: 1', 'variable: p27 Kip1')	0.17306
-(' 114', 'clName: COLO 858', 'timePoint: 5', 'variable: p-p90RSK(S380)')	
-(' 115', 'clName: COLO 858', 'timePoint: 5', 'variable: p-p90RSK(T573)')	
-(' 116', 'clName: COLO 858', 'timePoint: 5', 'variable: p-AKT(T308)')	-0.90247
-(' 117', 'clName: COLO 858', 'timePoint: 5', 'variable: p-AKT(S473)')	-1.0409
-(' 118', 'clName: COLO 858', 'timePoint: 5', 'variable: p-mTOR(S2448)')	-1.0187
-(' 119', 'clName: COLO 858', 'timePoint: 5', 'variable: p-p70S6K(T421/S424)')	-0.54722
-(' 120', 'clName: COLO 858', 'timePoint: 5', 'variable: p-p70S6K(T389)')	
-(' 121', 'clName: COLO 858', 'timePoint: 5', 'variable: p-S6(S235/236)')	0.65771
-(' 122', 'clName: COLO 858', 'timePoint: 5', 'variable: p-AMPK(T172)')	-0.32007
-(' 123', 'clName: COLO 858', 'timePoint: 5', 'variable: p-JNK(T183/Y185)')	-0.80949
-(' 124', 'clName: COLO 858', 'timePoint: 5', 'variable: Total c-Jun')	-0.22071
-(' 125', 'clName: COLO 858', 'timePoint: 5', 'variable: p-cJun(S63)')	-0.40755
-(' 126', 'clName: COLO 858', 'timePoint: 5', 'variable: p-P38(T180/Y182)')	-0.24703
-(' 127', 'clName: COLO 858', 'timePoint: 5', 'variable: p-HSP27(S82)')	
-(' 128', 'clName: COLO 858', 'timePoint: 5', 'variable: p-NFKB(S536)')	-0.41318
-(' 129', 'clName: COLO 858', 'timePoint: 5', 'variable: Bim')	-0.72585
-(' 130', 'clName: COLO 858', 'timePoint: 5', 'variable: cPARP')	-0.68373
-(' 131', 'clName: COLO 858', 'timePoint: 5', 'variable: p-Histone H3(S10)')	-0.51744
-(' 132', 'clName: COLO 858', 'timePoint: 5', 'variable: p27 Kip1')	-0.3912
-(' 133', 'clName: COLO 858', 'timePoint: 10', 'variable: p-p90RSK(S380)')	1.0813
-(' 134', 'clName: COLO 858', 'timePoint: 10', 'variable: p-p90RSK(T573)')	0.71089
-(' 135', 'clName: COLO 858', 'timePoint: 10', 'variable: p-AKT(T308)')	0.47347
-(' 136', 'clName: COLO 858', 'timePoint: 10', 'variable: p-AKT(S473)')	
-(' 137', 'clName: COLO 858', 'timePoint: 10', 'variable: p-mTOR(S2448)')	0.50348
-(' 138', 'clName: COLO 858', 'timePoint: 10', 'variable: p-p70S6K(T421/S424)')	0.8483
-(' 139', 'clName: COLO 858', 'timePoint: 10', 'variable: p-p70S6K(T389)')	
-(' 140', 'clName: COLO 858', 'timePoint: 10', 'variable: p-S6(S235/236)')	1.5274
-(' 141', 'clName: COLO 858', 'timePoint: 10', 'variable: p-AMPK(T172)')	0.64494
-(' 142', 'clName: COLO 858', 'timePoint: 10', 'variable: p-JNK(T183/Y185)')	0.49441
-(' 143', 'clName: COLO 858', 'timePoint: 10', 'variable: Total c-Jun')	
-(' 144', 'clName: COLO 858', 'timePoint: 10', 'variable: p-cJun(S63)')	
-(' 145', 'clName: COLO 858', 'timePoint: 10', 'variable: p-P38(T180/Y182)')	0.57024
-(' 146', 'clName: COLO 858', 'timePoint: 10', 'variable: p-HSP27(S82)')	0.62454
-(' 147', 'clName: COLO 858', 'timePoint: 10', 'variable: p-NFKB(S536)')	1.9888
-(' 148', 'clName: COLO 858', 'timePoint: 10', 'variable: Bim')	-0.23495
-(' 149', 'clName: COLO 858', 'timePoint: 10', 'variable: cPARP')	
-(' 150', 'clName: COLO 858', 'timePoint: 10', 'variable: p-Histone H3(S10)')	
-(' 151', 'clName: COLO 858', 'timePoint: 10', 'variable: p27 Kip1')	-0.3484
-(' 152', 'clName: COLO 858', 'timePoint: 24', 'variable: p-p90RSK(S380)')	-0.38937
-(' 153', 'clName: COLO 858', 'timePoint: 24', 'variable: p-p90RSK(T573)')	
-(' 154', 'clName: COLO 858', 'timePoint: 24', 'variable: p-AKT(T308)')	-1.4793
-(' 155', 'clName: COLO 858', 'timePoint: 24', 'variable: p-AKT(S473)')	-0.93153
-(' 156', 'clName: COLO 858', 'timePoint: 24', 'variable: p-mTOR(S2448)')	-0.79573
-(' 157', 'clName: COLO 858', 'timePoint: 24', 'variable: p-p70S6K(T421/S424)')	0.23993
-(' 158', 'clName: COLO 858', 'timePoint: 24', 'variable: p-p70S6K(T389)')	
-(' 159', 'clName: COLO 858', 'timePoint: 24', 'variable: p-S6(S235/236)')	1.4411
-(' 160', 'clName: COLO 858', 'timePoint: 24', 'variable: p-AMPK(T172)')	-0.47678
-(' 161', 'clName: COLO 858', 'timePoint: 24', 'variable: p-JNK(T183/Y185)')	-1.7943
-(' 162', 'clName: COLO 858', 'timePoint: 24', 'variable: Total c-Jun')	-1.4354
-(' 163', 'clName: COLO 858', 'timePoint: 24', 'variable: p-cJun(S63)')	-1.5487
-(' 164', 'clName: COLO 858', 'timePoint: 24', 'variable: p-P38(T180/Y182)')	-0.59726
-(' 165', 'clName: COLO 858', 'timePoint: 24', 'variable: p-HSP27(S82)')	-0.63952
-(' 166', 'clName: COLO 858', 'timePoint: 24', 'variable: p-NFKB(S536)')	0.80521
-(' 167', 'clName: COLO 858', 'timePoint: 24', 'variable: Bim')	-1.9096
-(' 168', 'clName: COLO 858', 'timePoint: 24', 'variable: cPARP')	-1.5126
-(' 169', 'clName: COLO 858', 'timePoint: 24', 'variable: p-Histone H3(S10)')	1.2678
-(' 170', 'clName: COLO 858', 'timePoint: 24', 'variable: p27 Kip1')	-2.0272
-(' 171', 'clName: COLO 858', 'timePoint: 48', 'variable: p-p90RSK(S380)')	
-(' 172', 'clName: COLO 858', 'timePoint: 48', 'variable: p-p90RSK(T573)')	0.99705
-(' 173', 'clName: COLO 858', 'timePoint: 48', 'variable: p-AKT(T308)')	
-(' 174', 'clName: COLO 858', 'timePoint: 48', 'variable: p-AKT(S473)')	
-(' 175', 'clName: COLO 858', 'timePoint: 48', 'variable: p-mTOR(S2448)')	
-(' 176', 'clName: COLO 858', 'timePoint: 48', 'variable: p-p70S6K(T421/S424)')	1.9582
-(' 177', 'clName: COLO 858', 'timePoint: 48', 'variable: p-p70S6K(T389)')	-1.0544
-(' 178', 'clName: COLO 858', 'timePoint: 48', 'variable: p-S6(S235/236)')	0.87001
-(' 179', 'clName: COLO 858', 'timePoint: 48', 'variable: p-AMPK(T172)')	
-(' 180', 'clName: COLO 858', 'timePoint: 48', 'variable: p-JNK(T183/Y185)')	
-(' 181', 'clName: COLO 858', 'timePoint: 48', 'variable: Total c-Jun')	-1.4025
-(' 182', 'clName: COLO 858', 'timePoint: 48', 'variable: p-cJun(S63)')	-1.6239
-(' 183', 'clName: COLO 858', 'timePoint: 48', 'variable: p-P38(T180/Y182)')	
-(' 184', 'clName: COLO 858', 'timePoint: 48', 'variable: p-HSP27(S82)')	
-(' 185', 'clName: COLO 858', 'timePoint: 48', 'variable: p-NFKB(S536)')	0.77663
-(' 186', 'clName: COLO 858', 'timePoint: 48', 'variable: Bim')	
-(' 187', 'clName: COLO 858', 'timePoint: 48', 'variable: cPARP')	-1.2988
-(' 188', 'clName: COLO 858', 'timePoint: 48', 'variable: p-Histone H3(S10)')	2.1972
-(' 189', 'clName: COLO 858', 'timePoint: 48', 'variable: p27 Kip1')	-1.3451
-(' 190', 'clName: K2', 'timePoint: 1', 'variable: p-p90RSK(S380)')	0.55581
-(' 191', 'clName: K2', 'timePoint: 1', 'variable: p-p90RSK(T573)')	0.42261
-(' 192', 'clName: K2', 'timePoint: 1', 'variable: p-AKT(T308)')	0.55656
-(' 193', 'clName: K2', 'timePoint: 1', 'variable: p-AKT(S473)')	-0.19537
-(' 194', 'clName: K2', 'timePoint: 1', 'variable: p-mTOR(S2448)')	0.33846
-(' 195', 'clName: K2', 'timePoint: 1', 'variable: p-p70S6K(T421/S424)')	0.65733
-(' 196', 'clName: K2', 'timePoint: 1', 'variable: p-p70S6K(T389)')	0.34604
-(' 197', 'clName: K2', 'timePoint: 1', 'variable: p-S6(S235/236)')	
-(' 198', 'clName: K2', 'timePoint: 1', 'variable: p-AMPK(T172)')	0.22097
-(' 199', 'clName: K2', 'timePoint: 1', 'variable: p-JNK(T183/Y185)')	0.51643
-(' 200', 'clName: K2', 'timePoint: 1', 'variable: Total c-Jun')	0.43366
-(' 201', 'clName: K2', 'timePoint: 1', 'variable: p-cJun(S63)')	0.2854
-(' 202', 'clName: K2', 'timePoint: 1', 'variable: p-P38(T180/Y182)')	0.54415
-(' 203', 'clName: K2', 'timePoint: 1', 'variable: p-HSP27(S82)')	0.25698
-(' 204', 'clName: K2', 'timePoint: 1', 'variable: p-NFKB(S536)')	0.69767
-(' 205', 'clName: K2', 'timePoint: 1', 'variable: Bim')	
-(' 206', 'clName: K2', 'timePoint: 1', 'variable: cPARP')	0.24549
-(' 207', 'clName: K2', 'timePoint: 1', 'variable: p-Histone H3(S10)')	
-(' 208', 'clName: K2', 'timePoint: 1', 'variable: p27 Kip1')	0.10019
-(' 209', 'clName: K2', 'timePoint: 5', 'variable: p-p90RSK(S380)')	
-(' 210', 'clName: K2', 'timePoint: 5', 'variable: p-p90RSK(T573)')	
-(' 211', 'clName: K2', 'timePoint: 5', 'variable: p-AKT(T308)')	1.0187
-(' 212', 'clName: K2', 'timePoint: 5', 'variable: p-AKT(S473)')	-0.53378
-(' 213', 'clName: K2', 'timePoint: 5', 'variable: p-mTOR(S2448)')	
-(' 214', 'clName: K2', 'timePoint: 5', 'variable: p-p70S6K(T421/S424)')	-0.40054
-(' 215', 'clName: K2', 'timePoint: 5', 'variable: p-p70S6K(T389)')	0.69697
-(' 216', 'clName: K2', 'timePoint: 5', 'variable: p-S6(S235/236)')	0.56096
-(' 217', 'clName: K2', 'timePoint: 5', 'variable: p-AMPK(T172)')	-0.69477
-(' 218', 'clName: K2', 'timePoint: 5', 'variable: p-JNK(T183/Y185)')	
-(' 219', 'clName: K2', 'timePoint: 5', 'variable: Total c-Jun')	0.97545
-(' 220', 'clName: K2', 'timePoint: 5', 'variable: p-cJun(S63)')	0.60521
-(' 221', 'clName: K2', 'timePoint: 5', 'variable: p-P38(T180/Y182)')	
-(' 222', 'clName: K2', 'timePoint: 5', 'variable: p-HSP27(S82)')	-0.30678
-(' 223', 'clName: K2', 'timePoint: 5', 'variable: p-NFKB(S536)')	-0.6853
-(' 224', 'clName: K2', 'timePoint: 5', 'variable: Bim')	-0.60094
-(' 225', 'clName: K2', 'timePoint: 5', 'variable: cPARP')	-0.49113
-(' 226', 'clName: K2', 'timePoint: 5', 'variable: p-Histone H3(S10)')	-0.35441
-(' 227', 'clName: K2', 'timePoint: 5', 'variable: p27 Kip1')	-0.29404
-(' 228', 'clName: K2', 'timePoint: 10', 'variable: p-p90RSK(S380)')	1.1152
-(' 229', 'clName: K2', 'timePoint: 10', 'variable: p-p90RSK(T573)')	0.78331
-(' 230', 'clName: K2', 'timePoint: 10', 'variable: p-AKT(T308)')	1.2519
-(' 231', 'clName: K2', 'timePoint: 10', 'variable: p-AKT(S473)')	-0.67104
-(' 232', 'clName: K2', 'timePoint: 10', 'variable: p-mTOR(S2448)')	1.1151
-(' 233', 'clName: K2', 'timePoint: 10', 'variable: p-p70S6K(T421/S424)')	1.3395
-(' 234', 'clName: K2', 'timePoint: 10', 'variable: p-p70S6K(T389)')	1.2487
-(' 235', 'clName: K2', 'timePoint: 10', 'variable: p-S6(S235/236)')	1.4936
-(' 236', 'clName: K2', 'timePoint: 10', 'variable: p-AMPK(T172)')	0.75776
-(' 237', 'clName: K2', 'timePoint: 10', 'variable: p-JNK(T183/Y185)')	1.0753
-(' 238', 'clName: K2', 'timePoint: 10', 'variable: Total c-Jun')	1.3454
-(' 239', 'clName: K2', 'timePoint: 10', 'variable: p-cJun(S63)')	1.1284
-(' 240', 'clName: K2', 'timePoint: 10', 'variable: p-P38(T180/Y182)')	0.60218
-(' 241', 'clName: K2', 'timePoint: 10', 'variable: p-HSP27(S82)')	0.4945
-(' 242', 'clName: K2', 'timePoint: 10', 'variable: p-NFKB(S536)')	0.49598
-(' 243', 'clName: K2', 'timePoint: 10', 'variable: Bim')	-0.18648
-(' 244', 'clName: K2', 'timePoint: 10', 'variable: cPARP')	0.75419
-(' 245', 'clName: K2', 'timePoint: 10', 'variable: p-Histone H3(S10)')	-0.23635
-(' 246', 'clName: K2', 'timePoint: 10', 'variable: p27 Kip1')	-0.48401
-(' 247', 'clName: K2', 'timePoint: 24', 'variable: p-p90RSK(S380)')	
-(' 248', 'clName: K2', 'timePoint: 24', 'variable: p-p90RSK(T573)')	
-(' 249', 'clName: K2', 'timePoint: 24', 'variable: p-AKT(T308)')	0.99821
-(' 250', 'clName: K2', 'timePoint: 24', 'variable: p-AKT(S473)')	-1.4107
-(' 251', 'clName: K2', 'timePoint: 24', 'variable: p-mTOR(S2448)')	
-(' 252', 'clName: K2', 'timePoint: 24', 'variable: p-p70S6K(T421/S424)')	-0.71005
-(' 253', 'clName: K2', 'timePoint: 24', 'variable: p-p70S6K(T389)')	1.1223
-(' 254', 'clName: K2', 'timePoint: 24', 'variable: p-S6(S235/236)')	1.4344
-(' 255', 'clName: K2', 'timePoint: 24', 'variable: p-AMPK(T172)')	0.43714
-(' 256', 'clName: K2', 'timePoint: 24', 'variable: p-JNK(T183/Y185)')	
-(' 257', 'clName: K2', 'timePoint: 24', 'variable: Total c-Jun')	
-(' 258', 'clName: K2', 'timePoint: 24', 'variable: p-cJun(S63)')	-0.32196
-(' 259', 'clName: K2', 'timePoint: 24', 'variable: p-P38(T180/Y182)')	
-(' 260', 'clName: K2', 'timePoint: 24', 'variable: p-HSP27(S82)')	-1.0721
-(' 261', 'clName: K2', 'timePoint: 24', 'variable: p-NFKB(S536)')	-1.319
-(' 262', 'clName: K2', 'timePoint: 24', 'variable: Bim')	-1.1621
-(' 263', 'clName: K2', 'timePoint: 24', 'variable: cPARP')	-1.399
-(' 264', 'clName: K2', 'timePoint: 24', 'variable: p-Histone H3(S10)')	0.97109
-(' 265', 'clName: K2', 'timePoint: 24', 'variable: p27 Kip1')	-1.7021
-(' 266', 'clName: K2', 'timePoint: 48', 'variable: p-p90RSK(S380)')	
-(' 267', 'clName: K2', 'timePoint: 48', 'variable: p-p90RSK(T573)')	
-(' 268', 'clName: K2', 'timePoint: 48', 'variable: p-AKT(T308)')	0.70166
-(' 269', 'clName: K2', 'timePoint: 48', 'variable: p-AKT(S473)')	-1.9519
-(' 270', 'clName: K2', 'timePoint: 48', 'variable: p-mTOR(S2448)')	
-(' 271', 'clName: K2', 'timePoint: 48', 'variable: p-p70S6K(T421/S424)')	-1.2344
-(' 272', 'clName: K2', 'timePoint: 48', 'variable: p-p70S6K(T389)')	
-(' 273', 'clName: K2', 'timePoint: 48', 'variable: p-S6(S235/236)')	1.0672
-(' 274', 'clName: K2', 'timePoint: 48', 'variable: p-AMPK(T172)')	-1.3326
-(' 275', 'clName: K2', 'timePoint: 48', 'variable: p-JNK(T183/Y185)')	
-(' 276', 'clName: K2', 'timePoint: 48', 'variable: Total c-Jun')	-1.0968
-(' 277', 'clName: K2', 'timePoint: 48', 'variable: p-cJun(S63)')	-1.8839
-(' 278', 'clName: K2', 'timePoint: 48', 'variable: p-P38(T180/Y182)')	
-(' 279', 'clName: K2', 'timePoint: 48', 'variable: p-HSP27(S82)')	-1.8686
-(' 280', 'clName: K2', 'timePoint: 48', 'variable: p-NFKB(S536)')	-1.749
-(' 281', 'clName: K2', 'timePoint: 48', 'variable: Bim')	-1.0357
-(' 282', 'clName: K2', 'timePoint: 48', 'variable: cPARP')	-1.6829
-(' 283', 'clName: K2', 'timePoint: 48', 'variable: p-Histone H3(S10)')	1.8236
-(' 284', 'clName: K2', 'timePoint: 48', 'variable: p27 Kip1')	-1.9515
-(' 285', 'clName: LOXIMVI', 'timePoint: 1', 'variable: p-p90RSK(S380)')	0.79999
-(' 286', 'clName: LOXIMVI', 'timePoint: 1', 'variable: p-p90RSK(T573)')	
-(' 287', 'clName: LOXIMVI', 'timePoint: 1', 'variable: p-AKT(T308)')	-0.27996
-(' 288', 'clName: LOXIMVI', 'timePoint: 1', 'variable: p-AKT(S473)')	-1.2123
-(' 289', 'clName: LOXIMVI', 'timePoint: 1', 'variable: p-mTOR(S2448)')	
-(' 290', 'clName: LOXIMVI', 'timePoint: 1', 'variable: p-p70S6K(T421/S424)')	1.3106
-(' 291', 'clName: LOXIMVI', 'timePoint: 1', 'variable: p-p70S6K(T389)')	0.5316
-(' 292', 'clName: LOXIMVI', 'timePoint: 1', 'variable: p-S6(S235/236)')	0.19297
-(' 293', 'clName: LOXIMVI', 'timePoint: 1', 'variable: p-AMPK(T172)')	
-(' 294', 'clName: LOXIMVI', 'timePoint: 1', 'variable: p-JNK(T183/Y185)')	1.1096
-(' 295', 'clName: LOXIMVI', 'timePoint: 1', 'variable: Total c-Jun')	0.45006
-(' 296', 'clName: LOXIMVI', 'timePoint: 1', 'variable: p-cJun(S63)')	
-(' 297', 'clName: LOXIMVI', 'timePoint: 1', 'variable: p-P38(T180/Y182)')	2.3337
-(' 298', 'clName: LOXIMVI', 'timePoint: 1', 'variable: p-HSP27(S82)')	1.0195
-(' 299', 'clName: LOXIMVI', 'timePoint: 1', 'variable: p-NFKB(S536)')	1.0274
-(' 300', 'clName: LOXIMVI', 'timePoint: 1', 'variable: Bim')	0.56722
-(' 301', 'clName: LOXIMVI', 'timePoint: 1', 'variable: cPARP')	
-(' 302', 'clName: LOXIMVI', 'timePoint: 1', 'variable: p-Histone H3(S10)')	-0.38163
-(' 303', 'clName: LOXIMVI', 'timePoint: 1', 'variable: p27 Kip1')	0.51672
-(' 304', 'clName: LOXIMVI', 'timePoint: 5', 'variable: p-p90RSK(S380)')	-0.62545
-(' 305', 'clName: LOXIMVI', 'timePoint: 5', 'variable: p-p90RSK(T573)')	0.18547
-(' 306', 'clName: LOXIMVI', 'timePoint: 5', 'variable: p-AKT(T308)')	0.42531
-(' 307', 'clName: LOXIMVI', 'timePoint: 5', 'variable: p-AKT(S473)')	-1.3605
-(' 308', 'clName: LOXIMVI', 'timePoint: 5', 'variable: p-mTOR(S2448)')	
-(' 309', 'clName: LOXIMVI', 'timePoint: 5', 'variable: p-p70S6K(T421/S424)')	-1.1133
-(' 310', 'clName: LOXIMVI', 'timePoint: 5', 'variable: p-p70S6K(T389)')	
-(' 311', 'clName: LOXIMVI', 'timePoint: 5', 'variable: p-S6(S235/236)')	0.40293
-(' 312', 'clName: LOXIMVI', 'timePoint: 5', 'variable: p-AMPK(T172)')	-0.56008
-(' 313', 'clName: LOXIMVI', 'timePoint: 5', 'variable: p-JNK(T183/Y185)')	
-(' 314', 'clName: LOXIMVI', 'timePoint: 5', 'variable: Total c-Jun')	0.61308
-(' 315', 'clName: LOXIMVI', 'timePoint: 5', 'variable: p-cJun(S63)')	-1.4161
-(' 316', 'clName: LOXIMVI', 'timePoint: 5', 'variable: p-P38(T180/Y182)')	
-(' 317', 'clName: LOXIMVI', 'timePoint: 5', 'variable: p-HSP27(S82)')	-0.79216
-(' 318', 'clName: LOXIMVI', 'timePoint: 5', 'variable: p-NFKB(S536)')	-2.3072
-(' 319', 'clName: LOXIMVI', 'timePoint: 5', 'variable: Bim')	-0.90854
-(' 320', 'clName: LOXIMVI', 'timePoint: 5', 'variable: cPARP')	-0.79855
-(' 321', 'clName: LOXIMVI', 'timePoint: 5', 'variable: p-Histone H3(S10)')	-0.50964
-(' 322', 'clName: LOXIMVI', 'timePoint: 5', 'variable: p27 Kip1')	
-(' 323', 'clName: LOXIMVI', 'timePoint: 10', 'variable: p-p90RSK(S380)')	1.0586
-(' 324', 'clName: LOXIMVI', 'timePoint: 10', 'variable: p-p90RSK(T573)')	0.8808
-(' 325', 'clName: LOXIMVI', 'timePoint: 10', 'variable: p-AKT(T308)')	0.51167
-(' 326', 'clName: LOXIMVI', 'timePoint: 10', 'variable: p-AKT(S473)')	
-(' 327', 'clName: LOXIMVI', 'timePoint: 10', 'variable: p-mTOR(S2448)')	1.3808
-(' 328', 'clName: LOXIMVI', 'timePoint: 10', 'variable: p-p70S6K(T421/S424)')	1.3338
-(' 329', 'clName: LOXIMVI', 'timePoint: 10', 'variable: p-p70S6K(T389)')	1.2035
-(' 330', 'clName: LOXIMVI', 'timePoint: 10', 'variable: p-S6(S235/236)')	0.80947
-(' 331', 'clName: LOXIMVI', 'timePoint: 10', 'variable: p-AMPK(T172)')	0.73765
-(' 332', 'clName: LOXIMVI', 'timePoint: 10', 'variable: p-JNK(T183/Y185)')	0.7284
-(' 333', 'clName: LOXIMVI', 'timePoint: 10', 'variable: Total c-Jun')	1.1006
-(' 334', 'clName: LOXIMVI', 'timePoint: 10', 'variable: p-cJun(S63)')	
-(' 335', 'clName: LOXIMVI', 'timePoint: 10', 'variable: p-P38(T180/Y182)')	1.1119
-(' 336', 'clName: LOXIMVI', 'timePoint: 10', 'variable: p-HSP27(S82)')	1.1897
-(' 337', 'clName: LOXIMVI', 'timePoint: 10', 'variable: p-NFKB(S536)')	0.82367
-(' 338', 'clName: LOXIMVI', 'timePoint: 10', 'variable: Bim')	0.60869
-(' 339', 'clName: LOXIMVI', 'timePoint: 10', 'variable: cPARP')	0.54372
-(' 340', 'clName: LOXIMVI', 'timePoint: 10', 'variable: p-Histone H3(S10)')	0.16044
-(' 341', 'clName: LOXIMVI', 'timePoint: 10', 'variable: p27 Kip1')	
-(' 342', 'clName: LOXIMVI', 'timePoint: 24', 'variable: p-p90RSK(S380)')	0.99998
-(' 343', 'clName: LOXIMVI', 'timePoint: 24', 'variable: p-p90RSK(T573)')	1.496
-(' 344', 'clName: LOXIMVI', 'timePoint: 24', 'variable: p-AKT(T308)')	1.4455
-(' 345', 'clName: LOXIMVI', 'timePoint: 24', 'variable: p-AKT(S473)')	-0.66718
-(' 346', 'clName: LOXIMVI', 'timePoint: 24', 'variable: p-mTOR(S2448)')	0.86508
-(' 347', 'clName: LOXIMVI', 'timePoint: 24', 'variable: p-p70S6K(T421/S424)')	-0.47196
-(' 348', 'clName: LOXIMVI', 'timePoint: 24', 'variable: p-p70S6K(T389)')	0.80346
-(' 349', 'clName: LOXIMVI', 'timePoint: 24', 'variable: p-S6(S235/236)')	1.031
-(' 350', 'clName: LOXIMVI', 'timePoint: 24', 'variable: p-AMPK(T172)')	-0.6352
-(' 351', 'clName: LOXIMVI', 'timePoint: 24', 'variable: p-JNK(T183/Y185)')	
-(' 352', 'clName: LOXIMVI', 'timePoint: 24', 'variable: Total c-Jun')	1.254
-(' 353', 'clName: LOXIMVI', 'timePoint: 24', 'variable: p-cJun(S63)')	
-(' 354', 'clName: LOXIMVI', 'timePoint: 24', 'variable: p-P38(T180/Y182)')	0.74572
-(' 355', 'clName: LOXIMVI', 'timePoint: 24', 'variable: p-HSP27(S82)')	0.057872
-(' 356', 'clName: LOXIMVI', 'timePoint: 24', 'variable: p-NFKB(S536)')	-0.66655
-(' 357', 'clName: LOXIMVI', 'timePoint: 24', 'variable: Bim')	
-(' 358', 'clName: LOXIMVI', 'timePoint: 24', 'variable: cPARP')	
-(' 359', 'clName: LOXIMVI', 'timePoint: 24', 'variable: p-Histone H3(S10)')	2.2826
-(' 360', 'clName: LOXIMVI', 'timePoint: 24', 'variable: p27 Kip1')	-0.95217
-(' 361', 'clName: LOXIMVI', 'timePoint: 48', 'variable: p-p90RSK(S380)')	0.85142
-(' 362', 'clName: LOXIMVI', 'timePoint: 48', 'variable: p-p90RSK(T573)')	0.78878
-(' 363', 'clName: LOXIMVI', 'timePoint: 48', 'variable: p-AKT(T308)')	1.1951
-(' 364', 'clName: LOXIMVI', 'timePoint: 48', 'variable: p-AKT(S473)')	1.6684
-(' 365', 'clName: LOXIMVI', 'timePoint: 48', 'variable: p-mTOR(S2448)')	0.8421
-(' 366', 'clName: LOXIMVI', 'timePoint: 48', 'variable: p-p70S6K(T421/S424)')	0.79744
-(' 367', 'clName: LOXIMVI', 'timePoint: 48', 'variable: p-p70S6K(T389)')	0.66219
-(' 368', 'clName: LOXIMVI', 'timePoint: 48', 'variable: p-S6(S235/236)')	-0.81001
-(' 369', 'clName: LOXIMVI', 'timePoint: 48', 'variable: p-AMPK(T172)')	-0.83515
-(' 370', 'clName: LOXIMVI', 'timePoint: 48', 'variable: p-JNK(T183/Y185)')	0.76336
-(' 371', 'clName: LOXIMVI', 'timePoint: 48', 'variable: Total c-Jun')	0.71259
-(' 372', 'clName: LOXIMVI', 'timePoint: 48', 'variable: p-cJun(S63)')	-0.8232
-(' 373', 'clName: LOXIMVI', 'timePoint: 48', 'variable: p-P38(T180/Y182)')	0.40864
-(' 374', 'clName: LOXIMVI', 'timePoint: 48', 'variable: p-HSP27(S82)')	0.37526
-(' 375', 'clName: LOXIMVI', 'timePoint: 48', 'variable: p-NFKB(S536)')	-1.2799
-(' 376', 'clName: LOXIMVI', 'timePoint: 48', 'variable: Bim')	-1.0135
-(' 377', 'clName: LOXIMVI', 'timePoint: 48', 'variable: cPARP')	0.74425
-(' 378', 'clName: LOXIMVI', 'timePoint: 48', 'variable: p-Histone H3(S10)')	2.3609
-(' 379', 'clName: LOXIMVI', 'timePoint: 48', 'variable: p27 Kip1')	-0.67224
-(' 380', 'clName: MMAC-SF', 'timePoint: 1', 'variable: p-p90RSK(S380)')	0.99779
-(' 381', 'clName: MMAC-SF', 'timePoint: 1', 'variable: p-p90RSK(T573)')	0.5515
-(' 382', 'clName: MMAC-SF', 'timePoint: 1', 'variable: p-AKT(T308)')	0.29854
-(' 383', 'clName: MMAC-SF', 'timePoint: 1', 'variable: p-AKT(S473)')	
-(' 384', 'clName: MMAC-SF', 'timePoint: 1', 'variable: p-mTOR(S2448)')	0.61775
-(' 385', 'clName: MMAC-SF', 'timePoint: 1', 'variable: p-p70S6K(T421/S424)')	1.0216
-(' 386', 'clName: MMAC-SF', 'timePoint: 1', 'variable: p-p70S6K(T389)')	0.71001
-(' 387', 'clName: MMAC-SF', 'timePoint: 1', 'variable: p-S6(S235/236)')	0.36388
-(' 388', 'clName: MMAC-SF', 'timePoint: 1', 'variable: p-AMPK(T172)')	0.70575
-(' 389', 'clName: MMAC-SF', 'timePoint: 1', 'variable: p-JNK(T183/Y185)')	0.80535
-(' 390', 'clName: MMAC-SF', 'timePoint: 1', 'variable: Total c-Jun')	0.83757
-(' 391', 'clName: MMAC-SF', 'timePoint: 1', 'variable: p-cJun(S63)')	0.53697
-(' 392', 'clName: MMAC-SF', 'timePoint: 1', 'variable: p-P38(T180/Y182)')	1.0804
-(' 393', 'clName: MMAC-SF', 'timePoint: 1', 'variable: p-HSP27(S82)')	0.47795
-(' 394', 'clName: MMAC-SF', 'timePoint: 1', 'variable: p-NFKB(S536)')	
-(' 395', 'clName: MMAC-SF', 'timePoint: 1', 'variable: Bim')	0.4018
-(' 396', 'clName: MMAC-SF', 'timePoint: 1', 'variable: cPARP')	0.39099
-(' 397', 'clName: MMAC-SF', 'timePoint: 1', 'variable: p-Histone H3(S10)')	0.2074
-(' 398', 'clName: MMAC-SF', 'timePoint: 1', 'variable: p27 Kip1')	
-(' 399', 'clName: MMAC-SF', 'timePoint: 5', 'variable: p-p90RSK(S380)')	
-(' 400', 'clName: MMAC-SF', 'timePoint: 5', 'variable: p-p90RSK(T573)')	-0.53739
-(' 401', 'clName: MMAC-SF', 'timePoint: 5', 'variable: p-AKT(T308)')	-0.66226
-(' 402', 'clName: MMAC-SF', 'timePoint: 5', 'variable: p-AKT(S473)')	-0.93946
-(' 403', 'clName: MMAC-SF', 'timePoint: 5', 'variable: p-mTOR(S2448)')	-0.753
-(' 404', 'clName: MMAC-SF', 'timePoint: 5', 'variable: p-p70S6K(T421/S424)')	-0.53633
-(' 405', 'clName: MMAC-SF', 'timePoint: 5', 'variable: p-p70S6K(T389)')	
-(' 406', 'clName: MMAC-SF', 'timePoint: 5', 'variable: p-S6(S235/236)')	0.45323
-(' 407', 'clName: MMAC-SF', 'timePoint: 5', 'variable: p-AMPK(T172)')	
-(' 408', 'clName: MMAC-SF', 'timePoint: 5', 'variable: p-JNK(T183/Y185)')	
-(' 409', 'clName: MMAC-SF', 'timePoint: 5', 'variable: Total c-Jun')	0.84348
-(' 410', 'clName: MMAC-SF', 'timePoint: 5', 'variable: p-cJun(S63)')	
-(' 411', 'clName: MMAC-SF', 'timePoint: 5', 'variable: p-P38(T180/Y182)')	
-(' 412', 'clName: MMAC-SF', 'timePoint: 5', 'variable: p-HSP27(S82)')	-0.55491
-(' 413', 'clName: MMAC-SF', 'timePoint: 5', 'variable: p-NFKB(S536)')	
-(' 414', 'clName: MMAC-SF', 'timePoint: 5', 'variable: Bim')	-0.95959
-(' 415', 'clName: MMAC-SF', 'timePoint: 5', 'variable: cPARP')	-0.85215
-(' 416', 'clName: MMAC-SF', 'timePoint: 5', 'variable: p-Histone H3(S10)')	-0.23039
-(' 417', 'clName: MMAC-SF', 'timePoint: 5', 'variable: p27 Kip1')	-0.64165
-(' 418', 'clName: MMAC-SF', 'timePoint: 10', 'variable: p-p90RSK(S380)')	0.93844
-(' 419', 'clName: MMAC-SF', 'timePoint: 10', 'variable: p-p90RSK(T573)')	0.39402
-(' 420', 'clName: MMAC-SF', 'timePoint: 10', 'variable: p-AKT(T308)')	0.19664
-(' 421', 'clName: MMAC-SF', 'timePoint: 10', 'variable: p-AKT(S473)')	
-(' 422', 'clName: MMAC-SF', 'timePoint: 10', 'variable: p-mTOR(S2448)')	0.7936
-(' 423', 'clName: MMAC-SF', 'timePoint: 10', 'variable: p-p70S6K(T421/S424)')	0.88541
-(' 424', 'clName: MMAC-SF', 'timePoint: 10', 'variable: p-p70S6K(T389)')	0.89999
-(' 425', 'clName: MMAC-SF', 'timePoint: 10', 'variable: p-S6(S235/236)')	1.2018
-(' 426', 'clName: MMAC-SF', 'timePoint: 10', 'variable: p-AMPK(T172)')	1.1683
-(' 427', 'clName: MMAC-SF', 'timePoint: 10', 'variable: p-JNK(T183/Y185)')	0.77294
-(' 428', 'clName: MMAC-SF', 'timePoint: 10', 'variable: Total c-Jun')	1.7684
-(' 429', 'clName: MMAC-SF', 'timePoint: 10', 'variable: p-cJun(S63)')	0.79511
-(' 430', 'clName: MMAC-SF', 'timePoint: 10', 'variable: p-P38(T180/Y182)')	0.98729
-(' 431', 'clName: MMAC-SF', 'timePoint: 10', 'variable: p-HSP27(S82)')	0.43475
-(' 432', 'clName: MMAC-SF', 'timePoint: 10', 'variable: p-NFKB(S536)')	1.3327
-(' 433', 'clName: MMAC-SF', 'timePoint: 10', 'variable: Bim')	
-(' 434', 'clName: MMAC-SF', 'timePoint: 10', 'variable: cPARP')	
-(' 435', 'clName: MMAC-SF', 'timePoint: 10', 'variable: p-Histone H3(S10)')	-0.13234
-(' 436', 'clName: MMAC-SF', 'timePoint: 10', 'variable: p27 Kip1')	
-(' 437', 'clName: MMAC-SF', 'timePoint: 24', 'variable: p-p90RSK(S380)')	
-(' 438', 'clName: MMAC-SF', 'timePoint: 24', 'variable: p-p90RSK(T573)')	
-(' 439', 'clName: MMAC-SF', 'timePoint: 24', 'variable: p-AKT(T308)')	-0.33286
-(' 440', 'clName: MMAC-SF', 'timePoint: 24', 'variable: p-AKT(S473)')	-1.0958
-(' 441', 'clName: MMAC-SF', 'timePoint: 24', 'variable: p-mTOR(S2448)')	
-(' 442', 'clName: MMAC-SF', 'timePoint: 24', 'variable: p-p70S6K(T421/S424)')	-0.52786
-(' 443', 'clName: MMAC-SF', 'timePoint: 24', 'variable: p-p70S6K(T389)')	
-(' 444', 'clName: MMAC-SF', 'timePoint: 24', 'variable: p-S6(S235/236)')	1.5986
-(' 445', 'clName: MMAC-SF', 'timePoint: 24', 'variable: p-AMPK(T172)')	
-(' 446', 'clName: MMAC-SF', 'timePoint: 24', 'variable: p-JNK(T183/Y185)')	
-(' 447', 'clName: MMAC-SF', 'timePoint: 24', 'variable: Total c-Jun')	
-(' 448', 'clName: MMAC-SF', 'timePoint: 24', 'variable: p-cJun(S63)')	
-(' 449', 'clName: MMAC-SF', 'timePoint: 24', 'variable: p-P38(T180/Y182)')	
-(' 450', 'clName: MMAC-SF', 'timePoint: 24', 'variable: p-HSP27(S82)')	
-(' 451', 'clName: MMAC-SF', 'timePoint: 24', 'variable: p-NFKB(S536)')	
-(' 452', 'clName: MMAC-SF', 'timePoint: 24', 'variable: Bim')	-1.3101
-(' 453', 'clName: MMAC-SF', 'timePoint: 24', 'variable: cPARP')	-1.3189
-(' 454', 'clName: MMAC-SF', 'timePoint: 24', 'variable: p-Histone H3(S10)')	1.6598
-(' 455', 'clName: MMAC-SF', 'timePoint: 24', 'variable: p27 Kip1')	-1.852
-(' 456', 'clName: MMAC-SF', 'timePoint: 48', 'variable: p-p90RSK(S380)')	
-(' 457', 'clName: MMAC-SF', 'timePoint: 48', 'variable: p-p90RSK(T573)')	1.0946
-(' 458', 'clName: MMAC-SF', 'timePoint: 48', 'variable: p-AKT(T308)')	-2.582
-(' 459', 'clName: MMAC-SF', 'timePoint: 48', 'variable: p-AKT(S473)')	
-(' 460', 'clName: MMAC-SF', 'timePoint: 48', 'variable: p-mTOR(S2448)')	
-(' 461', 'clName: MMAC-SF', 'timePoint: 48', 'variable: p-p70S6K(T421/S424)')	1.2871
-(' 462', 'clName: MMAC-SF', 'timePoint: 48', 'variable: p-p70S6K(T389)')	
-(' 463', 'clName: MMAC-SF', 'timePoint: 48', 'variable: p-S6(S235/236)')	1.4822
-(' 464', 'clName: MMAC-SF', 'timePoint: 48', 'variable: p-AMPK(T172)')	
-(' 465', 'clName: MMAC-SF', 'timePoint: 48', 'variable: p-JNK(T183/Y185)')	
-(' 466', 'clName: MMAC-SF', 'timePoint: 48', 'variable: Total c-Jun')	
-(' 467', 'clName: MMAC-SF', 'timePoint: 48', 'variable: p-cJun(S63)')	
-(' 468', 'clName: MMAC-SF', 'timePoint: 48', 'variable: p-P38(T180/Y182)')	
-(' 469', 'clName: MMAC-SF', 'timePoint: 48', 'variable: p-HSP27(S82)')	0.86518
-(' 470', 'clName: MMAC-SF', 'timePoint: 48', 'variable: p-NFKB(S536)')	1.6839
-(' 471', 'clName: MMAC-SF', 'timePoint: 48', 'variable: Bim')	
-(' 472', 'clName: MMAC-SF', 'timePoint: 48', 'variable: cPARP')	-1.5287
-(' 473', 'clName: MMAC-SF', 'timePoint: 48', 'variable: p-Histone H3(S10)')	1.5996
-(' 474', 'clName: MMAC-SF', 'timePoint: 48', 'variable: p27 Kip1')	
-(' 475', 'clName: MZ7-mel', 'timePoint: 1', 'variable: p-p90RSK(S380)')	0.56785
-(' 476', 'clName: MZ7-mel', 'timePoint: 1', 'variable: p-p90RSK(T573)')	
-(' 477', 'clName: MZ7-mel', 'timePoint: 1', 'variable: p-AKT(T308)')	0.47697
-(' 478', 'clName: MZ7-mel', 'timePoint: 1', 'variable: p-AKT(S473)')	0.98495
-(' 479', 'clName: MZ7-mel', 'timePoint: 1', 'variable: p-mTOR(S2448)')	0.4327
-(' 480', 'clName: MZ7-mel', 'timePoint: 1', 'variable: p-p70S6K(T421/S424)')	0.83406
-(' 481', 'clName: MZ7-mel', 'timePoint: 1', 'variable: p-p70S6K(T389)')	0.75863
-(' 482', 'clName: MZ7-mel', 'timePoint: 1', 'variable: p-S6(S235/236)')	0.42135
-(' 483', 'clName: MZ7-mel', 'timePoint: 1', 'variable: p-AMPK(T172)')	-0.28432
-(' 484', 'clName: MZ7-mel', 'timePoint: 1', 'variable: p-JNK(T183/Y185)')	0.26621
-(' 485', 'clName: MZ7-mel', 'timePoint: 1', 'variable: Total c-Jun')	0.78288
-(' 486', 'clName: MZ7-mel', 'timePoint: 1', 'variable: p-cJun(S63)')	0.35063
-(' 487', 'clName: MZ7-mel', 'timePoint: 1', 'variable: p-P38(T180/Y182)')	0.98757
-(' 488', 'clName: MZ7-mel', 'timePoint: 1', 'variable: p-HSP27(S82)')	0.31493
-(' 489', 'clName: MZ7-mel', 'timePoint: 1', 'variable: p-NFKB(S536)')	0.16181
-(' 490', 'clName: MZ7-mel', 'timePoint: 1', 'variable: Bim')	
-(' 491', 'clName: MZ7-mel', 'timePoint: 1', 'variable: cPARP')	
-(' 492', 'clName: MZ7-mel', 'timePoint: 1', 'variable: p-Histone H3(S10)')	-0.22101
-(' 493', 'clName: MZ7-mel', 'timePoint: 1', 'variable: p27 Kip1')	0.17722
-(' 494', 'clName: MZ7-mel', 'timePoint: 5', 'variable: p-p90RSK(S380)')	
-(' 495', 'clName: MZ7-mel', 'timePoint: 5', 'variable: p-p90RSK(T573)')	
-(' 496', 'clName: MZ7-mel', 'timePoint: 5', 'variable: p-AKT(T308)')	
-(' 497', 'clName: MZ7-mel', 'timePoint: 5', 'variable: p-AKT(S473)')	
-(' 498', 'clName: MZ7-mel', 'timePoint: 5', 'variable: p-mTOR(S2448)')	
-(' 499', 'clName: MZ7-mel', 'timePoint: 5', 'variable: p-p70S6K(T421/S424)')	-0.58275
-(' 500', 'clName: MZ7-mel', 'timePoint: 5', 'variable: p-p70S6K(T389)')	
-(' 501', 'clName: MZ7-mel', 'timePoint: 5', 'variable: p-S6(S235/236)')	0.4843
-(' 502', 'clName: MZ7-mel', 'timePoint: 5', 'variable: p-AMPK(T172)')	-0.57675
-(' 503', 'clName: MZ7-mel', 'timePoint: 5', 'variable: p-JNK(T183/Y185)')	
-(' 504', 'clName: MZ7-mel', 'timePoint: 5', 'variable: Total c-Jun')	0.67613
-(' 505', 'clName: MZ7-mel', 'timePoint: 5', 'variable: p-cJun(S63)')	
-(' 506', 'clName: MZ7-mel', 'timePoint: 5', 'variable: p-P38(T180/Y182)')	
-(' 507', 'clName: MZ7-mel', 'timePoint: 5', 'variable: p-HSP27(S82)')	
-(' 508', 'clName: MZ7-mel', 'timePoint: 5', 'variable: p-NFKB(S536)')	-0.64566
-(' 509', 'clName: MZ7-mel', 'timePoint: 5', 'variable: Bim')	
-(' 510', 'clName: MZ7-mel', 'timePoint: 5', 'variable: cPARP')	
-(' 511', 'clName: MZ7-mel', 'timePoint: 5', 'variable: p-Histone H3(S10)')	-0.43926
-(' 512', 'clName: MZ7-mel', 'timePoint: 5', 'variable: p27 Kip1')	-0.36435
-(' 513', 'clName: MZ7-mel', 'timePoint: 10', 'variable: p-p90RSK(S380)')	1.0666
-(' 514', 'clName: MZ7-mel', 'timePoint: 10', 'variable: p-p90RSK(T573)')	0.5912
-(' 515', 'clName: MZ7-mel', 'timePoint: 10', 'variable: p-AKT(T308)')	
-(' 516', 'clName: MZ7-mel', 'timePoint: 10', 'variable: p-AKT(S473)')	0.60071
-(' 517', 'clName: MZ7-mel', 'timePoint: 10', 'variable: p-mTOR(S2448)')	0.64446
-(' 518', 'clName: MZ7-mel', 'timePoint: 10', 'variable: p-p70S6K(T421/S424)')	1.0131
-(' 519', 'clName: MZ7-mel', 'timePoint: 10', 'variable: p-p70S6K(T389)')	0.84778
-(' 520', 'clName: MZ7-mel', 'timePoint: 10', 'variable: p-S6(S235/236)')	1.2384
-(' 521', 'clName: MZ7-mel', 'timePoint: 10', 'variable: p-AMPK(T172)')	-0.70468
-(' 522', 'clName: MZ7-mel', 'timePoint: 10', 'variable: p-JNK(T183/Y185)')	0.47959
-(' 523', 'clName: MZ7-mel', 'timePoint: 10', 'variable: Total c-Jun')	0.9812
-(' 524', 'clName: MZ7-mel', 'timePoint: 10', 'variable: p-cJun(S63)')	0.45131
-(' 525', 'clName: MZ7-mel', 'timePoint: 10', 'variable: p-P38(T180/Y182)')	0.68789
-(' 526', 'clName: MZ7-mel', 'timePoint: 10', 'variable: p-HSP27(S82)')	0.34035
-(' 527', 'clName: MZ7-mel', 'timePoint: 10', 'variable: p-NFKB(S536)')	1.0589
-(' 528', 'clName: MZ7-mel', 'timePoint: 10', 'variable: Bim')	-0.40275
-(' 529', 'clName: MZ7-mel', 'timePoint: 10', 'variable: cPARP')	
-(' 530', 'clName: MZ7-mel', 'timePoint: 10', 'variable: p-Histone H3(S10)')	-0.32072
-(' 531', 'clName: MZ7-mel', 'timePoint: 10', 'variable: p27 Kip1')	-0.56098
-(' 532', 'clName: MZ7-mel', 'timePoint: 24', 'variable: p-p90RSK(S380)')	
-(' 533', 'clName: MZ7-mel', 'timePoint: 24', 'variable: p-p90RSK(T573)')	1.4596
-(' 534', 'clName: MZ7-mel', 'timePoint: 24', 'variable: p-AKT(T308)')	-0.59
-(' 535', 'clName: MZ7-mel', 'timePoint: 24', 'variable: p-AKT(S473)')	
-(' 536', 'clName: MZ7-mel', 'timePoint: 24', 'variable: p-mTOR(S2448)')	
-(' 537', 'clName: MZ7-mel', 'timePoint: 24', 'variable: p-p70S6K(T421/S424)')	0.72891
-(' 538', 'clName: MZ7-mel', 'timePoint: 24', 'variable: p-p70S6K(T389)')	
-(' 539', 'clName: MZ7-mel', 'timePoint: 24', 'variable: p-S6(S235/236)')	2.1002
-(' 540', 'clName: MZ7-mel', 'timePoint: 24', 'variable: p-AMPK(T172)')	-0.48094
-(' 541', 'clName: MZ7-mel', 'timePoint: 24', 'variable: p-JNK(T183/Y185)')	-0.40353
-(' 542', 'clName: MZ7-mel', 'timePoint: 24', 'variable: Total c-Jun')	0.49324
-(' 543', 'clName: MZ7-mel', 'timePoint: 24', 'variable: p-cJun(S63)')	
-(' 544', 'clName: MZ7-mel', 'timePoint: 24', 'variable: p-P38(T180/Y182)')	1.0701
-(' 545', 'clName: MZ7-mel', 'timePoint: 24', 'variable: p-HSP27(S82)')	
-(' 546', 'clName: MZ7-mel', 'timePoint: 24', 'variable: p-NFKB(S536)')	-0.50772
-(' 547', 'clName: MZ7-mel', 'timePoint: 24', 'variable: Bim')	-1.6059
-(' 548', 'clName: MZ7-mel', 'timePoint: 24', 'variable: cPARP')	-1.4135
-(' 549', 'clName: MZ7-mel', 'timePoint: 24', 'variable: p-Histone H3(S10)')	0.88186
-(' 550', 'clName: MZ7-mel', 'timePoint: 24', 'variable: p27 Kip1')	-2.1137
-(' 551', 'clName: MZ7-mel', 'timePoint: 48', 'variable: p-p90RSK(S380)')	
-(' 552', 'clName: MZ7-mel', 'timePoint: 48', 'variable: p-p90RSK(T573)')	2.2427
-(' 553', 'clName: MZ7-mel', 'timePoint: 48', 'variable: p-AKT(T308)')	-0.95693
-(' 554', 'clName: MZ7-mel', 'timePoint: 48', 'variable: p-AKT(S473)')	-0.40393
-(' 555', 'clName: MZ7-mel', 'timePoint: 48', 'variable: p-mTOR(S2448)')	
-(' 556', 'clName: MZ7-mel', 'timePoint: 48', 'variable: p-p70S6K(T421/S424)')	1.0387
-(' 557', 'clName: MZ7-mel', 'timePoint: 48', 'variable: p-p70S6K(T389)')	
-(' 558', 'clName: MZ7-mel', 'timePoint: 48', 'variable: p-S6(S235/236)')	1.325
-(' 559', 'clName: MZ7-mel', 'timePoint: 48', 'variable: p-AMPK(T172)')	-0.54943
-(' 560', 'clName: MZ7-mel', 'timePoint: 48', 'variable: p-JNK(T183/Y185)')	-0.74394
-(' 561', 'clName: MZ7-mel', 'timePoint: 48', 'variable: Total c-Jun')	-0.52248
-(' 562', 'clName: MZ7-mel', 'timePoint: 48', 'variable: p-cJun(S63)')	
-(' 563', 'clName: MZ7-mel', 'timePoint: 48', 'variable: p-P38(T180/Y182)')	1.3873
-(' 564', 'clName: MZ7-mel', 'timePoint: 48', 'variable: p-HSP27(S82)')	
-(' 565', 'clName: MZ7-mel', 'timePoint: 48', 'variable: p-NFKB(S536)')	-0.32198
-(' 566', 'clName: MZ7-mel', 'timePoint: 48', 'variable: Bim')	-2.3909
-(' 567', 'clName: MZ7-mel', 'timePoint: 48', 'variable: cPARP')	-2.0554
-(' 568', 'clName: MZ7-mel', 'timePoint: 48', 'variable: p-Histone H3(S10)')	2.9819
-(' 569', 'clName: MZ7-mel', 'timePoint: 48', 'variable: p27 Kip1')	-2.4182
-(' 570', 'clName: RVH-421', 'timePoint: 1', 'variable: p-p90RSK(S380)')	0.73089
-(' 571', 'clName: RVH-421', 'timePoint: 1', 'variable: p-p90RSK(T573)')	0.42888
-(' 572', 'clName: RVH-421', 'timePoint: 1', 'variable: p-AKT(T308)')	0.37869
-(' 573', 'clName: RVH-421', 'timePoint: 1', 'variable: p-AKT(S473)')	0.18467
-(' 574', 'clName: RVH-421', 'timePoint: 1', 'variable: p-mTOR(S2448)')	0.66328
-(' 575', 'clName: RVH-421', 'timePoint: 1', 'variable: p-p70S6K(T421/S424)')	1.0904
-(' 576', 'clName: RVH-421', 'timePoint: 1', 'variable: p-p70S6K(T389)')	0.77206
-(' 577', 'clName: RVH-421', 'timePoint: 1', 'variable: p-S6(S235/236)')	0.4975
-(' 578', 'clName: RVH-421', 'timePoint: 1', 'variable: p-AMPK(T172)')	0.83114
-(' 579', 'clName: RVH-421', 'timePoint: 1', 'variable: p-JNK(T183/Y185)')	0.73589
-(' 580', 'clName: RVH-421', 'timePoint: 1', 'variable: Total c-Jun')	0.37291
-(' 581', 'clName: RVH-421', 'timePoint: 1', 'variable: p-cJun(S63)')	
-(' 582', 'clName: RVH-421', 'timePoint: 1', 'variable: p-P38(T180/Y182)')	0.71579
-(' 583', 'clName: RVH-421', 'timePoint: 1', 'variable: p-HSP27(S82)')	0.69241
-(' 584', 'clName: RVH-421', 'timePoint: 1', 'variable: p-NFKB(S536)')	1.1487
-(' 585', 'clName: RVH-421', 'timePoint: 1', 'variable: Bim')	0.41103
-(' 586', 'clName: RVH-421', 'timePoint: 1', 'variable: cPARP')	0.5899
-(' 587', 'clName: RVH-421', 'timePoint: 1', 'variable: p-Histone H3(S10)')	
-(' 588', 'clName: RVH-421', 'timePoint: 1', 'variable: p27 Kip1')	0.55022
-(' 589', 'clName: RVH-421', 'timePoint: 5', 'variable: p-p90RSK(S380)')	-0.6997
-(' 590', 'clName: RVH-421', 'timePoint: 5', 'variable: p-p90RSK(T573)')	
-(' 591', 'clName: RVH-421', 'timePoint: 5', 'variable: p-AKT(T308)')	-0.65256
-(' 592', 'clName: RVH-421', 'timePoint: 5', 'variable: p-AKT(S473)')	-0.58425
-(' 593', 'clName: RVH-421', 'timePoint: 5', 'variable: p-mTOR(S2448)')	-0.77894
-(' 594', 'clName: RVH-421', 'timePoint: 5', 'variable: p-p70S6K(T421/S424)')	0.26993
-(' 595', 'clName: RVH-421', 'timePoint: 5', 'variable: p-p70S6K(T389)')	
-(' 596', 'clName: RVH-421', 'timePoint: 5', 'variable: p-S6(S235/236)')	0.61113
-(' 597', 'clName: RVH-421', 'timePoint: 5', 'variable: p-AMPK(T172)')	
-(' 598', 'clName: RVH-421', 'timePoint: 5', 'variable: p-JNK(T183/Y185)')	-0.63346
-(' 599', 'clName: RVH-421', 'timePoint: 5', 'variable: Total c-Jun')	
-(' 600', 'clName: RVH-421', 'timePoint: 5', 'variable: p-cJun(S63)')	
-(' 601', 'clName: RVH-421', 'timePoint: 5', 'variable: p-P38(T180/Y182)')	0.22986
-(' 602', 'clName: RVH-421', 'timePoint: 5', 'variable: p-HSP27(S82)')	-0.77288
-(' 603', 'clName: RVH-421', 'timePoint: 5', 'variable: p-NFKB(S536)')	-1.305
-(' 604', 'clName: RVH-421', 'timePoint: 5', 'variable: Bim')	-1.0463
-(' 605', 'clName: RVH-421', 'timePoint: 5', 'variable: cPARP')	-0.50626
-(' 606', 'clName: RVH-421', 'timePoint: 5', 'variable: p-Histone H3(S10)')	-0.6825
-(' 607', 'clName: RVH-421', 'timePoint: 5', 'variable: p27 Kip1')	-0.62768
-(' 608', 'clName: RVH-421', 'timePoint: 10', 'variable: p-p90RSK(S380)')	1.1134
-(' 609', 'clName: RVH-421', 'timePoint: 10', 'variable: p-p90RSK(T573)')	0.78083
-(' 610', 'clName: RVH-421', 'timePoint: 10', 'variable: p-AKT(T308)')	0.65412
-(' 611', 'clName: RVH-421', 'timePoint: 10', 'variable: p-AKT(S473)')	0.61229
-(' 612', 'clName: RVH-421', 'timePoint: 10', 'variable: p-mTOR(S2448)')	1.4057
-(' 613', 'clName: RVH-421', 'timePoint: 10', 'variable: p-p70S6K(T421/S424)')	1.4337
-(' 614', 'clName: RVH-421', 'timePoint: 10', 'variable: p-p70S6K(T389)')	1.6291
-(' 615', 'clName: RVH-421', 'timePoint: 10', 'variable: p-S6(S235/236)')	1.7646
-(' 616', 'clName: RVH-421', 'timePoint: 10', 'variable: p-AMPK(T172)')	1.4543
-(' 617', 'clName: RVH-421', 'timePoint: 10', 'variable: p-JNK(T183/Y185)')	1.4082
-(' 618', 'clName: RVH-421', 'timePoint: 10', 'variable: Total c-Jun')	
-(' 619', 'clName: RVH-421', 'timePoint: 10', 'variable: p-cJun(S63)')	
-(' 620', 'clName: RVH-421', 'timePoint: 10', 'variable: p-P38(T180/Y182)')	
-(' 621', 'clName: RVH-421', 'timePoint: 10', 'variable: p-HSP27(S82)')	0.77342
-(' 622', 'clName: RVH-421', 'timePoint: 10', 'variable: p-NFKB(S536)')	0.44518
-(' 623', 'clName: RVH-421', 'timePoint: 10', 'variable: Bim')	0.41463
-(' 624', 'clName: RVH-421', 'timePoint: 10', 'variable: cPARP')	0.16856
-(' 625', 'clName: RVH-421', 'timePoint: 10', 'variable: p-Histone H3(S10)')	
-(' 626', 'clName: RVH-421', 'timePoint: 10', 'variable: p27 Kip1')	
-(' 627', 'clName: RVH-421', 'timePoint: 24', 'variable: p-p90RSK(S380)')	
-(' 628', 'clName: RVH-421', 'timePoint: 24', 'variable: p-p90RSK(T573)')	
-(' 629', 'clName: RVH-421', 'timePoint: 24', 'variable: p-AKT(T308)')	-0.39409
-(' 630', 'clName: RVH-421', 'timePoint: 24', 'variable: p-AKT(S473)')	
-(' 631', 'clName: RVH-421', 'timePoint: 24', 'variable: p-mTOR(S2448)')	
-(' 632', 'clName: RVH-421', 'timePoint: 24', 'variable: p-p70S6K(T421/S424)')	1.3735
-(' 633', 'clName: RVH-421', 'timePoint: 24', 'variable: p-p70S6K(T389)')	
-(' 634', 'clName: RVH-421', 'timePoint: 24', 'variable: p-S6(S235/236)')	1.534
-(' 635', 'clName: RVH-421', 'timePoint: 24', 'variable: p-AMPK(T172)')	-0.66423
-(' 636', 'clName: RVH-421', 'timePoint: 24', 'variable: p-JNK(T183/Y185)')	-0.56908
-(' 637', 'clName: RVH-421', 'timePoint: 24', 'variable: Total c-Jun')	-1.2441
-(' 638', 'clName: RVH-421', 'timePoint: 24', 'variable: p-cJun(S63)')	-0.50516
-(' 639', 'clName: RVH-421', 'timePoint: 24', 'variable: p-P38(T180/Y182)')	
-(' 640', 'clName: RVH-421', 'timePoint: 24', 'variable: p-HSP27(S82)')	
-(' 641', 'clName: RVH-421', 'timePoint: 24', 'variable: p-NFKB(S536)')	-1.5242
-(' 642', 'clName: RVH-421', 'timePoint: 24', 'variable: Bim')	-1.3256
-(' 643', 'clName: RVH-421', 'timePoint: 24', 'variable: cPARP')	-1.3352
-(' 644', 'clName: RVH-421', 'timePoint: 24', 'variable: p-Histone H3(S10)')	0.81086
-(' 645', 'clName: RVH-421', 'timePoint: 24', 'variable: p27 Kip1')	-1.451
-(' 646', 'clName: RVH-421', 'timePoint: 48', 'variable: p-p90RSK(S380)')	-0.60222
-(' 647', 'clName: RVH-421', 'timePoint: 48', 'variable: p-p90RSK(T573)')	
-(' 648', 'clName: RVH-421', 'timePoint: 48', 'variable: p-AKT(T308)')	-0.79373
-(' 649', 'clName: RVH-421', 'timePoint: 48', 'variable: p-AKT(S473)')	0.49185
-(' 650', 'clName: RVH-421', 'timePoint: 48', 'variable: p-mTOR(S2448)')	
-(' 651', 'clName: RVH-421', 'timePoint: 48', 'variable: p-p70S6K(T421/S424)')	1.1251
-(' 652', 'clName: RVH-421', 'timePoint: 48', 'variable: p-p70S6K(T389)')	
-(' 653', 'clName: RVH-421', 'timePoint: 48', 'variable: p-S6(S235/236)')	1.2451
-(' 654', 'clName: RVH-421', 'timePoint: 48', 'variable: p-AMPK(T172)')	-0.6772
-(' 655', 'clName: RVH-421', 'timePoint: 48', 'variable: p-JNK(T183/Y185)')	-1.5508
-(' 656', 'clName: RVH-421', 'timePoint: 48', 'variable: Total c-Jun')	-1.7876
-(' 657', 'clName: RVH-421', 'timePoint: 48', 'variable: p-cJun(S63)')	-1.1707
-(' 658', 'clName: RVH-421', 'timePoint: 48', 'variable: p-P38(T180/Y182)')	
-(' 659', 'clName: RVH-421', 'timePoint: 48', 'variable: p-HSP27(S82)')	
-(' 660', 'clName: RVH-421', 'timePoint: 48', 'variable: p-NFKB(S536)')	-0.5505
-(' 661', 'clName: RVH-421', 'timePoint: 48', 'variable: Bim')	-1.6476
-(' 662', 'clName: RVH-421', 'timePoint: 48', 'variable: cPARP')	-1.3625
-(' 663', 'clName: RVH-421', 'timePoint: 48', 'variable: p-Histone H3(S10)')	2.0813
-(' 664', 'clName: RVH-421', 'timePoint: 48', 'variable: p27 Kip1')	-1.59
-(' 665', 'clName: SKMEL28', 'timePoint: 1', 'variable: p-p90RSK(S380)')	1.0417
-(' 666', 'clName: SKMEL28', 'timePoint: 1', 'variable: p-p90RSK(T573)')	0.41264
-(' 667', 'clName: SKMEL28', 'timePoint: 1', 'variable: p-AKT(T308)')	
-(' 668', 'clName: SKMEL28', 'timePoint: 1', 'variable: p-AKT(S473)')	0.61843
-(' 669', 'clName: SKMEL28', 'timePoint: 1', 'variable: p-mTOR(S2448)')	0.61188
-(' 670', 'clName: SKMEL28', 'timePoint: 1', 'variable: p-p70S6K(T421/S424)')	1.2096
-(' 671', 'clName: SKMEL28', 'timePoint: 1', 'variable: p-p70S6K(T389)')	0.60277
-(' 672', 'clName: SKMEL28', 'timePoint: 1', 'variable: p-S6(S235/236)')	0.58875
-(' 673', 'clName: SKMEL28', 'timePoint: 1', 'variable: p-AMPK(T172)')	
-(' 674', 'clName: SKMEL28', 'timePoint: 1', 'variable: p-JNK(T183/Y185)')	1.0784
-(' 675', 'clName: SKMEL28', 'timePoint: 1', 'variable: Total c-Jun')	0.59367
-(' 676', 'clName: SKMEL28', 'timePoint: 1', 'variable: p-cJun(S63)')	0.56096
-(' 677', 'clName: SKMEL28', 'timePoint: 1', 'variable: p-P38(T180/Y182)')	0.58098
-(' 678', 'clName: SKMEL28', 'timePoint: 1', 'variable: p-HSP27(S82)')	0.69218
-(' 679', 'clName: SKMEL28', 'timePoint: 1', 'variable: p-NFKB(S536)')	0.35365
-(' 680', 'clName: SKMEL28', 'timePoint: 1', 'variable: Bim')	0.36643
-(' 681', 'clName: SKMEL28', 'timePoint: 1', 'variable: cPARP')	0.47894
-(' 682', 'clName: SKMEL28', 'timePoint: 1', 'variable: p-Histone H3(S10)')	0.33634
-(' 683', 'clName: SKMEL28', 'timePoint: 1', 'variable: p27 Kip1')	0.41783
-(' 684', 'clName: SKMEL28', 'timePoint: 5', 'variable: p-p90RSK(S380)')	0.45569
-(' 685', 'clName: SKMEL28', 'timePoint: 5', 'variable: p-p90RSK(T573)')	-0.56904
-(' 686', 'clName: SKMEL28', 'timePoint: 5', 'variable: p-AKT(T308)')	
-(' 687', 'clName: SKMEL28', 'timePoint: 5', 'variable: p-AKT(S473)')	-0.99542
-(' 688', 'clName: SKMEL28', 'timePoint: 5', 'variable: p-mTOR(S2448)')	
-(' 689', 'clName: SKMEL28', 'timePoint: 5', 'variable: p-p70S6K(T421/S424)')	-0.7873
-(' 690', 'clName: SKMEL28', 'timePoint: 5', 'variable: p-p70S6K(T389)')	
-(' 691', 'clName: SKMEL28', 'timePoint: 5', 'variable: p-S6(S235/236)')	0.52224
-(' 692', 'clName: SKMEL28', 'timePoint: 5', 'variable: p-AMPK(T172)')	-0.4942
-(' 693', 'clName: SKMEL28', 'timePoint: 5', 'variable: p-JNK(T183/Y185)')	
-(' 694', 'clName: SKMEL28', 'timePoint: 5', 'variable: Total c-Jun')	0.83264
-(' 695', 'clName: SKMEL28', 'timePoint: 5', 'variable: p-cJun(S63)')	-1.0139
-(' 696', 'clName: SKMEL28', 'timePoint: 5', 'variable: p-P38(T180/Y182)')	
-(' 697', 'clName: SKMEL28', 'timePoint: 5', 'variable: p-HSP27(S82)')	
-(' 698', 'clName: SKMEL28', 'timePoint: 5', 'variable: p-NFKB(S536)')	
-(' 699', 'clName: SKMEL28', 'timePoint: 5', 'variable: Bim')	-0.59177
-(' 700', 'clName: SKMEL28', 'timePoint: 5', 'variable: cPARP')	-0.57451
-(' 701', 'clName: SKMEL28', 'timePoint: 5', 'variable: p-Histone H3(S10)')	-0.18617
-(' 702', 'clName: SKMEL28', 'timePoint: 5', 'variable: p27 Kip1')	
-(' 703', 'clName: SKMEL28', 'timePoint: 10', 'variable: p-p90RSK(S380)')	1.5846
-(' 704', 'clName: SKMEL28', 'timePoint: 10', 'variable: p-p90RSK(T573)')	0.66327
-(' 705', 'clName: SKMEL28', 'timePoint: 10', 'variable: p-AKT(T308)')	
-(' 706', 'clName: SKMEL28', 'timePoint: 10', 'variable: p-AKT(S473)')	0.67691
-(' 707', 'clName: SKMEL28', 'timePoint: 10', 'variable: p-mTOR(S2448)')	0.85779
-(' 708', 'clName: SKMEL28', 'timePoint: 10', 'variable: p-p70S6K(T421/S424)')	1.2257
-(' 709', 'clName: SKMEL28', 'timePoint: 10', 'variable: p-p70S6K(T389)')	1.2488
-(' 710', 'clName: SKMEL28', 'timePoint: 10', 'variable: p-S6(S235/236)')	1.4038
-(' 711', 'clName: SKMEL28', 'timePoint: 10', 'variable: p-AMPK(T172)')	0.6014
-(' 712', 'clName: SKMEL28', 'timePoint: 10', 'variable: p-JNK(T183/Y185)')	1.128
-(' 713', 'clName: SKMEL28', 'timePoint: 10', 'variable: Total c-Jun')	1.6522
-(' 714', 'clName: SKMEL28', 'timePoint: 10', 'variable: p-cJun(S63)')	0.59615
-(' 715', 'clName: SKMEL28', 'timePoint: 10', 'variable: p-P38(T180/Y182)')	0.65581
-(' 716', 'clName: SKMEL28', 'timePoint: 10', 'variable: p-HSP27(S82)')	0.53442
-(' 717', 'clName: SKMEL28', 'timePoint: 10', 'variable: p-NFKB(S536)')	1.492
-(' 718', 'clName: SKMEL28', 'timePoint: 10', 'variable: Bim')	-0.16529
-(' 719', 'clName: SKMEL28', 'timePoint: 10', 'variable: cPARP')	0.28001
-(' 720', 'clName: SKMEL28', 'timePoint: 10', 'variable: p-Histone H3(S10)')	
-(' 721', 'clName: SKMEL28', 'timePoint: 10', 'variable: p27 Kip1')	-0.51507
-(' 722', 'clName: SKMEL28', 'timePoint: 24', 'variable: p-p90RSK(S380)')	0.21054
-(' 723', 'clName: SKMEL28', 'timePoint: 24', 'variable: p-p90RSK(T573)')	
-(' 724', 'clName: SKMEL28', 'timePoint: 24', 'variable: p-AKT(T308)')	
-(' 725', 'clName: SKMEL28', 'timePoint: 24', 'variable: p-AKT(S473)')	
-(' 726', 'clName: SKMEL28', 'timePoint: 24', 'variable: p-mTOR(S2448)')	1.8551
-(' 727', 'clName: SKMEL28', 'timePoint: 24', 'variable: p-p70S6K(T421/S424)')	1.6584
-(' 728', 'clName: SKMEL28', 'timePoint: 24', 'variable: p-p70S6K(T389)')	1.5042
-(' 729', 'clName: SKMEL28', 'timePoint: 24', 'variable: p-S6(S235/236)')	
-(' 730', 'clName: SKMEL28', 'timePoint: 24', 'variable: p-AMPK(T172)')	-0.37196
-(' 731', 'clName: SKMEL28', 'timePoint: 24', 'variable: p-JNK(T183/Y185)')	
-(' 732', 'clName: SKMEL28', 'timePoint: 24', 'variable: Total c-Jun')	
-(' 733', 'clName: SKMEL28', 'timePoint: 24', 'variable: p-cJun(S63)')	-0.5919
-(' 734', 'clName: SKMEL28', 'timePoint: 24', 'variable: p-P38(T180/Y182)')	
-(' 735', 'clName: SKMEL28', 'timePoint: 24', 'variable: p-HSP27(S82)')	
-(' 736', 'clName: SKMEL28', 'timePoint: 24', 'variable: p-NFKB(S536)')	1.3887
-(' 737', 'clName: SKMEL28', 'timePoint: 24', 'variable: Bim')	-0.6898
-(' 738', 'clName: SKMEL28', 'timePoint: 24', 'variable: cPARP')	-1.2071
-(' 739', 'clName: SKMEL28', 'timePoint: 24', 'variable: p-Histone H3(S10)')	2.1675
-(' 740', 'clName: SKMEL28', 'timePoint: 24', 'variable: p27 Kip1')	-1.5216
-(' 741', 'clName: SKMEL28', 'timePoint: 48', 'variable: p-p90RSK(S380)')	1.1392
-(' 742', 'clName: SKMEL28', 'timePoint: 48', 'variable: p-p90RSK(T573)')	1.2806
-(' 743', 'clName: SKMEL28', 'timePoint: 48', 'variable: p-AKT(T308)')	
-(' 744', 'clName: SKMEL28', 'timePoint: 48', 'variable: p-AKT(S473)')	
-(' 745', 'clName: SKMEL28', 'timePoint: 48', 'variable: p-mTOR(S2448)')	1.2971
-(' 746', 'clName: SKMEL28', 'timePoint: 48', 'variable: p-p70S6K(T421/S424)')	0.71737
-(' 747', 'clName: SKMEL28', 'timePoint: 48', 'variable: p-p70S6K(T389)')	1.0817
-(' 748', 'clName: SKMEL28', 'timePoint: 48', 'variable: p-S6(S235/236)')	
-(' 749', 'clName: SKMEL28', 'timePoint: 48', 'variable: p-AMPK(T172)')	-0.84624
-(' 750', 'clName: SKMEL28', 'timePoint: 48', 'variable: p-JNK(T183/Y185)')	
-(' 751', 'clName: SKMEL28', 'timePoint: 48', 'variable: Total c-Jun')	-0.73459
-(' 752', 'clName: SKMEL28', 'timePoint: 48', 'variable: p-cJun(S63)')	-0.98814
-(' 753', 'clName: SKMEL28', 'timePoint: 48', 'variable: p-P38(T180/Y182)')	0.61775
-(' 754', 'clName: SKMEL28', 'timePoint: 48', 'variable: p-HSP27(S82)')	
-(' 755', 'clName: SKMEL28', 'timePoint: 48', 'variable: p-NFKB(S536)')	1.3318
-(' 756', 'clName: SKMEL28', 'timePoint: 48', 'variable: Bim')	
-(' 757', 'clName: SKMEL28', 'timePoint: 48', 'variable: cPARP')	-1.3751
-(' 758', 'clName: SKMEL28', 'timePoint: 48', 'variable: p-Histone H3(S10)')	2.1989
-(' 759', 'clName: SKMEL28', 'timePoint: 48', 'variable: p27 Kip1')	-2.2192
-(' 760', 'clName: WM-115', 'timePoint: 1', 'variable: p-p90RSK(S380)')	1.2269
-(' 761', 'clName: WM-115', 'timePoint: 1', 'variable: p-p90RSK(T573)')	0.35229
-(' 762', 'clName: WM-115', 'timePoint: 1', 'variable: p-AKT(T308)')	0.93461
-(' 763', 'clName: WM-115', 'timePoint: 1', 'variable: p-AKT(S473)')	
-(' 764', 'clName: WM-115', 'timePoint: 1', 'variable: p-mTOR(S2448)')	0.62683
-(' 765', 'clName: WM-115', 'timePoint: 1', 'variable: p-p70S6K(T421/S424)')	0.97563
-(' 766', 'clName: WM-115', 'timePoint: 1', 'variable: p-p70S6K(T389)')	0.74367
-(' 767', 'clName: WM-115', 'timePoint: 1', 'variable: p-S6(S235/236)')	0.43608
-(' 768', 'clName: WM-115', 'timePoint: 1', 'variable: p-AMPK(T172)')	
-(' 769', 'clName: WM-115', 'timePoint: 1', 'variable: p-JNK(T183/Y185)')	1.5297
-(' 770', 'clName: WM-115', 'timePoint: 1', 'variable: Total c-Jun')	0.8563
-(' 771', 'clName: WM-115', 'timePoint: 1', 'variable: p-cJun(S63)')	
-(' 772', 'clName: WM-115', 'timePoint: 1', 'variable: p-P38(T180/Y182)')	1.3195
-(' 773', 'clName: WM-115', 'timePoint: 1', 'variable: p-HSP27(S82)')	-0.33793
-(' 774', 'clName: WM-115', 'timePoint: 1', 'variable: p-NFKB(S536)')	0.41587
-(' 775', 'clName: WM-115', 'timePoint: 1', 'variable: Bim')	0.93658
-(' 776', 'clName: WM-115', 'timePoint: 1', 'variable: cPARP')	0.77093
-(' 777', 'clName: WM-115', 'timePoint: 1', 'variable: p-Histone H3(S10)')	0.42351
-(' 778', 'clName: WM-115', 'timePoint: 1', 'variable: p27 Kip1')	0.67655
-(' 779', 'clName: WM-115', 'timePoint: 5', 'variable: p-p90RSK(S380)')	0.89933
-(' 780', 'clName: WM-115', 'timePoint: 5', 'variable: p-p90RSK(T573)')	
-(' 781', 'clName: WM-115', 'timePoint: 5', 'variable: p-AKT(T308)')	-0.79027
-(' 782', 'clName: WM-115', 'timePoint: 5', 'variable: p-AKT(S473)')	-0.81455
-(' 783', 'clName: WM-115', 'timePoint: 5', 'variable: p-mTOR(S2448)')	0.4296
-(' 784', 'clName: WM-115', 'timePoint: 5', 'variable: p-p70S6K(T421/S424)')	-0.17204
-(' 785', 'clName: WM-115', 'timePoint: 5', 'variable: p-p70S6K(T389)')	
-(' 786', 'clName: WM-115', 'timePoint: 5', 'variable: p-S6(S235/236)')	0.6595
-(' 787', 'clName: WM-115', 'timePoint: 5', 'variable: p-AMPK(T172)')	-0.42314
-(' 788', 'clName: WM-115', 'timePoint: 5', 'variable: p-JNK(T183/Y185)')	
-(' 789', 'clName: WM-115', 'timePoint: 5', 'variable: Total c-Jun')	0.61828
-(' 790', 'clName: WM-115', 'timePoint: 5', 'variable: p-cJun(S63)')	-0.46479
-(' 791', 'clName: WM-115', 'timePoint: 5', 'variable: p-P38(T180/Y182)')	0.70534
-(' 792', 'clName: WM-115', 'timePoint: 5', 'variable: p-HSP27(S82)')	0.088223
-(' 793', 'clName: WM-115', 'timePoint: 5', 'variable: p-NFKB(S536)')	-0.16998
-(' 794', 'clName: WM-115', 'timePoint: 5', 'variable: Bim')	-0.8178
-(' 795', 'clName: WM-115', 'timePoint: 5', 'variable: cPARP')	
-(' 796', 'clName: WM-115', 'timePoint: 5', 'variable: p-Histone H3(S10)')	-0.94266
-(' 797', 'clName: WM-115', 'timePoint: 5', 'variable: p27 Kip1')	0.42857
-(' 798', 'clName: WM-115', 'timePoint: 10', 'variable: p-p90RSK(S380)')	1.1397
-(' 799', 'clName: WM-115', 'timePoint: 10', 'variable: p-p90RSK(T573)')	
-(' 800', 'clName: WM-115', 'timePoint: 10', 'variable: p-AKT(T308)')	-0.68812
-(' 801', 'clName: WM-115', 'timePoint: 10', 'variable: p-AKT(S473)')	-0.52788
-(' 802', 'clName: WM-115', 'timePoint: 10', 'variable: p-mTOR(S2448)')	0.65551
-(' 803', 'clName: WM-115', 'timePoint: 10', 'variable: p-p70S6K(T421/S424)')	0.51143
-(' 804', 'clName: WM-115', 'timePoint: 10', 'variable: p-p70S6K(T389)')	1.0162
-(' 805', 'clName: WM-115', 'timePoint: 10', 'variable: p-S6(S235/236)')	0.90692
-(' 806', 'clName: WM-115', 'timePoint: 10', 'variable: p-AMPK(T172)')	0.36597
-(' 807', 'clName: WM-115', 'timePoint: 10', 'variable: p-JNK(T183/Y185)')	0.88221
-(' 808', 'clName: WM-115', 'timePoint: 10', 'variable: Total c-Jun')	-1.3594
-(' 809', 'clName: WM-115', 'timePoint: 10', 'variable: p-cJun(S63)')	
-(' 810', 'clName: WM-115', 'timePoint: 10', 'variable: p-P38(T180/Y182)')	0.509
-(' 811', 'clName: WM-115', 'timePoint: 10', 'variable: p-HSP27(S82)')	-0.22354
-(' 812', 'clName: WM-115', 'timePoint: 10', 'variable: p-NFKB(S536)')	0.5029
-(' 813', 'clName: WM-115', 'timePoint: 10', 'variable: Bim')	-0.30135
-(' 814', 'clName: WM-115', 'timePoint: 10', 'variable: cPARP')	0.67536
-(' 815', 'clName: WM-115', 'timePoint: 10', 'variable: p-Histone H3(S10)')	-0.77003
-(' 816', 'clName: WM-115', 'timePoint: 10', 'variable: p27 Kip1')	0.43586
-(' 817', 'clName: WM-115', 'timePoint: 24', 'variable: p-p90RSK(S380)')	0.5204
-(' 818', 'clName: WM-115', 'timePoint: 24', 'variable: p-p90RSK(T573)')	
-(' 819', 'clName: WM-115', 'timePoint: 24', 'variable: p-AKT(T308)')	-0.79026
-(' 820', 'clName: WM-115', 'timePoint: 24', 'variable: p-AKT(S473)')	-0.68794
-(' 821', 'clName: WM-115', 'timePoint: 24', 'variable: p-mTOR(S2448)')	-0.40411
-(' 822', 'clName: WM-115', 'timePoint: 24', 'variable: p-p70S6K(T421/S424)')	-0.40436
-(' 823', 'clName: WM-115', 'timePoint: 24', 'variable: p-p70S6K(T389)')	
-(' 824', 'clName: WM-115', 'timePoint: 24', 'variable: p-S6(S235/236)')	1.8138
-(' 825', 'clName: WM-115', 'timePoint: 24', 'variable: p-AMPK(T172)')	-0.88057
-(' 826', 'clName: WM-115', 'timePoint: 24', 'variable: p-JNK(T183/Y185)')	
-(' 827', 'clName: WM-115', 'timePoint: 24', 'variable: Total c-Jun')	-1.1573
-(' 828', 'clName: WM-115', 'timePoint: 24', 'variable: p-cJun(S63)')	-0.80333
-(' 829', 'clName: WM-115', 'timePoint: 24', 'variable: p-P38(T180/Y182)')	
-(' 830', 'clName: WM-115', 'timePoint: 24', 'variable: p-HSP27(S82)')	-0.4255
-(' 831', 'clName: WM-115', 'timePoint: 24', 'variable: p-NFKB(S536)')	-0.47474
-(' 832', 'clName: WM-115', 'timePoint: 24', 'variable: Bim')	
-(' 833', 'clName: WM-115', 'timePoint: 24', 'variable: cPARP')	0.48989
-(' 834', 'clName: WM-115', 'timePoint: 24', 'variable: p-Histone H3(S10)')	
-(' 835', 'clName: WM-115', 'timePoint: 24', 'variable: p27 Kip1')	-0.39922
-(' 836', 'clName: WM-115', 'timePoint: 48', 'variable: p-p90RSK(S380)')	1.6033
-(' 837', 'clName: WM-115', 'timePoint: 48', 'variable: p-p90RSK(T573)')	1.03
-(' 838', 'clName: WM-115', 'timePoint: 48', 'variable: p-AKT(T308)')	-0.89141
-(' 839', 'clName: WM-115', 'timePoint: 48', 'variable: p-AKT(S473)')	-0.24656
-(' 840', 'clName: WM-115', 'timePoint: 48', 'variable: p-mTOR(S2448)')	0.61967
-(' 841', 'clName: WM-115', 'timePoint: 48', 'variable: p-p70S6K(T421/S424)')	2.0274
-(' 842', 'clName: WM-115', 'timePoint: 48', 'variable: p-p70S6K(T389)')	1.8257
-(' 843', 'clName: WM-115', 'timePoint: 48', 'variable: p-S6(S235/236)')	1.8616
-(' 844', 'clName: WM-115', 'timePoint: 48', 'variable: p-AMPK(T172)')	-0.91522
-(' 845', 'clName: WM-115', 'timePoint: 48', 'variable: p-JNK(T183/Y185)')	0.65144
-(' 846', 'clName: WM-115', 'timePoint: 48', 'variable: Total c-Jun')	-2.1836
-(' 847', 'clName: WM-115', 'timePoint: 48', 'variable: p-cJun(S63)')	-1.5545
-(' 848', 'clName: WM-115', 'timePoint: 48', 'variable: p-P38(T180/Y182)')	0.8708
-(' 849', 'clName: WM-115', 'timePoint: 48', 'variable: p-HSP27(S82)')	0.72441
-(' 850', 'clName: WM-115', 'timePoint: 48', 'variable: p-NFKB(S536)')	1.0574
-(' 851', 'clName: WM-115', 'timePoint: 48', 'variable: Bim')	
-(' 852', 'clName: WM-115', 'timePoint: 48', 'variable: cPARP')	
-(' 853', 'clName: WM-115', 'timePoint: 48', 'variable: p-Histone H3(S10)')	3.5739
-(' 854', 'clName: WM-115', 'timePoint: 48', 'variable: p27 Kip1')	-1.1015
-(' 855', 'clName: WM1552C', 'timePoint: 1', 'variable: p-p90RSK(S380)')	0.81016
-(' 856', 'clName: WM1552C', 'timePoint: 1', 'variable: p-p90RSK(T573)')	0.48146
-(' 857', 'clName: WM1552C', 'timePoint: 1', 'variable: p-AKT(T308)')	0.52449
-(' 858', 'clName: WM1552C', 'timePoint: 1', 'variable: p-AKT(S473)')	
-(' 859', 'clName: WM1552C', 'timePoint: 1', 'variable: p-mTOR(S2448)')	0.68414
-(' 860', 'clName: WM1552C', 'timePoint: 1', 'variable: p-p70S6K(T421/S424)')	1.0231
-(' 861', 'clName: WM1552C', 'timePoint: 1', 'variable: p-p70S6K(T389)')	0.80114
-(' 862', 'clName: WM1552C', 'timePoint: 1', 'variable: p-S6(S235/236)')	0.42843
-(' 863', 'clName: WM1552C', 'timePoint: 1', 'variable: p-AMPK(T172)')	0.97605
-(' 864', 'clName: WM1552C', 'timePoint: 1', 'variable: p-JNK(T183/Y185)')	1.0626
-(' 865', 'clName: WM1552C', 'timePoint: 1', 'variable: Total c-Jun')	0.6184
-(' 866', 'clName: WM1552C', 'timePoint: 1', 'variable: p-cJun(S63)')	0.85042
-(' 867', 'clName: WM1552C', 'timePoint: 1', 'variable: p-P38(T180/Y182)')	0.9603
-(' 868', 'clName: WM1552C', 'timePoint: 1', 'variable: p-HSP27(S82)')	0.81144
-(' 869', 'clName: WM1552C', 'timePoint: 1', 'variable: p-NFKB(S536)')	0.74671
-(' 870', 'clName: WM1552C', 'timePoint: 1', 'variable: Bim')	0.73961
-(' 871', 'clName: WM1552C', 'timePoint: 1', 'variable: cPARP')	0.79246
-(' 872', 'clName: WM1552C', 'timePoint: 1', 'variable: p-Histone H3(S10)')	0.2496
-(' 873', 'clName: WM1552C', 'timePoint: 1', 'variable: p27 Kip1')	
-(' 874', 'clName: WM1552C', 'timePoint: 5', 'variable: p-p90RSK(S380)')	
-(' 875', 'clName: WM1552C', 'timePoint: 5', 'variable: p-p90RSK(T573)')	
-(' 876', 'clName: WM1552C', 'timePoint: 5', 'variable: p-AKT(T308)')	-0.56449
-(' 877', 'clName: WM1552C', 'timePoint: 5', 'variable: p-AKT(S473)')	-0.46578
-(' 878', 'clName: WM1552C', 'timePoint: 5', 'variable: p-mTOR(S2448)')	
-(' 879', 'clName: WM1552C', 'timePoint: 5', 'variable: p-p70S6K(T421/S424)')	-0.47542
-(' 880', 'clName: WM1552C', 'timePoint: 5', 'variable: p-p70S6K(T389)')	
-(' 881', 'clName: WM1552C', 'timePoint: 5', 'variable: p-S6(S235/236)')	
-(' 882', 'clName: WM1552C', 'timePoint: 5', 'variable: p-AMPK(T172)')	-0.68836
-(' 883', 'clName: WM1552C', 'timePoint: 5', 'variable: p-JNK(T183/Y185)')	
-(' 884', 'clName: WM1552C', 'timePoint: 5', 'variable: Total c-Jun')	1.4197
-(' 885', 'clName: WM1552C', 'timePoint: 5', 'variable: p-cJun(S63)')	1.1822
-(' 886', 'clName: WM1552C', 'timePoint: 5', 'variable: p-P38(T180/Y182)')	
-(' 887', 'clName: WM1552C', 'timePoint: 5', 'variable: p-HSP27(S82)')	0.96946
-(' 888', 'clName: WM1552C', 'timePoint: 5', 'variable: p-NFKB(S536)')	-0.49639
-(' 889', 'clName: WM1552C', 'timePoint: 5', 'variable: Bim')	-0.58522
-(' 890', 'clName: WM1552C', 'timePoint: 5', 'variable: cPARP')	-0.47236
-(' 891', 'clName: WM1552C', 'timePoint: 5', 'variable: p-Histone H3(S10)')	-0.35061
-(' 892', 'clName: WM1552C', 'timePoint: 5', 'variable: p27 Kip1')	
-(' 893', 'clName: WM1552C', 'timePoint: 10', 'variable: p-p90RSK(S380)')	0.89499
-(' 894', 'clName: WM1552C', 'timePoint: 10', 'variable: p-p90RSK(T573)')	0.45496
-(' 895', 'clName: WM1552C', 'timePoint: 10', 'variable: p-AKT(T308)')	-1.0356
-(' 896', 'clName: WM1552C', 'timePoint: 10', 'variable: p-AKT(S473)')	
-(' 897', 'clName: WM1552C', 'timePoint: 10', 'variable: p-mTOR(S2448)')	0.64542
-(' 898', 'clName: WM1552C', 'timePoint: 10', 'variable: p-p70S6K(T421/S424)')	0.69219
-(' 899', 'clName: WM1552C', 'timePoint: 10', 'variable: p-p70S6K(T389)')	0.77814
-(' 900', 'clName: WM1552C', 'timePoint: 10', 'variable: p-S6(S235/236)')	0.79069
-(' 901', 'clName: WM1552C', 'timePoint: 10', 'variable: p-AMPK(T172)')	
-(' 902', 'clName: WM1552C', 'timePoint: 10', 'variable: p-JNK(T183/Y185)')	0.93172
-(' 903', 'clName: WM1552C', 'timePoint: 10', 'variable: Total c-Jun')	1.9743
-(' 904', 'clName: WM1552C', 'timePoint: 10', 'variable: p-cJun(S63)')	1.0538
-(' 905', 'clName: WM1552C', 'timePoint: 10', 'variable: p-P38(T180/Y182)')	0.61283
-(' 906', 'clName: WM1552C', 'timePoint: 10', 'variable: p-HSP27(S82)')	0.41162
-(' 907', 'clName: WM1552C', 'timePoint: 10', 'variable: p-NFKB(S536)')	0.52127
-(' 908', 'clName: WM1552C', 'timePoint: 10', 'variable: Bim')	
-(' 909', 'clName: WM1552C', 'timePoint: 10', 'variable: cPARP')	
-(' 910', 'clName: WM1552C', 'timePoint: 10', 'variable: p-Histone H3(S10)')	
-(' 911', 'clName: WM1552C', 'timePoint: 10', 'variable: p27 Kip1')	
-(' 912', 'clName: WM1552C', 'timePoint: 24', 'variable: p-p90RSK(S380)')	0.62822
-(' 913', 'clName: WM1552C', 'timePoint: 24', 'variable: p-p90RSK(T573)')	
-(' 914', 'clName: WM1552C', 'timePoint: 24', 'variable: p-AKT(T308)')	-0.98743
-(' 915', 'clName: WM1552C', 'timePoint: 24', 'variable: p-AKT(S473)')	-0.97161
-(' 916', 'clName: WM1552C', 'timePoint: 24', 'variable: p-mTOR(S2448)')	0.33699
-(' 917', 'clName: WM1552C', 'timePoint: 24', 'variable: p-p70S6K(T421/S424)')	-0.30308
-(' 918', 'clName: WM1552C', 'timePoint: 24', 'variable: p-p70S6K(T389)')	
-(' 919', 'clName: WM1552C', 'timePoint: 24', 'variable: p-S6(S235/236)')	
-(' 920', 'clName: WM1552C', 'timePoint: 24', 'variable: p-AMPK(T172)')	-0.31682
-(' 921', 'clName: WM1552C', 'timePoint: 24', 'variable: p-JNK(T183/Y185)')	
-(' 922', 'clName: WM1552C', 'timePoint: 24', 'variable: Total c-Jun')	0.62581
-(' 923', 'clName: WM1552C', 'timePoint: 24', 'variable: p-cJun(S63)')	-1.1751
-(' 924', 'clName: WM1552C', 'timePoint: 24', 'variable: p-P38(T180/Y182)')	
-(' 925', 'clName: WM1552C', 'timePoint: 24', 'variable: p-HSP27(S82)')	0.39
-(' 926', 'clName: WM1552C', 'timePoint: 24', 'variable: p-NFKB(S536)')	0.70333
-(' 927', 'clName: WM1552C', 'timePoint: 24', 'variable: Bim')	-1.646
-(' 928', 'clName: WM1552C', 'timePoint: 24', 'variable: cPARP')	
-(' 929', 'clName: WM1552C', 'timePoint: 24', 'variable: p-Histone H3(S10)')	1.4098
-(' 930', 'clName: WM1552C', 'timePoint: 24', 'variable: p27 Kip1')	
-(' 931', 'clName: WM1552C', 'timePoint: 48', 'variable: p-p90RSK(S380)')	1.9
-(' 932', 'clName: WM1552C', 'timePoint: 48', 'variable: p-p90RSK(T573)')	1.4538
-(' 933', 'clName: WM1552C', 'timePoint: 48', 'variable: p-AKT(T308)')	0.58462
-(' 934', 'clName: WM1552C', 'timePoint: 48', 'variable: p-AKT(S473)')	-1.3277
-(' 935', 'clName: WM1552C', 'timePoint: 48', 'variable: p-mTOR(S2448)')	1.2703
-(' 936', 'clName: WM1552C', 'timePoint: 48', 'variable: p-p70S6K(T421/S424)')	1.4441
-(' 937', 'clName: WM1552C', 'timePoint: 48', 'variable: p-p70S6K(T389)')	0.95501
-(' 938', 'clName: WM1552C', 'timePoint: 48', 'variable: p-S6(S235/236)')	-0.34452
-(' 939', 'clName: WM1552C', 'timePoint: 48', 'variable: p-AMPK(T172)')	0.70236
-(' 940', 'clName: WM1552C', 'timePoint: 48', 'variable: p-JNK(T183/Y185)')	1.5211
-(' 941', 'clName: WM1552C', 'timePoint: 48', 'variable: Total c-Jun')	0.40568
-(' 942', 'clName: WM1552C', 'timePoint: 48', 'variable: p-cJun(S63)')	-1.6459
-(' 943', 'clName: WM1552C', 'timePoint: 48', 'variable: p-P38(T180/Y182)')	
-(' 944', 'clName: WM1552C', 'timePoint: 48', 'variable: p-HSP27(S82)')	1.018
-(' 945', 'clName: WM1552C', 'timePoint: 48', 'variable: p-NFKB(S536)')	2.0087
-(' 946', 'clName: WM1552C', 'timePoint: 48', 'variable: Bim')	0.4278
-(' 947', 'clName: WM1552C', 'timePoint: 48', 'variable: cPARP')	1.9241
-(' 948', 'clName: WM1552C', 'timePoint: 48', 'variable: p-Histone H3(S10)')	2.8556
-(' 949', 'clName: WM1552C', 'timePoint: 48', 'variable: p27 Kip1')	
+(' 0', 'clName: C32', 'clCenterSpecificID: 50112', 'timePoint: 1', 'variable: p-p90RSK(S380)')	
+(' 1', 'clName: C32', 'clCenterSpecificID: 50112', 'timePoint: 1', 'variable: p-p90RSK(T573)')	-0.083785
+(' 2', 'clName: C32', 'clCenterSpecificID: 50112', 'timePoint: 1', 'variable: p-AKT(T308)')	-0.30089
+(' 3', 'clName: C32', 'clCenterSpecificID: 50112', 'timePoint: 1', 'variable: p-AKT(S473)')	-0.76446
+(' 4', 'clName: C32', 'clCenterSpecificID: 50112', 'timePoint: 1', 'variable: p-mTOR(S2448)')	
+(' 5', 'clName: C32', 'clCenterSpecificID: 50112', 'timePoint: 1', 'variable: p-p70S6K(T421/S424)')	0.32858
+(' 6', 'clName: C32', 'clCenterSpecificID: 50112', 'timePoint: 1', 'variable: p-p70S6K(T389)')	
+(' 7', 'clName: C32', 'clCenterSpecificID: 50112', 'timePoint: 1', 'variable: p-S6(S235/236)')	0.39171
+(' 8', 'clName: C32', 'clCenterSpecificID: 50112', 'timePoint: 1', 'variable: p-AMPK(T172)')	-0.33118
+(' 9', 'clName: C32', 'clCenterSpecificID: 50112', 'timePoint: 1', 'variable: p-JNK(T183/Y185)')	0.25916
+(' 10', 'clName: C32', 'clCenterSpecificID: 50112', 'timePoint: 1', 'variable: Total c-Jun')	0.32059
+(' 11', 'clName: C32', 'clCenterSpecificID: 50112', 'timePoint: 1', 'variable: p-cJun(S63)')	
+(' 12', 'clName: C32', 'clCenterSpecificID: 50112', 'timePoint: 1', 'variable: p-P38(T180/Y182)')	0.58661
+(' 13', 'clName: C32', 'clCenterSpecificID: 50112', 'timePoint: 1', 'variable: p-HSP27(S82)')	
+(' 14', 'clName: C32', 'clCenterSpecificID: 50112', 'timePoint: 1', 'variable: p-NFKB(S536)')	0.37812
+(' 15', 'clName: C32', 'clCenterSpecificID: 50112', 'timePoint: 1', 'variable: Bim')	-0.066807
+(' 16', 'clName: C32', 'clCenterSpecificID: 50112', 'timePoint: 1', 'variable: cPARP')	0.30901
+(' 17', 'clName: C32', 'clCenterSpecificID: 50112', 'timePoint: 1', 'variable: p-Histone H3(S10)')	-0.15771
+(' 18', 'clName: C32', 'clCenterSpecificID: 50112', 'timePoint: 1', 'variable: p27 Kip1')	0.018919
+(' 19', 'clName: C32', 'clCenterSpecificID: 50112', 'timePoint: 5', 'variable: p-p90RSK(S380)')	
+(' 20', 'clName: C32', 'clCenterSpecificID: 50112', 'timePoint: 5', 'variable: p-p90RSK(T573)')	-0.42106
+(' 21', 'clName: C32', 'clCenterSpecificID: 50112', 'timePoint: 5', 'variable: p-AKT(T308)')	-0.60889
+(' 22', 'clName: C32', 'clCenterSpecificID: 50112', 'timePoint: 5', 'variable: p-AKT(S473)')	-1.0263
+(' 23', 'clName: C32', 'clCenterSpecificID: 50112', 'timePoint: 5', 'variable: p-mTOR(S2448)')	
+(' 24', 'clName: C32', 'clCenterSpecificID: 50112', 'timePoint: 5', 'variable: p-p70S6K(T421/S424)')	0.34501
+(' 25', 'clName: C32', 'clCenterSpecificID: 50112', 'timePoint: 5', 'variable: p-p70S6K(T389)')	
+(' 26', 'clName: C32', 'clCenterSpecificID: 50112', 'timePoint: 5', 'variable: p-S6(S235/236)')	0.80421
+(' 27', 'clName: C32', 'clCenterSpecificID: 50112', 'timePoint: 5', 'variable: p-AMPK(T172)')	-0.49728
+(' 28', 'clName: C32', 'clCenterSpecificID: 50112', 'timePoint: 5', 'variable: p-JNK(T183/Y185)')	-0.33016
+(' 29', 'clName: C32', 'clCenterSpecificID: 50112', 'timePoint: 5', 'variable: Total c-Jun')	1.0783
+(' 30', 'clName: C32', 'clCenterSpecificID: 50112', 'timePoint: 5', 'variable: p-cJun(S63)')	
+(' 31', 'clName: C32', 'clCenterSpecificID: 50112', 'timePoint: 5', 'variable: p-P38(T180/Y182)')	-0.47396
+(' 32', 'clName: C32', 'clCenterSpecificID: 50112', 'timePoint: 5', 'variable: p-HSP27(S82)')	
+(' 33', 'clName: C32', 'clCenterSpecificID: 50112', 'timePoint: 5', 'variable: p-NFKB(S536)')	0.64144
+(' 34', 'clName: C32', 'clCenterSpecificID: 50112', 'timePoint: 5', 'variable: Bim')	-0.72875
+(' 35', 'clName: C32', 'clCenterSpecificID: 50112', 'timePoint: 5', 'variable: cPARP')	0.10205
+(' 36', 'clName: C32', 'clCenterSpecificID: 50112', 'timePoint: 5', 'variable: p-Histone H3(S10)')	-0.33609
+(' 37', 'clName: C32', 'clCenterSpecificID: 50112', 'timePoint: 5', 'variable: p27 Kip1')	-0.36568
+(' 38', 'clName: C32', 'clCenterSpecificID: 50112', 'timePoint: 10', 'variable: p-p90RSK(S380)')	
+(' 39', 'clName: C32', 'clCenterSpecificID: 50112', 'timePoint: 10', 'variable: p-p90RSK(T573)')	-0.32086
+(' 40', 'clName: C32', 'clCenterSpecificID: 50112', 'timePoint: 10', 'variable: p-AKT(T308)')	-0.73599
+(' 41', 'clName: C32', 'clCenterSpecificID: 50112', 'timePoint: 10', 'variable: p-AKT(S473)')	-1.0779
+(' 42', 'clName: C32', 'clCenterSpecificID: 50112', 'timePoint: 10', 'variable: p-mTOR(S2448)')	
+(' 43', 'clName: C32', 'clCenterSpecificID: 50112', 'timePoint: 10', 'variable: p-p70S6K(T421/S424)')	0.53232
+(' 44', 'clName: C32', 'clCenterSpecificID: 50112', 'timePoint: 10', 'variable: p-p70S6K(T389)')	
+(' 45', 'clName: C32', 'clCenterSpecificID: 50112', 'timePoint: 10', 'variable: p-S6(S235/236)')	1.0221
+(' 46', 'clName: C32', 'clCenterSpecificID: 50112', 'timePoint: 10', 'variable: p-AMPK(T172)')	-0.33165
+(' 47', 'clName: C32', 'clCenterSpecificID: 50112', 'timePoint: 10', 'variable: p-JNK(T183/Y185)')	-0.23631
+(' 48', 'clName: C32', 'clCenterSpecificID: 50112', 'timePoint: 10', 'variable: Total c-Jun')	1.8229
+(' 49', 'clName: C32', 'clCenterSpecificID: 50112', 'timePoint: 10', 'variable: p-cJun(S63)')	
+(' 50', 'clName: C32', 'clCenterSpecificID: 50112', 'timePoint: 10', 'variable: p-P38(T180/Y182)')	-0.2397
+(' 51', 'clName: C32', 'clCenterSpecificID: 50112', 'timePoint: 10', 'variable: p-HSP27(S82)')	
+(' 52', 'clName: C32', 'clCenterSpecificID: 50112', 'timePoint: 10', 'variable: p-NFKB(S536)')	0.72615
+(' 53', 'clName: C32', 'clCenterSpecificID: 50112', 'timePoint: 10', 'variable: Bim')	-0.70591
+(' 54', 'clName: C32', 'clCenterSpecificID: 50112', 'timePoint: 10', 'variable: cPARP')	-0.2144
+(' 55', 'clName: C32', 'clCenterSpecificID: 50112', 'timePoint: 10', 'variable: p-Histone H3(S10)')	-0.29139
+(' 56', 'clName: C32', 'clCenterSpecificID: 50112', 'timePoint: 10', 'variable: p27 Kip1')	-0.77624
+(' 57', 'clName: C32', 'clCenterSpecificID: 50112', 'timePoint: 24', 'variable: p-p90RSK(S380)')	
+(' 58', 'clName: C32', 'clCenterSpecificID: 50112', 'timePoint: 24', 'variable: p-p90RSK(T573)')	0.37544
+(' 59', 'clName: C32', 'clCenterSpecificID: 50112', 'timePoint: 24', 'variable: p-AKT(T308)')	-1.208
+(' 60', 'clName: C32', 'clCenterSpecificID: 50112', 'timePoint: 24', 'variable: p-AKT(S473)')	-1.0008
+(' 61', 'clName: C32', 'clCenterSpecificID: 50112', 'timePoint: 24', 'variable: p-mTOR(S2448)')	
+(' 62', 'clName: C32', 'clCenterSpecificID: 50112', 'timePoint: 24', 'variable: p-p70S6K(T421/S424)')	1.398
+(' 63', 'clName: C32', 'clCenterSpecificID: 50112', 'timePoint: 24', 'variable: p-p70S6K(T389)')	
+(' 64', 'clName: C32', 'clCenterSpecificID: 50112', 'timePoint: 24', 'variable: p-S6(S235/236)')	1.2768
+(' 65', 'clName: C32', 'clCenterSpecificID: 50112', 'timePoint: 24', 'variable: p-AMPK(T172)')	-1.0207
+(' 66', 'clName: C32', 'clCenterSpecificID: 50112', 'timePoint: 24', 'variable: p-JNK(T183/Y185)')	-0.44703
+(' 67', 'clName: C32', 'clCenterSpecificID: 50112', 'timePoint: 24', 'variable: Total c-Jun')	1.3417
+(' 68', 'clName: C32', 'clCenterSpecificID: 50112', 'timePoint: 24', 'variable: p-cJun(S63)')	
+(' 69', 'clName: C32', 'clCenterSpecificID: 50112', 'timePoint: 24', 'variable: p-P38(T180/Y182)')	-0.76311
+(' 70', 'clName: C32', 'clCenterSpecificID: 50112', 'timePoint: 24', 'variable: p-HSP27(S82)')	
+(' 71', 'clName: C32', 'clCenterSpecificID: 50112', 'timePoint: 24', 'variable: p-NFKB(S536)')	-0.16232
+(' 72', 'clName: C32', 'clCenterSpecificID: 50112', 'timePoint: 24', 'variable: Bim')	-1.5588
+(' 73', 'clName: C32', 'clCenterSpecificID: 50112', 'timePoint: 24', 'variable: cPARP')	-1.0029
+(' 74', 'clName: C32', 'clCenterSpecificID: 50112', 'timePoint: 24', 'variable: p-Histone H3(S10)')	1.0116
+(' 75', 'clName: C32', 'clCenterSpecificID: 50112', 'timePoint: 24', 'variable: p27 Kip1')	-1.7921
+(' 76', 'clName: C32', 'clCenterSpecificID: 50112', 'timePoint: 48', 'variable: p-p90RSK(S380)')	
+(' 77', 'clName: C32', 'clCenterSpecificID: 50112', 'timePoint: 48', 'variable: p-p90RSK(T573)')	-0.68196
+(' 78', 'clName: C32', 'clCenterSpecificID: 50112', 'timePoint: 48', 'variable: p-AKT(T308)')	-2.0676
+(' 79', 'clName: C32', 'clCenterSpecificID: 50112', 'timePoint: 48', 'variable: p-AKT(S473)')	0.87427
+(' 80', 'clName: C32', 'clCenterSpecificID: 50112', 'timePoint: 48', 'variable: p-mTOR(S2448)')	
+(' 81', 'clName: C32', 'clCenterSpecificID: 50112', 'timePoint: 48', 'variable: p-p70S6K(T421/S424)')	1.3193
+(' 82', 'clName: C32', 'clCenterSpecificID: 50112', 'timePoint: 48', 'variable: p-p70S6K(T389)')	
+(' 83', 'clName: C32', 'clCenterSpecificID: 50112', 'timePoint: 48', 'variable: p-S6(S235/236)')	0.94756
+(' 84', 'clName: C32', 'clCenterSpecificID: 50112', 'timePoint: 48', 'variable: p-AMPK(T172)')	-2.4355
+(' 85', 'clName: C32', 'clCenterSpecificID: 50112', 'timePoint: 48', 'variable: p-JNK(T183/Y185)')	-0.47751
+(' 86', 'clName: C32', 'clCenterSpecificID: 50112', 'timePoint: 48', 'variable: Total c-Jun')	0.65195
+(' 87', 'clName: C32', 'clCenterSpecificID: 50112', 'timePoint: 48', 'variable: p-cJun(S63)')	
+(' 88', 'clName: C32', 'clCenterSpecificID: 50112', 'timePoint: 48', 'variable: p-P38(T180/Y182)')	-1.2007
+(' 89', 'clName: C32', 'clCenterSpecificID: 50112', 'timePoint: 48', 'variable: p-HSP27(S82)')	
+(' 90', 'clName: C32', 'clCenterSpecificID: 50112', 'timePoint: 48', 'variable: p-NFKB(S536)')	0.89789
+(' 91', 'clName: C32', 'clCenterSpecificID: 50112', 'timePoint: 48', 'variable: Bim')	-2.0912
+(' 92', 'clName: C32', 'clCenterSpecificID: 50112', 'timePoint: 48', 'variable: cPARP')	-2.7212
+(' 93', 'clName: C32', 'clCenterSpecificID: 50112', 'timePoint: 48', 'variable: p-Histone H3(S10)')	1.8878
+(' 94', 'clName: C32', 'clCenterSpecificID: 50112', 'timePoint: 48', 'variable: p27 Kip1')	-2.1425
+(' 95', 'clName: COLO 858', 'clCenterSpecificID: 50149', 'timePoint: 1', 'variable: p-p90RSK(S380)')	0.84691
+(' 96', 'clName: COLO 858', 'clCenterSpecificID: 50149', 'timePoint: 1', 'variable: p-p90RSK(T573)')	0.89866
+(' 97', 'clName: COLO 858', 'clCenterSpecificID: 50149', 'timePoint: 1', 'variable: p-AKT(T308)')	0.75851
+(' 98', 'clName: COLO 858', 'clCenterSpecificID: 50149', 'timePoint: 1', 'variable: p-AKT(S473)')	
+(' 99', 'clName: COLO 858', 'clCenterSpecificID: 50149', 'timePoint: 1', 'variable: p-mTOR(S2448)')	0.63295
+(' 100', 'clName: COLO 858', 'clCenterSpecificID: 50149', 'timePoint: 1', 'variable: p-p70S6K(T421/S424)')	0.86383
+(' 101', 'clName: COLO 858', 'clCenterSpecificID: 50149', 'timePoint: 1', 'variable: p-p70S6K(T389)')	
+(' 102', 'clName: COLO 858', 'clCenterSpecificID: 50149', 'timePoint: 1', 'variable: p-S6(S235/236)')	0.33607
+(' 103', 'clName: COLO 858', 'clCenterSpecificID: 50149', 'timePoint: 1', 'variable: p-AMPK(T172)')	0.3059
+(' 104', 'clName: COLO 858', 'clCenterSpecificID: 50149', 'timePoint: 1', 'variable: p-JNK(T183/Y185)')	0.76476
+(' 105', 'clName: COLO 858', 'clCenterSpecificID: 50149', 'timePoint: 1', 'variable: Total c-Jun')	0.80793
+(' 106', 'clName: COLO 858', 'clCenterSpecificID: 50149', 'timePoint: 1', 'variable: p-cJun(S63)')	0.59998
+(' 107', 'clName: COLO 858', 'clCenterSpecificID: 50149', 'timePoint: 1', 'variable: p-P38(T180/Y182)')	1.2019
+(' 108', 'clName: COLO 858', 'clCenterSpecificID: 50149', 'timePoint: 1', 'variable: p-HSP27(S82)')	0.69943
+(' 109', 'clName: COLO 858', 'clCenterSpecificID: 50149', 'timePoint: 1', 'variable: p-NFKB(S536)')	0.58301
+(' 110', 'clName: COLO 858', 'clCenterSpecificID: 50149', 'timePoint: 1', 'variable: Bim')	0.65979
+(' 111', 'clName: COLO 858', 'clCenterSpecificID: 50149', 'timePoint: 1', 'variable: cPARP')	0.39988
+(' 112', 'clName: COLO 858', 'clCenterSpecificID: 50149', 'timePoint: 1', 'variable: p-Histone H3(S10)')	0.19602
+(' 113', 'clName: COLO 858', 'clCenterSpecificID: 50149', 'timePoint: 1', 'variable: p27 Kip1')	0.17306
+(' 114', 'clName: COLO 858', 'clCenterSpecificID: 50149', 'timePoint: 5', 'variable: p-p90RSK(S380)')	
+(' 115', 'clName: COLO 858', 'clCenterSpecificID: 50149', 'timePoint: 5', 'variable: p-p90RSK(T573)')	
+(' 116', 'clName: COLO 858', 'clCenterSpecificID: 50149', 'timePoint: 5', 'variable: p-AKT(T308)')	-0.90247
+(' 117', 'clName: COLO 858', 'clCenterSpecificID: 50149', 'timePoint: 5', 'variable: p-AKT(S473)')	-1.0409
+(' 118', 'clName: COLO 858', 'clCenterSpecificID: 50149', 'timePoint: 5', 'variable: p-mTOR(S2448)')	-1.0187
+(' 119', 'clName: COLO 858', 'clCenterSpecificID: 50149', 'timePoint: 5', 'variable: p-p70S6K(T421/S424)')	-0.54722
+(' 120', 'clName: COLO 858', 'clCenterSpecificID: 50149', 'timePoint: 5', 'variable: p-p70S6K(T389)')	
+(' 121', 'clName: COLO 858', 'clCenterSpecificID: 50149', 'timePoint: 5', 'variable: p-S6(S235/236)')	0.65771
+(' 122', 'clName: COLO 858', 'clCenterSpecificID: 50149', 'timePoint: 5', 'variable: p-AMPK(T172)')	-0.32007
+(' 123', 'clName: COLO 858', 'clCenterSpecificID: 50149', 'timePoint: 5', 'variable: p-JNK(T183/Y185)')	-0.80949
+(' 124', 'clName: COLO 858', 'clCenterSpecificID: 50149', 'timePoint: 5', 'variable: Total c-Jun')	-0.22071
+(' 125', 'clName: COLO 858', 'clCenterSpecificID: 50149', 'timePoint: 5', 'variable: p-cJun(S63)')	-0.40755
+(' 126', 'clName: COLO 858', 'clCenterSpecificID: 50149', 'timePoint: 5', 'variable: p-P38(T180/Y182)')	-0.24703
+(' 127', 'clName: COLO 858', 'clCenterSpecificID: 50149', 'timePoint: 5', 'variable: p-HSP27(S82)')	
+(' 128', 'clName: COLO 858', 'clCenterSpecificID: 50149', 'timePoint: 5', 'variable: p-NFKB(S536)')	-0.41318
+(' 129', 'clName: COLO 858', 'clCenterSpecificID: 50149', 'timePoint: 5', 'variable: Bim')	-0.72585
+(' 130', 'clName: COLO 858', 'clCenterSpecificID: 50149', 'timePoint: 5', 'variable: cPARP')	-0.68373
+(' 131', 'clName: COLO 858', 'clCenterSpecificID: 50149', 'timePoint: 5', 'variable: p-Histone H3(S10)')	-0.51744
+(' 132', 'clName: COLO 858', 'clCenterSpecificID: 50149', 'timePoint: 5', 'variable: p27 Kip1')	-0.3912
+(' 133', 'clName: COLO 858', 'clCenterSpecificID: 50149', 'timePoint: 10', 'variable: p-p90RSK(S380)')	1.0813
+(' 134', 'clName: COLO 858', 'clCenterSpecificID: 50149', 'timePoint: 10', 'variable: p-p90RSK(T573)')	0.71089
+(' 135', 'clName: COLO 858', 'clCenterSpecificID: 50149', 'timePoint: 10', 'variable: p-AKT(T308)')	0.47347
+(' 136', 'clName: COLO 858', 'clCenterSpecificID: 50149', 'timePoint: 10', 'variable: p-AKT(S473)')	
+(' 137', 'clName: COLO 858', 'clCenterSpecificID: 50149', 'timePoint: 10', 'variable: p-mTOR(S2448)')	0.50348
+(' 138', 'clName: COLO 858', 'clCenterSpecificID: 50149', 'timePoint: 10', 'variable: p-p70S6K(T421/S424)')	0.8483
+(' 139', 'clName: COLO 858', 'clCenterSpecificID: 50149', 'timePoint: 10', 'variable: p-p70S6K(T389)')	
+(' 140', 'clName: COLO 858', 'clCenterSpecificID: 50149', 'timePoint: 10', 'variable: p-S6(S235/236)')	1.5274
+(' 141', 'clName: COLO 858', 'clCenterSpecificID: 50149', 'timePoint: 10', 'variable: p-AMPK(T172)')	0.64494
+(' 142', 'clName: COLO 858', 'clCenterSpecificID: 50149', 'timePoint: 10', 'variable: p-JNK(T183/Y185)')	0.49441
+(' 143', 'clName: COLO 858', 'clCenterSpecificID: 50149', 'timePoint: 10', 'variable: Total c-Jun')	
+(' 144', 'clName: COLO 858', 'clCenterSpecificID: 50149', 'timePoint: 10', 'variable: p-cJun(S63)')	
+(' 145', 'clName: COLO 858', 'clCenterSpecificID: 50149', 'timePoint: 10', 'variable: p-P38(T180/Y182)')	0.57024
+(' 146', 'clName: COLO 858', 'clCenterSpecificID: 50149', 'timePoint: 10', 'variable: p-HSP27(S82)')	0.62454
+(' 147', 'clName: COLO 858', 'clCenterSpecificID: 50149', 'timePoint: 10', 'variable: p-NFKB(S536)')	1.9888
+(' 148', 'clName: COLO 858', 'clCenterSpecificID: 50149', 'timePoint: 10', 'variable: Bim')	-0.23495
+(' 149', 'clName: COLO 858', 'clCenterSpecificID: 50149', 'timePoint: 10', 'variable: cPARP')	
+(' 150', 'clName: COLO 858', 'clCenterSpecificID: 50149', 'timePoint: 10', 'variable: p-Histone H3(S10)')	
+(' 151', 'clName: COLO 858', 'clCenterSpecificID: 50149', 'timePoint: 10', 'variable: p27 Kip1')	-0.3484
+(' 152', 'clName: COLO 858', 'clCenterSpecificID: 50149', 'timePoint: 24', 'variable: p-p90RSK(S380)')	-0.38937
+(' 153', 'clName: COLO 858', 'clCenterSpecificID: 50149', 'timePoint: 24', 'variable: p-p90RSK(T573)')	
+(' 154', 'clName: COLO 858', 'clCenterSpecificID: 50149', 'timePoint: 24', 'variable: p-AKT(T308)')	-1.4793
+(' 155', 'clName: COLO 858', 'clCenterSpecificID: 50149', 'timePoint: 24', 'variable: p-AKT(S473)')	-0.93153
+(' 156', 'clName: COLO 858', 'clCenterSpecificID: 50149', 'timePoint: 24', 'variable: p-mTOR(S2448)')	-0.79573
+(' 157', 'clName: COLO 858', 'clCenterSpecificID: 50149', 'timePoint: 24', 'variable: p-p70S6K(T421/S424)')	0.23993
+(' 158', 'clName: COLO 858', 'clCenterSpecificID: 50149', 'timePoint: 24', 'variable: p-p70S6K(T389)')	
+(' 159', 'clName: COLO 858', 'clCenterSpecificID: 50149', 'timePoint: 24', 'variable: p-S6(S235/236)')	1.4411
+(' 160', 'clName: COLO 858', 'clCenterSpecificID: 50149', 'timePoint: 24', 'variable: p-AMPK(T172)')	-0.47678
+(' 161', 'clName: COLO 858', 'clCenterSpecificID: 50149', 'timePoint: 24', 'variable: p-JNK(T183/Y185)')	-1.7943
+(' 162', 'clName: COLO 858', 'clCenterSpecificID: 50149', 'timePoint: 24', 'variable: Total c-Jun')	-1.4354
+(' 163', 'clName: COLO 858', 'clCenterSpecificID: 50149', 'timePoint: 24', 'variable: p-cJun(S63)')	-1.5487
+(' 164', 'clName: COLO 858', 'clCenterSpecificID: 50149', 'timePoint: 24', 'variable: p-P38(T180/Y182)')	-0.59726
+(' 165', 'clName: COLO 858', 'clCenterSpecificID: 50149', 'timePoint: 24', 'variable: p-HSP27(S82)')	-0.63952
+(' 166', 'clName: COLO 858', 'clCenterSpecificID: 50149', 'timePoint: 24', 'variable: p-NFKB(S536)')	0.80521
+(' 167', 'clName: COLO 858', 'clCenterSpecificID: 50149', 'timePoint: 24', 'variable: Bim')	-1.9096
+(' 168', 'clName: COLO 858', 'clCenterSpecificID: 50149', 'timePoint: 24', 'variable: cPARP')	-1.5126
+(' 169', 'clName: COLO 858', 'clCenterSpecificID: 50149', 'timePoint: 24', 'variable: p-Histone H3(S10)')	1.2678
+(' 170', 'clName: COLO 858', 'clCenterSpecificID: 50149', 'timePoint: 24', 'variable: p27 Kip1')	-2.0272
+(' 171', 'clName: COLO 858', 'clCenterSpecificID: 50149', 'timePoint: 48', 'variable: p-p90RSK(S380)')	
+(' 172', 'clName: COLO 858', 'clCenterSpecificID: 50149', 'timePoint: 48', 'variable: p-p90RSK(T573)')	0.99705
+(' 173', 'clName: COLO 858', 'clCenterSpecificID: 50149', 'timePoint: 48', 'variable: p-AKT(T308)')	
+(' 174', 'clName: COLO 858', 'clCenterSpecificID: 50149', 'timePoint: 48', 'variable: p-AKT(S473)')	
+(' 175', 'clName: COLO 858', 'clCenterSpecificID: 50149', 'timePoint: 48', 'variable: p-mTOR(S2448)')	
+(' 176', 'clName: COLO 858', 'clCenterSpecificID: 50149', 'timePoint: 48', 'variable: p-p70S6K(T421/S424)')	1.9582
+(' 177', 'clName: COLO 858', 'clCenterSpecificID: 50149', 'timePoint: 48', 'variable: p-p70S6K(T389)')	-1.0544
+(' 178', 'clName: COLO 858', 'clCenterSpecificID: 50149', 'timePoint: 48', 'variable: p-S6(S235/236)')	0.87001
+(' 179', 'clName: COLO 858', 'clCenterSpecificID: 50149', 'timePoint: 48', 'variable: p-AMPK(T172)')	
+(' 180', 'clName: COLO 858', 'clCenterSpecificID: 50149', 'timePoint: 48', 'variable: p-JNK(T183/Y185)')	
+(' 181', 'clName: COLO 858', 'clCenterSpecificID: 50149', 'timePoint: 48', 'variable: Total c-Jun')	-1.4025
+(' 182', 'clName: COLO 858', 'clCenterSpecificID: 50149', 'timePoint: 48', 'variable: p-cJun(S63)')	-1.6239
+(' 183', 'clName: COLO 858', 'clCenterSpecificID: 50149', 'timePoint: 48', 'variable: p-P38(T180/Y182)')	
+(' 184', 'clName: COLO 858', 'clCenterSpecificID: 50149', 'timePoint: 48', 'variable: p-HSP27(S82)')	
+(' 185', 'clName: COLO 858', 'clCenterSpecificID: 50149', 'timePoint: 48', 'variable: p-NFKB(S536)')	0.77663
+(' 186', 'clName: COLO 858', 'clCenterSpecificID: 50149', 'timePoint: 48', 'variable: Bim')	
+(' 187', 'clName: COLO 858', 'clCenterSpecificID: 50149', 'timePoint: 48', 'variable: cPARP')	-1.2988
+(' 188', 'clName: COLO 858', 'clCenterSpecificID: 50149', 'timePoint: 48', 'variable: p-Histone H3(S10)')	2.1972
+(' 189', 'clName: COLO 858', 'clCenterSpecificID: 50149', 'timePoint: 48', 'variable: p27 Kip1')	-1.3451
+(' 190', 'clName: K2', 'clCenterSpecificID: 51100', 'timePoint: 1', 'variable: p-p90RSK(S380)')	0.55581
+(' 191', 'clName: K2', 'clCenterSpecificID: 51100', 'timePoint: 1', 'variable: p-p90RSK(T573)')	0.42261
+(' 192', 'clName: K2', 'clCenterSpecificID: 51100', 'timePoint: 1', 'variable: p-AKT(T308)')	0.55656
+(' 193', 'clName: K2', 'clCenterSpecificID: 51100', 'timePoint: 1', 'variable: p-AKT(S473)')	-0.19537
+(' 194', 'clName: K2', 'clCenterSpecificID: 51100', 'timePoint: 1', 'variable: p-mTOR(S2448)')	0.33846
+(' 195', 'clName: K2', 'clCenterSpecificID: 51100', 'timePoint: 1', 'variable: p-p70S6K(T421/S424)')	0.65733
+(' 196', 'clName: K2', 'clCenterSpecificID: 51100', 'timePoint: 1', 'variable: p-p70S6K(T389)')	0.34604
+(' 197', 'clName: K2', 'clCenterSpecificID: 51100', 'timePoint: 1', 'variable: p-S6(S235/236)')	
+(' 198', 'clName: K2', 'clCenterSpecificID: 51100', 'timePoint: 1', 'variable: p-AMPK(T172)')	0.22097
+(' 199', 'clName: K2', 'clCenterSpecificID: 51100', 'timePoint: 1', 'variable: p-JNK(T183/Y185)')	0.51643
+(' 200', 'clName: K2', 'clCenterSpecificID: 51100', 'timePoint: 1', 'variable: Total c-Jun')	0.43366
+(' 201', 'clName: K2', 'clCenterSpecificID: 51100', 'timePoint: 1', 'variable: p-cJun(S63)')	0.2854
+(' 202', 'clName: K2', 'clCenterSpecificID: 51100', 'timePoint: 1', 'variable: p-P38(T180/Y182)')	0.54415
+(' 203', 'clName: K2', 'clCenterSpecificID: 51100', 'timePoint: 1', 'variable: p-HSP27(S82)')	0.25698
+(' 204', 'clName: K2', 'clCenterSpecificID: 51100', 'timePoint: 1', 'variable: p-NFKB(S536)')	0.69767
+(' 205', 'clName: K2', 'clCenterSpecificID: 51100', 'timePoint: 1', 'variable: Bim')	
+(' 206', 'clName: K2', 'clCenterSpecificID: 51100', 'timePoint: 1', 'variable: cPARP')	0.24549
+(' 207', 'clName: K2', 'clCenterSpecificID: 51100', 'timePoint: 1', 'variable: p-Histone H3(S10)')	
+(' 208', 'clName: K2', 'clCenterSpecificID: 51100', 'timePoint: 1', 'variable: p27 Kip1')	0.10019
+(' 209', 'clName: K2', 'clCenterSpecificID: 51100', 'timePoint: 5', 'variable: p-p90RSK(S380)')	
+(' 210', 'clName: K2', 'clCenterSpecificID: 51100', 'timePoint: 5', 'variable: p-p90RSK(T573)')	
+(' 211', 'clName: K2', 'clCenterSpecificID: 51100', 'timePoint: 5', 'variable: p-AKT(T308)')	1.0187
+(' 212', 'clName: K2', 'clCenterSpecificID: 51100', 'timePoint: 5', 'variable: p-AKT(S473)')	-0.53378
+(' 213', 'clName: K2', 'clCenterSpecificID: 51100', 'timePoint: 5', 'variable: p-mTOR(S2448)')	
+(' 214', 'clName: K2', 'clCenterSpecificID: 51100', 'timePoint: 5', 'variable: p-p70S6K(T421/S424)')	-0.40054
+(' 215', 'clName: K2', 'clCenterSpecificID: 51100', 'timePoint: 5', 'variable: p-p70S6K(T389)')	0.69697
+(' 216', 'clName: K2', 'clCenterSpecificID: 51100', 'timePoint: 5', 'variable: p-S6(S235/236)')	0.56096
+(' 217', 'clName: K2', 'clCenterSpecificID: 51100', 'timePoint: 5', 'variable: p-AMPK(T172)')	-0.69477
+(' 218', 'clName: K2', 'clCenterSpecificID: 51100', 'timePoint: 5', 'variable: p-JNK(T183/Y185)')	
+(' 219', 'clName: K2', 'clCenterSpecificID: 51100', 'timePoint: 5', 'variable: Total c-Jun')	0.97545
+(' 220', 'clName: K2', 'clCenterSpecificID: 51100', 'timePoint: 5', 'variable: p-cJun(S63)')	0.60521
+(' 221', 'clName: K2', 'clCenterSpecificID: 51100', 'timePoint: 5', 'variable: p-P38(T180/Y182)')	
+(' 222', 'clName: K2', 'clCenterSpecificID: 51100', 'timePoint: 5', 'variable: p-HSP27(S82)')	-0.30678
+(' 223', 'clName: K2', 'clCenterSpecificID: 51100', 'timePoint: 5', 'variable: p-NFKB(S536)')	-0.6853
+(' 224', 'clName: K2', 'clCenterSpecificID: 51100', 'timePoint: 5', 'variable: Bim')	-0.60094
+(' 225', 'clName: K2', 'clCenterSpecificID: 51100', 'timePoint: 5', 'variable: cPARP')	-0.49113
+(' 226', 'clName: K2', 'clCenterSpecificID: 51100', 'timePoint: 5', 'variable: p-Histone H3(S10)')	-0.35441
+(' 227', 'clName: K2', 'clCenterSpecificID: 51100', 'timePoint: 5', 'variable: p27 Kip1')	-0.29404
+(' 228', 'clName: K2', 'clCenterSpecificID: 51100', 'timePoint: 10', 'variable: p-p90RSK(S380)')	1.1152
+(' 229', 'clName: K2', 'clCenterSpecificID: 51100', 'timePoint: 10', 'variable: p-p90RSK(T573)')	0.78331
+(' 230', 'clName: K2', 'clCenterSpecificID: 51100', 'timePoint: 10', 'variable: p-AKT(T308)')	1.2519
+(' 231', 'clName: K2', 'clCenterSpecificID: 51100', 'timePoint: 10', 'variable: p-AKT(S473)')	-0.67104
+(' 232', 'clName: K2', 'clCenterSpecificID: 51100', 'timePoint: 10', 'variable: p-mTOR(S2448)')	1.1151
+(' 233', 'clName: K2', 'clCenterSpecificID: 51100', 'timePoint: 10', 'variable: p-p70S6K(T421/S424)')	1.3395
+(' 234', 'clName: K2', 'clCenterSpecificID: 51100', 'timePoint: 10', 'variable: p-p70S6K(T389)')	1.2487
+(' 235', 'clName: K2', 'clCenterSpecificID: 51100', 'timePoint: 10', 'variable: p-S6(S235/236)')	1.4936
+(' 236', 'clName: K2', 'clCenterSpecificID: 51100', 'timePoint: 10', 'variable: p-AMPK(T172)')	0.75776
+(' 237', 'clName: K2', 'clCenterSpecificID: 51100', 'timePoint: 10', 'variable: p-JNK(T183/Y185)')	1.0753
+(' 238', 'clName: K2', 'clCenterSpecificID: 51100', 'timePoint: 10', 'variable: Total c-Jun')	1.3454
+(' 239', 'clName: K2', 'clCenterSpecificID: 51100', 'timePoint: 10', 'variable: p-cJun(S63)')	1.1284
+(' 240', 'clName: K2', 'clCenterSpecificID: 51100', 'timePoint: 10', 'variable: p-P38(T180/Y182)')	0.60218
+(' 241', 'clName: K2', 'clCenterSpecificID: 51100', 'timePoint: 10', 'variable: p-HSP27(S82)')	0.4945
+(' 242', 'clName: K2', 'clCenterSpecificID: 51100', 'timePoint: 10', 'variable: p-NFKB(S536)')	0.49598
+(' 243', 'clName: K2', 'clCenterSpecificID: 51100', 'timePoint: 10', 'variable: Bim')	-0.18648
+(' 244', 'clName: K2', 'clCenterSpecificID: 51100', 'timePoint: 10', 'variable: cPARP')	0.75419
+(' 245', 'clName: K2', 'clCenterSpecificID: 51100', 'timePoint: 10', 'variable: p-Histone H3(S10)')	-0.23635
+(' 246', 'clName: K2', 'clCenterSpecificID: 51100', 'timePoint: 10', 'variable: p27 Kip1')	-0.48401
+(' 247', 'clName: K2', 'clCenterSpecificID: 51100', 'timePoint: 24', 'variable: p-p90RSK(S380)')	
+(' 248', 'clName: K2', 'clCenterSpecificID: 51100', 'timePoint: 24', 'variable: p-p90RSK(T573)')	
+(' 249', 'clName: K2', 'clCenterSpecificID: 51100', 'timePoint: 24', 'variable: p-AKT(T308)')	0.99821
+(' 250', 'clName: K2', 'clCenterSpecificID: 51100', 'timePoint: 24', 'variable: p-AKT(S473)')	-1.4107
+(' 251', 'clName: K2', 'clCenterSpecificID: 51100', 'timePoint: 24', 'variable: p-mTOR(S2448)')	
+(' 252', 'clName: K2', 'clCenterSpecificID: 51100', 'timePoint: 24', 'variable: p-p70S6K(T421/S424)')	-0.71005
+(' 253', 'clName: K2', 'clCenterSpecificID: 51100', 'timePoint: 24', 'variable: p-p70S6K(T389)')	1.1223
+(' 254', 'clName: K2', 'clCenterSpecificID: 51100', 'timePoint: 24', 'variable: p-S6(S235/236)')	1.4344
+(' 255', 'clName: K2', 'clCenterSpecificID: 51100', 'timePoint: 24', 'variable: p-AMPK(T172)')	0.43714
+(' 256', 'clName: K2', 'clCenterSpecificID: 51100', 'timePoint: 24', 'variable: p-JNK(T183/Y185)')	
+(' 257', 'clName: K2', 'clCenterSpecificID: 51100', 'timePoint: 24', 'variable: Total c-Jun')	
+(' 258', 'clName: K2', 'clCenterSpecificID: 51100', 'timePoint: 24', 'variable: p-cJun(S63)')	-0.32196
+(' 259', 'clName: K2', 'clCenterSpecificID: 51100', 'timePoint: 24', 'variable: p-P38(T180/Y182)')	
+(' 260', 'clName: K2', 'clCenterSpecificID: 51100', 'timePoint: 24', 'variable: p-HSP27(S82)')	-1.0721
+(' 261', 'clName: K2', 'clCenterSpecificID: 51100', 'timePoint: 24', 'variable: p-NFKB(S536)')	-1.319
+(' 262', 'clName: K2', 'clCenterSpecificID: 51100', 'timePoint: 24', 'variable: Bim')	-1.1621
+(' 263', 'clName: K2', 'clCenterSpecificID: 51100', 'timePoint: 24', 'variable: cPARP')	-1.399
+(' 264', 'clName: K2', 'clCenterSpecificID: 51100', 'timePoint: 24', 'variable: p-Histone H3(S10)')	0.97109
+(' 265', 'clName: K2', 'clCenterSpecificID: 51100', 'timePoint: 24', 'variable: p27 Kip1')	-1.7021
+(' 266', 'clName: K2', 'clCenterSpecificID: 51100', 'timePoint: 48', 'variable: p-p90RSK(S380)')	
+(' 267', 'clName: K2', 'clCenterSpecificID: 51100', 'timePoint: 48', 'variable: p-p90RSK(T573)')	
+(' 268', 'clName: K2', 'clCenterSpecificID: 51100', 'timePoint: 48', 'variable: p-AKT(T308)')	0.70166
+(' 269', 'clName: K2', 'clCenterSpecificID: 51100', 'timePoint: 48', 'variable: p-AKT(S473)')	-1.9519
+(' 270', 'clName: K2', 'clCenterSpecificID: 51100', 'timePoint: 48', 'variable: p-mTOR(S2448)')	
+(' 271', 'clName: K2', 'clCenterSpecificID: 51100', 'timePoint: 48', 'variable: p-p70S6K(T421/S424)')	-1.2344
+(' 272', 'clName: K2', 'clCenterSpecificID: 51100', 'timePoint: 48', 'variable: p-p70S6K(T389)')	
+(' 273', 'clName: K2', 'clCenterSpecificID: 51100', 'timePoint: 48', 'variable: p-S6(S235/236)')	1.0672
+(' 274', 'clName: K2', 'clCenterSpecificID: 51100', 'timePoint: 48', 'variable: p-AMPK(T172)')	-1.3326
+(' 275', 'clName: K2', 'clCenterSpecificID: 51100', 'timePoint: 48', 'variable: p-JNK(T183/Y185)')	
+(' 276', 'clName: K2', 'clCenterSpecificID: 51100', 'timePoint: 48', 'variable: Total c-Jun')	-1.0968
+(' 277', 'clName: K2', 'clCenterSpecificID: 51100', 'timePoint: 48', 'variable: p-cJun(S63)')	-1.8839
+(' 278', 'clName: K2', 'clCenterSpecificID: 51100', 'timePoint: 48', 'variable: p-P38(T180/Y182)')	
+(' 279', 'clName: K2', 'clCenterSpecificID: 51100', 'timePoint: 48', 'variable: p-HSP27(S82)')	-1.8686
+(' 280', 'clName: K2', 'clCenterSpecificID: 51100', 'timePoint: 48', 'variable: p-NFKB(S536)')	-1.749
+(' 281', 'clName: K2', 'clCenterSpecificID: 51100', 'timePoint: 48', 'variable: Bim')	-1.0357
+(' 282', 'clName: K2', 'clCenterSpecificID: 51100', 'timePoint: 48', 'variable: cPARP')	-1.6829
+(' 283', 'clName: K2', 'clCenterSpecificID: 51100', 'timePoint: 48', 'variable: p-Histone H3(S10)')	1.8236
+(' 284', 'clName: K2', 'clCenterSpecificID: 51100', 'timePoint: 48', 'variable: p27 Kip1')	-1.9515
+(' 285', 'clName: LOXIMVI', 'clCenterSpecificID: 50988', 'timePoint: 1', 'variable: p-p90RSK(S380)')	0.79999
+(' 286', 'clName: LOXIMVI', 'clCenterSpecificID: 50988', 'timePoint: 1', 'variable: p-p90RSK(T573)')	
+(' 287', 'clName: LOXIMVI', 'clCenterSpecificID: 50988', 'timePoint: 1', 'variable: p-AKT(T308)')	-0.27996
+(' 288', 'clName: LOXIMVI', 'clCenterSpecificID: 50988', 'timePoint: 1', 'variable: p-AKT(S473)')	-1.2123
+(' 289', 'clName: LOXIMVI', 'clCenterSpecificID: 50988', 'timePoint: 1', 'variable: p-mTOR(S2448)')	
+(' 290', 'clName: LOXIMVI', 'clCenterSpecificID: 50988', 'timePoint: 1', 'variable: p-p70S6K(T421/S424)')	1.3106
+(' 291', 'clName: LOXIMVI', 'clCenterSpecificID: 50988', 'timePoint: 1', 'variable: p-p70S6K(T389)')	0.5316
+(' 292', 'clName: LOXIMVI', 'clCenterSpecificID: 50988', 'timePoint: 1', 'variable: p-S6(S235/236)')	0.19297
+(' 293', 'clName: LOXIMVI', 'clCenterSpecificID: 50988', 'timePoint: 1', 'variable: p-AMPK(T172)')	
+(' 294', 'clName: LOXIMVI', 'clCenterSpecificID: 50988', 'timePoint: 1', 'variable: p-JNK(T183/Y185)')	1.1096
+(' 295', 'clName: LOXIMVI', 'clCenterSpecificID: 50988', 'timePoint: 1', 'variable: Total c-Jun')	0.45006
+(' 296', 'clName: LOXIMVI', 'clCenterSpecificID: 50988', 'timePoint: 1', 'variable: p-cJun(S63)')	
+(' 297', 'clName: LOXIMVI', 'clCenterSpecificID: 50988', 'timePoint: 1', 'variable: p-P38(T180/Y182)')	2.3337
+(' 298', 'clName: LOXIMVI', 'clCenterSpecificID: 50988', 'timePoint: 1', 'variable: p-HSP27(S82)')	1.0195
+(' 299', 'clName: LOXIMVI', 'clCenterSpecificID: 50988', 'timePoint: 1', 'variable: p-NFKB(S536)')	1.0274
+(' 300', 'clName: LOXIMVI', 'clCenterSpecificID: 50988', 'timePoint: 1', 'variable: Bim')	0.56722
+(' 301', 'clName: LOXIMVI', 'clCenterSpecificID: 50988', 'timePoint: 1', 'variable: cPARP')	
+(' 302', 'clName: LOXIMVI', 'clCenterSpecificID: 50988', 'timePoint: 1', 'variable: p-Histone H3(S10)')	-0.38163
+(' 303', 'clName: LOXIMVI', 'clCenterSpecificID: 50988', 'timePoint: 1', 'variable: p27 Kip1')	0.51672
+(' 304', 'clName: LOXIMVI', 'clCenterSpecificID: 50988', 'timePoint: 5', 'variable: p-p90RSK(S380)')	-0.62545
+(' 305', 'clName: LOXIMVI', 'clCenterSpecificID: 50988', 'timePoint: 5', 'variable: p-p90RSK(T573)')	0.18547
+(' 306', 'clName: LOXIMVI', 'clCenterSpecificID: 50988', 'timePoint: 5', 'variable: p-AKT(T308)')	0.42531
+(' 307', 'clName: LOXIMVI', 'clCenterSpecificID: 50988', 'timePoint: 5', 'variable: p-AKT(S473)')	-1.3605
+(' 308', 'clName: LOXIMVI', 'clCenterSpecificID: 50988', 'timePoint: 5', 'variable: p-mTOR(S2448)')	
+(' 309', 'clName: LOXIMVI', 'clCenterSpecificID: 50988', 'timePoint: 5', 'variable: p-p70S6K(T421/S424)')	-1.1133
+(' 310', 'clName: LOXIMVI', 'clCenterSpecificID: 50988', 'timePoint: 5', 'variable: p-p70S6K(T389)')	
+(' 311', 'clName: LOXIMVI', 'clCenterSpecificID: 50988', 'timePoint: 5', 'variable: p-S6(S235/236)')	0.40293
+(' 312', 'clName: LOXIMVI', 'clCenterSpecificID: 50988', 'timePoint: 5', 'variable: p-AMPK(T172)')	-0.56008
+(' 313', 'clName: LOXIMVI', 'clCenterSpecificID: 50988', 'timePoint: 5', 'variable: p-JNK(T183/Y185)')	
+(' 314', 'clName: LOXIMVI', 'clCenterSpecificID: 50988', 'timePoint: 5', 'variable: Total c-Jun')	0.61308
+(' 315', 'clName: LOXIMVI', 'clCenterSpecificID: 50988', 'timePoint: 5', 'variable: p-cJun(S63)')	-1.4161
+(' 316', 'clName: LOXIMVI', 'clCenterSpecificID: 50988', 'timePoint: 5', 'variable: p-P38(T180/Y182)')	
+(' 317', 'clName: LOXIMVI', 'clCenterSpecificID: 50988', 'timePoint: 5', 'variable: p-HSP27(S82)')	-0.79216
+(' 318', 'clName: LOXIMVI', 'clCenterSpecificID: 50988', 'timePoint: 5', 'variable: p-NFKB(S536)')	-2.3072
+(' 319', 'clName: LOXIMVI', 'clCenterSpecificID: 50988', 'timePoint: 5', 'variable: Bim')	-0.90854
+(' 320', 'clName: LOXIMVI', 'clCenterSpecificID: 50988', 'timePoint: 5', 'variable: cPARP')	-0.79855
+(' 321', 'clName: LOXIMVI', 'clCenterSpecificID: 50988', 'timePoint: 5', 'variable: p-Histone H3(S10)')	-0.50964
+(' 322', 'clName: LOXIMVI', 'clCenterSpecificID: 50988', 'timePoint: 5', 'variable: p27 Kip1')	
+(' 323', 'clName: LOXIMVI', 'clCenterSpecificID: 50988', 'timePoint: 10', 'variable: p-p90RSK(S380)')	1.0586
+(' 324', 'clName: LOXIMVI', 'clCenterSpecificID: 50988', 'timePoint: 10', 'variable: p-p90RSK(T573)')	0.8808
+(' 325', 'clName: LOXIMVI', 'clCenterSpecificID: 50988', 'timePoint: 10', 'variable: p-AKT(T308)')	0.51167
+(' 326', 'clName: LOXIMVI', 'clCenterSpecificID: 50988', 'timePoint: 10', 'variable: p-AKT(S473)')	
+(' 327', 'clName: LOXIMVI', 'clCenterSpecificID: 50988', 'timePoint: 10', 'variable: p-mTOR(S2448)')	1.3808
+(' 328', 'clName: LOXIMVI', 'clCenterSpecificID: 50988', 'timePoint: 10', 'variable: p-p70S6K(T421/S424)')	1.3338
+(' 329', 'clName: LOXIMVI', 'clCenterSpecificID: 50988', 'timePoint: 10', 'variable: p-p70S6K(T389)')	1.2035
+(' 330', 'clName: LOXIMVI', 'clCenterSpecificID: 50988', 'timePoint: 10', 'variable: p-S6(S235/236)')	0.80947
+(' 331', 'clName: LOXIMVI', 'clCenterSpecificID: 50988', 'timePoint: 10', 'variable: p-AMPK(T172)')	0.73765
+(' 332', 'clName: LOXIMVI', 'clCenterSpecificID: 50988', 'timePoint: 10', 'variable: p-JNK(T183/Y185)')	0.7284
+(' 333', 'clName: LOXIMVI', 'clCenterSpecificID: 50988', 'timePoint: 10', 'variable: Total c-Jun')	1.1006
+(' 334', 'clName: LOXIMVI', 'clCenterSpecificID: 50988', 'timePoint: 10', 'variable: p-cJun(S63)')	
+(' 335', 'clName: LOXIMVI', 'clCenterSpecificID: 50988', 'timePoint: 10', 'variable: p-P38(T180/Y182)')	1.1119
+(' 336', 'clName: LOXIMVI', 'clCenterSpecificID: 50988', 'timePoint: 10', 'variable: p-HSP27(S82)')	1.1897
+(' 337', 'clName: LOXIMVI', 'clCenterSpecificID: 50988', 'timePoint: 10', 'variable: p-NFKB(S536)')	0.82367
+(' 338', 'clName: LOXIMVI', 'clCenterSpecificID: 50988', 'timePoint: 10', 'variable: Bim')	0.60869
+(' 339', 'clName: LOXIMVI', 'clCenterSpecificID: 50988', 'timePoint: 10', 'variable: cPARP')	0.54372
+(' 340', 'clName: LOXIMVI', 'clCenterSpecificID: 50988', 'timePoint: 10', 'variable: p-Histone H3(S10)')	0.16044
+(' 341', 'clName: LOXIMVI', 'clCenterSpecificID: 50988', 'timePoint: 10', 'variable: p27 Kip1')	
+(' 342', 'clName: LOXIMVI', 'clCenterSpecificID: 50988', 'timePoint: 24', 'variable: p-p90RSK(S380)')	0.99998
+(' 343', 'clName: LOXIMVI', 'clCenterSpecificID: 50988', 'timePoint: 24', 'variable: p-p90RSK(T573)')	1.496
+(' 344', 'clName: LOXIMVI', 'clCenterSpecificID: 50988', 'timePoint: 24', 'variable: p-AKT(T308)')	1.4455
+(' 345', 'clName: LOXIMVI', 'clCenterSpecificID: 50988', 'timePoint: 24', 'variable: p-AKT(S473)')	-0.66718
+(' 346', 'clName: LOXIMVI', 'clCenterSpecificID: 50988', 'timePoint: 24', 'variable: p-mTOR(S2448)')	0.86508
+(' 347', 'clName: LOXIMVI', 'clCenterSpecificID: 50988', 'timePoint: 24', 'variable: p-p70S6K(T421/S424)')	-0.47196
+(' 348', 'clName: LOXIMVI', 'clCenterSpecificID: 50988', 'timePoint: 24', 'variable: p-p70S6K(T389)')	0.80346
+(' 349', 'clName: LOXIMVI', 'clCenterSpecificID: 50988', 'timePoint: 24', 'variable: p-S6(S235/236)')	1.031
+(' 350', 'clName: LOXIMVI', 'clCenterSpecificID: 50988', 'timePoint: 24', 'variable: p-AMPK(T172)')	-0.6352
+(' 351', 'clName: LOXIMVI', 'clCenterSpecificID: 50988', 'timePoint: 24', 'variable: p-JNK(T183/Y185)')	
+(' 352', 'clName: LOXIMVI', 'clCenterSpecificID: 50988', 'timePoint: 24', 'variable: Total c-Jun')	1.254
+(' 353', 'clName: LOXIMVI', 'clCenterSpecificID: 50988', 'timePoint: 24', 'variable: p-cJun(S63)')	
+(' 354', 'clName: LOXIMVI', 'clCenterSpecificID: 50988', 'timePoint: 24', 'variable: p-P38(T180/Y182)')	0.74572
+(' 355', 'clName: LOXIMVI', 'clCenterSpecificID: 50988', 'timePoint: 24', 'variable: p-HSP27(S82)')	0.057872
+(' 356', 'clName: LOXIMVI', 'clCenterSpecificID: 50988', 'timePoint: 24', 'variable: p-NFKB(S536)')	-0.66655
+(' 357', 'clName: LOXIMVI', 'clCenterSpecificID: 50988', 'timePoint: 24', 'variable: Bim')	
+(' 358', 'clName: LOXIMVI', 'clCenterSpecificID: 50988', 'timePoint: 24', 'variable: cPARP')	
+(' 359', 'clName: LOXIMVI', 'clCenterSpecificID: 50988', 'timePoint: 24', 'variable: p-Histone H3(S10)')	2.2826
+(' 360', 'clName: LOXIMVI', 'clCenterSpecificID: 50988', 'timePoint: 24', 'variable: p27 Kip1')	-0.95217
+(' 361', 'clName: LOXIMVI', 'clCenterSpecificID: 50988', 'timePoint: 48', 'variable: p-p90RSK(S380)')	0.85142
+(' 362', 'clName: LOXIMVI', 'clCenterSpecificID: 50988', 'timePoint: 48', 'variable: p-p90RSK(T573)')	0.78878
+(' 363', 'clName: LOXIMVI', 'clCenterSpecificID: 50988', 'timePoint: 48', 'variable: p-AKT(T308)')	1.1951
+(' 364', 'clName: LOXIMVI', 'clCenterSpecificID: 50988', 'timePoint: 48', 'variable: p-AKT(S473)')	1.6684
+(' 365', 'clName: LOXIMVI', 'clCenterSpecificID: 50988', 'timePoint: 48', 'variable: p-mTOR(S2448)')	0.8421
+(' 366', 'clName: LOXIMVI', 'clCenterSpecificID: 50988', 'timePoint: 48', 'variable: p-p70S6K(T421/S424)')	0.79744
+(' 367', 'clName: LOXIMVI', 'clCenterSpecificID: 50988', 'timePoint: 48', 'variable: p-p70S6K(T389)')	0.66219
+(' 368', 'clName: LOXIMVI', 'clCenterSpecificID: 50988', 'timePoint: 48', 'variable: p-S6(S235/236)')	-0.81001
+(' 369', 'clName: LOXIMVI', 'clCenterSpecificID: 50988', 'timePoint: 48', 'variable: p-AMPK(T172)')	-0.83515
+(' 370', 'clName: LOXIMVI', 'clCenterSpecificID: 50988', 'timePoint: 48', 'variable: p-JNK(T183/Y185)')	0.76336
+(' 371', 'clName: LOXIMVI', 'clCenterSpecificID: 50988', 'timePoint: 48', 'variable: Total c-Jun')	0.71259
+(' 372', 'clName: LOXIMVI', 'clCenterSpecificID: 50988', 'timePoint: 48', 'variable: p-cJun(S63)')	-0.8232
+(' 373', 'clName: LOXIMVI', 'clCenterSpecificID: 50988', 'timePoint: 48', 'variable: p-P38(T180/Y182)')	0.40864
+(' 374', 'clName: LOXIMVI', 'clCenterSpecificID: 50988', 'timePoint: 48', 'variable: p-HSP27(S82)')	0.37526
+(' 375', 'clName: LOXIMVI', 'clCenterSpecificID: 50988', 'timePoint: 48', 'variable: p-NFKB(S536)')	-1.2799
+(' 376', 'clName: LOXIMVI', 'clCenterSpecificID: 50988', 'timePoint: 48', 'variable: Bim')	-1.0135
+(' 377', 'clName: LOXIMVI', 'clCenterSpecificID: 50988', 'timePoint: 48', 'variable: cPARP')	0.74425
+(' 378', 'clName: LOXIMVI', 'clCenterSpecificID: 50988', 'timePoint: 48', 'variable: p-Histone H3(S10)')	2.3609
+(' 379', 'clName: LOXIMVI', 'clCenterSpecificID: 50988', 'timePoint: 48', 'variable: p27 Kip1')	-0.67224
+(' 380', 'clName: MMAC-SF', 'clCenterSpecificID: 50999', 'timePoint: 1', 'variable: p-p90RSK(S380)')	0.99779
+(' 381', 'clName: MMAC-SF', 'clCenterSpecificID: 50999', 'timePoint: 1', 'variable: p-p90RSK(T573)')	0.5515
+(' 382', 'clName: MMAC-SF', 'clCenterSpecificID: 50999', 'timePoint: 1', 'variable: p-AKT(T308)')	0.29854
+(' 383', 'clName: MMAC-SF', 'clCenterSpecificID: 50999', 'timePoint: 1', 'variable: p-AKT(S473)')	
+(' 384', 'clName: MMAC-SF', 'clCenterSpecificID: 50999', 'timePoint: 1', 'variable: p-mTOR(S2448)')	0.61775
+(' 385', 'clName: MMAC-SF', 'clCenterSpecificID: 50999', 'timePoint: 1', 'variable: p-p70S6K(T421/S424)')	1.0216
+(' 386', 'clName: MMAC-SF', 'clCenterSpecificID: 50999', 'timePoint: 1', 'variable: p-p70S6K(T389)')	0.71001
+(' 387', 'clName: MMAC-SF', 'clCenterSpecificID: 50999', 'timePoint: 1', 'variable: p-S6(S235/236)')	0.36388
+(' 388', 'clName: MMAC-SF', 'clCenterSpecificID: 50999', 'timePoint: 1', 'variable: p-AMPK(T172)')	0.70575
+(' 389', 'clName: MMAC-SF', 'clCenterSpecificID: 50999', 'timePoint: 1', 'variable: p-JNK(T183/Y185)')	0.80535
+(' 390', 'clName: MMAC-SF', 'clCenterSpecificID: 50999', 'timePoint: 1', 'variable: Total c-Jun')	0.83757
+(' 391', 'clName: MMAC-SF', 'clCenterSpecificID: 50999', 'timePoint: 1', 'variable: p-cJun(S63)')	0.53697
+(' 392', 'clName: MMAC-SF', 'clCenterSpecificID: 50999', 'timePoint: 1', 'variable: p-P38(T180/Y182)')	1.0804
+(' 393', 'clName: MMAC-SF', 'clCenterSpecificID: 50999', 'timePoint: 1', 'variable: p-HSP27(S82)')	0.47795
+(' 394', 'clName: MMAC-SF', 'clCenterSpecificID: 50999', 'timePoint: 1', 'variable: p-NFKB(S536)')	
+(' 395', 'clName: MMAC-SF', 'clCenterSpecificID: 50999', 'timePoint: 1', 'variable: Bim')	0.4018
+(' 396', 'clName: MMAC-SF', 'clCenterSpecificID: 50999', 'timePoint: 1', 'variable: cPARP')	0.39099
+(' 397', 'clName: MMAC-SF', 'clCenterSpecificID: 50999', 'timePoint: 1', 'variable: p-Histone H3(S10)')	0.2074
+(' 398', 'clName: MMAC-SF', 'clCenterSpecificID: 50999', 'timePoint: 1', 'variable: p27 Kip1')	
+(' 399', 'clName: MMAC-SF', 'clCenterSpecificID: 50999', 'timePoint: 5', 'variable: p-p90RSK(S380)')	
+(' 400', 'clName: MMAC-SF', 'clCenterSpecificID: 50999', 'timePoint: 5', 'variable: p-p90RSK(T573)')	-0.53739
+(' 401', 'clName: MMAC-SF', 'clCenterSpecificID: 50999', 'timePoint: 5', 'variable: p-AKT(T308)')	-0.66226
+(' 402', 'clName: MMAC-SF', 'clCenterSpecificID: 50999', 'timePoint: 5', 'variable: p-AKT(S473)')	-0.93946
+(' 403', 'clName: MMAC-SF', 'clCenterSpecificID: 50999', 'timePoint: 5', 'variable: p-mTOR(S2448)')	-0.753
+(' 404', 'clName: MMAC-SF', 'clCenterSpecificID: 50999', 'timePoint: 5', 'variable: p-p70S6K(T421/S424)')	-0.53633
+(' 405', 'clName: MMAC-SF', 'clCenterSpecificID: 50999', 'timePoint: 5', 'variable: p-p70S6K(T389)')	
+(' 406', 'clName: MMAC-SF', 'clCenterSpecificID: 50999', 'timePoint: 5', 'variable: p-S6(S235/236)')	0.45323
+(' 407', 'clName: MMAC-SF', 'clCenterSpecificID: 50999', 'timePoint: 5', 'variable: p-AMPK(T172)')	
+(' 408', 'clName: MMAC-SF', 'clCenterSpecificID: 50999', 'timePoint: 5', 'variable: p-JNK(T183/Y185)')	
+(' 409', 'clName: MMAC-SF', 'clCenterSpecificID: 50999', 'timePoint: 5', 'variable: Total c-Jun')	0.84348
+(' 410', 'clName: MMAC-SF', 'clCenterSpecificID: 50999', 'timePoint: 5', 'variable: p-cJun(S63)')	
+(' 411', 'clName: MMAC-SF', 'clCenterSpecificID: 50999', 'timePoint: 5', 'variable: p-P38(T180/Y182)')	
+(' 412', 'clName: MMAC-SF', 'clCenterSpecificID: 50999', 'timePoint: 5', 'variable: p-HSP27(S82)')	-0.55491
+(' 413', 'clName: MMAC-SF', 'clCenterSpecificID: 50999', 'timePoint: 5', 'variable: p-NFKB(S536)')	
+(' 414', 'clName: MMAC-SF', 'clCenterSpecificID: 50999', 'timePoint: 5', 'variable: Bim')	-0.95959
+(' 415', 'clName: MMAC-SF', 'clCenterSpecificID: 50999', 'timePoint: 5', 'variable: cPARP')	-0.85215
+(' 416', 'clName: MMAC-SF', 'clCenterSpecificID: 50999', 'timePoint: 5', 'variable: p-Histone H3(S10)')	-0.23039
+(' 417', 'clName: MMAC-SF', 'clCenterSpecificID: 50999', 'timePoint: 5', 'variable: p27 Kip1')	-0.64165
+(' 418', 'clName: MMAC-SF', 'clCenterSpecificID: 50999', 'timePoint: 10', 'variable: p-p90RSK(S380)')	0.93844
+(' 419', 'clName: MMAC-SF', 'clCenterSpecificID: 50999', 'timePoint: 10', 'variable: p-p90RSK(T573)')	0.39402
+(' 420', 'clName: MMAC-SF', 'clCenterSpecificID: 50999', 'timePoint: 10', 'variable: p-AKT(T308)')	0.19664
+(' 421', 'clName: MMAC-SF', 'clCenterSpecificID: 50999', 'timePoint: 10', 'variable: p-AKT(S473)')	
+(' 422', 'clName: MMAC-SF', 'clCenterSpecificID: 50999', 'timePoint: 10', 'variable: p-mTOR(S2448)')	0.7936
+(' 423', 'clName: MMAC-SF', 'clCenterSpecificID: 50999', 'timePoint: 10', 'variable: p-p70S6K(T421/S424)')	0.88541
+(' 424', 'clName: MMAC-SF', 'clCenterSpecificID: 50999', 'timePoint: 10', 'variable: p-p70S6K(T389)')	0.89999
+(' 425', 'clName: MMAC-SF', 'clCenterSpecificID: 50999', 'timePoint: 10', 'variable: p-S6(S235/236)')	1.2018
+(' 426', 'clName: MMAC-SF', 'clCenterSpecificID: 50999', 'timePoint: 10', 'variable: p-AMPK(T172)')	1.1683
+(' 427', 'clName: MMAC-SF', 'clCenterSpecificID: 50999', 'timePoint: 10', 'variable: p-JNK(T183/Y185)')	0.77294
+(' 428', 'clName: MMAC-SF', 'clCenterSpecificID: 50999', 'timePoint: 10', 'variable: Total c-Jun')	1.7684
+(' 429', 'clName: MMAC-SF', 'clCenterSpecificID: 50999', 'timePoint: 10', 'variable: p-cJun(S63)')	0.79511
+(' 430', 'clName: MMAC-SF', 'clCenterSpecificID: 50999', 'timePoint: 10', 'variable: p-P38(T180/Y182)')	0.98729
+(' 431', 'clName: MMAC-SF', 'clCenterSpecificID: 50999', 'timePoint: 10', 'variable: p-HSP27(S82)')	0.43475
+(' 432', 'clName: MMAC-SF', 'clCenterSpecificID: 50999', 'timePoint: 10', 'variable: p-NFKB(S536)')	1.3327
+(' 433', 'clName: MMAC-SF', 'clCenterSpecificID: 50999', 'timePoint: 10', 'variable: Bim')	
+(' 434', 'clName: MMAC-SF', 'clCenterSpecificID: 50999', 'timePoint: 10', 'variable: cPARP')	
+(' 435', 'clName: MMAC-SF', 'clCenterSpecificID: 50999', 'timePoint: 10', 'variable: p-Histone H3(S10)')	-0.13234
+(' 436', 'clName: MMAC-SF', 'clCenterSpecificID: 50999', 'timePoint: 10', 'variable: p27 Kip1')	
+(' 437', 'clName: MMAC-SF', 'clCenterSpecificID: 50999', 'timePoint: 24', 'variable: p-p90RSK(S380)')	
+(' 438', 'clName: MMAC-SF', 'clCenterSpecificID: 50999', 'timePoint: 24', 'variable: p-p90RSK(T573)')	
+(' 439', 'clName: MMAC-SF', 'clCenterSpecificID: 50999', 'timePoint: 24', 'variable: p-AKT(T308)')	-0.33286
+(' 440', 'clName: MMAC-SF', 'clCenterSpecificID: 50999', 'timePoint: 24', 'variable: p-AKT(S473)')	-1.0958
+(' 441', 'clName: MMAC-SF', 'clCenterSpecificID: 50999', 'timePoint: 24', 'variable: p-mTOR(S2448)')	
+(' 442', 'clName: MMAC-SF', 'clCenterSpecificID: 50999', 'timePoint: 24', 'variable: p-p70S6K(T421/S424)')	-0.52786
+(' 443', 'clName: MMAC-SF', 'clCenterSpecificID: 50999', 'timePoint: 24', 'variable: p-p70S6K(T389)')	
+(' 444', 'clName: MMAC-SF', 'clCenterSpecificID: 50999', 'timePoint: 24', 'variable: p-S6(S235/236)')	1.5986
+(' 445', 'clName: MMAC-SF', 'clCenterSpecificID: 50999', 'timePoint: 24', 'variable: p-AMPK(T172)')	
+(' 446', 'clName: MMAC-SF', 'clCenterSpecificID: 50999', 'timePoint: 24', 'variable: p-JNK(T183/Y185)')	
+(' 447', 'clName: MMAC-SF', 'clCenterSpecificID: 50999', 'timePoint: 24', 'variable: Total c-Jun')	
+(' 448', 'clName: MMAC-SF', 'clCenterSpecificID: 50999', 'timePoint: 24', 'variable: p-cJun(S63)')	
+(' 449', 'clName: MMAC-SF', 'clCenterSpecificID: 50999', 'timePoint: 24', 'variable: p-P38(T180/Y182)')	
+(' 450', 'clName: MMAC-SF', 'clCenterSpecificID: 50999', 'timePoint: 24', 'variable: p-HSP27(S82)')	
+(' 451', 'clName: MMAC-SF', 'clCenterSpecificID: 50999', 'timePoint: 24', 'variable: p-NFKB(S536)')	
+(' 452', 'clName: MMAC-SF', 'clCenterSpecificID: 50999', 'timePoint: 24', 'variable: Bim')	-1.3101
+(' 453', 'clName: MMAC-SF', 'clCenterSpecificID: 50999', 'timePoint: 24', 'variable: cPARP')	-1.3189
+(' 454', 'clName: MMAC-SF', 'clCenterSpecificID: 50999', 'timePoint: 24', 'variable: p-Histone H3(S10)')	1.6598
+(' 455', 'clName: MMAC-SF', 'clCenterSpecificID: 50999', 'timePoint: 24', 'variable: p27 Kip1')	-1.852
+(' 456', 'clName: MMAC-SF', 'clCenterSpecificID: 50999', 'timePoint: 48', 'variable: p-p90RSK(S380)')	
+(' 457', 'clName: MMAC-SF', 'clCenterSpecificID: 50999', 'timePoint: 48', 'variable: p-p90RSK(T573)')	1.0946
+(' 458', 'clName: MMAC-SF', 'clCenterSpecificID: 50999', 'timePoint: 48', 'variable: p-AKT(T308)')	-2.582
+(' 459', 'clName: MMAC-SF', 'clCenterSpecificID: 50999', 'timePoint: 48', 'variable: p-AKT(S473)')	
+(' 460', 'clName: MMAC-SF', 'clCenterSpecificID: 50999', 'timePoint: 48', 'variable: p-mTOR(S2448)')	
+(' 461', 'clName: MMAC-SF', 'clCenterSpecificID: 50999', 'timePoint: 48', 'variable: p-p70S6K(T421/S424)')	1.2871
+(' 462', 'clName: MMAC-SF', 'clCenterSpecificID: 50999', 'timePoint: 48', 'variable: p-p70S6K(T389)')	
+(' 463', 'clName: MMAC-SF', 'clCenterSpecificID: 50999', 'timePoint: 48', 'variable: p-S6(S235/236)')	1.4822
+(' 464', 'clName: MMAC-SF', 'clCenterSpecificID: 50999', 'timePoint: 48', 'variable: p-AMPK(T172)')	
+(' 465', 'clName: MMAC-SF', 'clCenterSpecificID: 50999', 'timePoint: 48', 'variable: p-JNK(T183/Y185)')	
+(' 466', 'clName: MMAC-SF', 'clCenterSpecificID: 50999', 'timePoint: 48', 'variable: Total c-Jun')	
+(' 467', 'clName: MMAC-SF', 'clCenterSpecificID: 50999', 'timePoint: 48', 'variable: p-cJun(S63)')	
+(' 468', 'clName: MMAC-SF', 'clCenterSpecificID: 50999', 'timePoint: 48', 'variable: p-P38(T180/Y182)')	
+(' 469', 'clName: MMAC-SF', 'clCenterSpecificID: 50999', 'timePoint: 48', 'variable: p-HSP27(S82)')	0.86518
+(' 470', 'clName: MMAC-SF', 'clCenterSpecificID: 50999', 'timePoint: 48', 'variable: p-NFKB(S536)')	1.6839
+(' 471', 'clName: MMAC-SF', 'clCenterSpecificID: 50999', 'timePoint: 48', 'variable: Bim')	
+(' 472', 'clName: MMAC-SF', 'clCenterSpecificID: 50999', 'timePoint: 48', 'variable: cPARP')	-1.5287
+(' 473', 'clName: MMAC-SF', 'clCenterSpecificID: 50999', 'timePoint: 48', 'variable: p-Histone H3(S10)')	1.5996
+(' 474', 'clName: MMAC-SF', 'clCenterSpecificID: 50999', 'timePoint: 48', 'variable: p27 Kip1')	
+(' 475', 'clName: MZ7-mel', 'clCenterSpecificID: 51006', 'timePoint: 1', 'variable: p-p90RSK(S380)')	0.56785
+(' 476', 'clName: MZ7-mel', 'clCenterSpecificID: 51006', 'timePoint: 1', 'variable: p-p90RSK(T573)')	
+(' 477', 'clName: MZ7-mel', 'clCenterSpecificID: 51006', 'timePoint: 1', 'variable: p-AKT(T308)')	0.47697
+(' 478', 'clName: MZ7-mel', 'clCenterSpecificID: 51006', 'timePoint: 1', 'variable: p-AKT(S473)')	0.98495
+(' 479', 'clName: MZ7-mel', 'clCenterSpecificID: 51006', 'timePoint: 1', 'variable: p-mTOR(S2448)')	0.4327
+(' 480', 'clName: MZ7-mel', 'clCenterSpecificID: 51006', 'timePoint: 1', 'variable: p-p70S6K(T421/S424)')	0.83406
+(' 481', 'clName: MZ7-mel', 'clCenterSpecificID: 51006', 'timePoint: 1', 'variable: p-p70S6K(T389)')	0.75863
+(' 482', 'clName: MZ7-mel', 'clCenterSpecificID: 51006', 'timePoint: 1', 'variable: p-S6(S235/236)')	0.42135
+(' 483', 'clName: MZ7-mel', 'clCenterSpecificID: 51006', 'timePoint: 1', 'variable: p-AMPK(T172)')	-0.28432
+(' 484', 'clName: MZ7-mel', 'clCenterSpecificID: 51006', 'timePoint: 1', 'variable: p-JNK(T183/Y185)')	0.26621
+(' 485', 'clName: MZ7-mel', 'clCenterSpecificID: 51006', 'timePoint: 1', 'variable: Total c-Jun')	0.78288
+(' 486', 'clName: MZ7-mel', 'clCenterSpecificID: 51006', 'timePoint: 1', 'variable: p-cJun(S63)')	0.35063
+(' 487', 'clName: MZ7-mel', 'clCenterSpecificID: 51006', 'timePoint: 1', 'variable: p-P38(T180/Y182)')	0.98757
+(' 488', 'clName: MZ7-mel', 'clCenterSpecificID: 51006', 'timePoint: 1', 'variable: p-HSP27(S82)')	0.31493
+(' 489', 'clName: MZ7-mel', 'clCenterSpecificID: 51006', 'timePoint: 1', 'variable: p-NFKB(S536)')	0.16181
+(' 490', 'clName: MZ7-mel', 'clCenterSpecificID: 51006', 'timePoint: 1', 'variable: Bim')	
+(' 491', 'clName: MZ7-mel', 'clCenterSpecificID: 51006', 'timePoint: 1', 'variable: cPARP')	
+(' 492', 'clName: MZ7-mel', 'clCenterSpecificID: 51006', 'timePoint: 1', 'variable: p-Histone H3(S10)')	-0.22101
+(' 493', 'clName: MZ7-mel', 'clCenterSpecificID: 51006', 'timePoint: 1', 'variable: p27 Kip1')	0.17722
+(' 494', 'clName: MZ7-mel', 'clCenterSpecificID: 51006', 'timePoint: 5', 'variable: p-p90RSK(S380)')	
+(' 495', 'clName: MZ7-mel', 'clCenterSpecificID: 51006', 'timePoint: 5', 'variable: p-p90RSK(T573)')	
+(' 496', 'clName: MZ7-mel', 'clCenterSpecificID: 51006', 'timePoint: 5', 'variable: p-AKT(T308)')	
+(' 497', 'clName: MZ7-mel', 'clCenterSpecificID: 51006', 'timePoint: 5', 'variable: p-AKT(S473)')	
+(' 498', 'clName: MZ7-mel', 'clCenterSpecificID: 51006', 'timePoint: 5', 'variable: p-mTOR(S2448)')	
+(' 499', 'clName: MZ7-mel', 'clCenterSpecificID: 51006', 'timePoint: 5', 'variable: p-p70S6K(T421/S424)')	-0.58275
+(' 500', 'clName: MZ7-mel', 'clCenterSpecificID: 51006', 'timePoint: 5', 'variable: p-p70S6K(T389)')	
+(' 501', 'clName: MZ7-mel', 'clCenterSpecificID: 51006', 'timePoint: 5', 'variable: p-S6(S235/236)')	0.4843
+(' 502', 'clName: MZ7-mel', 'clCenterSpecificID: 51006', 'timePoint: 5', 'variable: p-AMPK(T172)')	-0.57675
+(' 503', 'clName: MZ7-mel', 'clCenterSpecificID: 51006', 'timePoint: 5', 'variable: p-JNK(T183/Y185)')	
+(' 504', 'clName: MZ7-mel', 'clCenterSpecificID: 51006', 'timePoint: 5', 'variable: Total c-Jun')	0.67613
+(' 505', 'clName: MZ7-mel', 'clCenterSpecificID: 51006', 'timePoint: 5', 'variable: p-cJun(S63)')	
+(' 506', 'clName: MZ7-mel', 'clCenterSpecificID: 51006', 'timePoint: 5', 'variable: p-P38(T180/Y182)')	
+(' 507', 'clName: MZ7-mel', 'clCenterSpecificID: 51006', 'timePoint: 5', 'variable: p-HSP27(S82)')	
+(' 508', 'clName: MZ7-mel', 'clCenterSpecificID: 51006', 'timePoint: 5', 'variable: p-NFKB(S536)')	-0.64566
+(' 509', 'clName: MZ7-mel', 'clCenterSpecificID: 51006', 'timePoint: 5', 'variable: Bim')	
+(' 510', 'clName: MZ7-mel', 'clCenterSpecificID: 51006', 'timePoint: 5', 'variable: cPARP')	
+(' 511', 'clName: MZ7-mel', 'clCenterSpecificID: 51006', 'timePoint: 5', 'variable: p-Histone H3(S10)')	-0.43926
+(' 512', 'clName: MZ7-mel', 'clCenterSpecificID: 51006', 'timePoint: 5', 'variable: p27 Kip1')	-0.36435
+(' 513', 'clName: MZ7-mel', 'clCenterSpecificID: 51006', 'timePoint: 10', 'variable: p-p90RSK(S380)')	1.0666
+(' 514', 'clName: MZ7-mel', 'clCenterSpecificID: 51006', 'timePoint: 10', 'variable: p-p90RSK(T573)')	0.5912
+(' 515', 'clName: MZ7-mel', 'clCenterSpecificID: 51006', 'timePoint: 10', 'variable: p-AKT(T308)')	
+(' 516', 'clName: MZ7-mel', 'clCenterSpecificID: 51006', 'timePoint: 10', 'variable: p-AKT(S473)')	0.60071
+(' 517', 'clName: MZ7-mel', 'clCenterSpecificID: 51006', 'timePoint: 10', 'variable: p-mTOR(S2448)')	0.64446
+(' 518', 'clName: MZ7-mel', 'clCenterSpecificID: 51006', 'timePoint: 10', 'variable: p-p70S6K(T421/S424)')	1.0131
+(' 519', 'clName: MZ7-mel', 'clCenterSpecificID: 51006', 'timePoint: 10', 'variable: p-p70S6K(T389)')	0.84778
+(' 520', 'clName: MZ7-mel', 'clCenterSpecificID: 51006', 'timePoint: 10', 'variable: p-S6(S235/236)')	1.2384
+(' 521', 'clName: MZ7-mel', 'clCenterSpecificID: 51006', 'timePoint: 10', 'variable: p-AMPK(T172)')	-0.70468
+(' 522', 'clName: MZ7-mel', 'clCenterSpecificID: 51006', 'timePoint: 10', 'variable: p-JNK(T183/Y185)')	0.47959
+(' 523', 'clName: MZ7-mel', 'clCenterSpecificID: 51006', 'timePoint: 10', 'variable: Total c-Jun')	0.9812
+(' 524', 'clName: MZ7-mel', 'clCenterSpecificID: 51006', 'timePoint: 10', 'variable: p-cJun(S63)')	0.45131
+(' 525', 'clName: MZ7-mel', 'clCenterSpecificID: 51006', 'timePoint: 10', 'variable: p-P38(T180/Y182)')	0.68789
+(' 526', 'clName: MZ7-mel', 'clCenterSpecificID: 51006', 'timePoint: 10', 'variable: p-HSP27(S82)')	0.34035
+(' 527', 'clName: MZ7-mel', 'clCenterSpecificID: 51006', 'timePoint: 10', 'variable: p-NFKB(S536)')	1.0589
+(' 528', 'clName: MZ7-mel', 'clCenterSpecificID: 51006', 'timePoint: 10', 'variable: Bim')	-0.40275
+(' 529', 'clName: MZ7-mel', 'clCenterSpecificID: 51006', 'timePoint: 10', 'variable: cPARP')	
+(' 530', 'clName: MZ7-mel', 'clCenterSpecificID: 51006', 'timePoint: 10', 'variable: p-Histone H3(S10)')	-0.32072
+(' 531', 'clName: MZ7-mel', 'clCenterSpecificID: 51006', 'timePoint: 10', 'variable: p27 Kip1')	-0.56098
+(' 532', 'clName: MZ7-mel', 'clCenterSpecificID: 51006', 'timePoint: 24', 'variable: p-p90RSK(S380)')	
+(' 533', 'clName: MZ7-mel', 'clCenterSpecificID: 51006', 'timePoint: 24', 'variable: p-p90RSK(T573)')	1.4596
+(' 534', 'clName: MZ7-mel', 'clCenterSpecificID: 51006', 'timePoint: 24', 'variable: p-AKT(T308)')	-0.59
+(' 535', 'clName: MZ7-mel', 'clCenterSpecificID: 51006', 'timePoint: 24', 'variable: p-AKT(S473)')	
+(' 536', 'clName: MZ7-mel', 'clCenterSpecificID: 51006', 'timePoint: 24', 'variable: p-mTOR(S2448)')	
+(' 537', 'clName: MZ7-mel', 'clCenterSpecificID: 51006', 'timePoint: 24', 'variable: p-p70S6K(T421/S424)')	0.72891
+(' 538', 'clName: MZ7-mel', 'clCenterSpecificID: 51006', 'timePoint: 24', 'variable: p-p70S6K(T389)')	
+(' 539', 'clName: MZ7-mel', 'clCenterSpecificID: 51006', 'timePoint: 24', 'variable: p-S6(S235/236)')	2.1002
+(' 540', 'clName: MZ7-mel', 'clCenterSpecificID: 51006', 'timePoint: 24', 'variable: p-AMPK(T172)')	-0.48094
+(' 541', 'clName: MZ7-mel', 'clCenterSpecificID: 51006', 'timePoint: 24', 'variable: p-JNK(T183/Y185)')	-0.40353
+(' 542', 'clName: MZ7-mel', 'clCenterSpecificID: 51006', 'timePoint: 24', 'variable: Total c-Jun')	0.49324
+(' 543', 'clName: MZ7-mel', 'clCenterSpecificID: 51006', 'timePoint: 24', 'variable: p-cJun(S63)')	
+(' 544', 'clName: MZ7-mel', 'clCenterSpecificID: 51006', 'timePoint: 24', 'variable: p-P38(T180/Y182)')	1.0701
+(' 545', 'clName: MZ7-mel', 'clCenterSpecificID: 51006', 'timePoint: 24', 'variable: p-HSP27(S82)')	
+(' 546', 'clName: MZ7-mel', 'clCenterSpecificID: 51006', 'timePoint: 24', 'variable: p-NFKB(S536)')	-0.50772
+(' 547', 'clName: MZ7-mel', 'clCenterSpecificID: 51006', 'timePoint: 24', 'variable: Bim')	-1.6059
+(' 548', 'clName: MZ7-mel', 'clCenterSpecificID: 51006', 'timePoint: 24', 'variable: cPARP')	-1.4135
+(' 549', 'clName: MZ7-mel', 'clCenterSpecificID: 51006', 'timePoint: 24', 'variable: p-Histone H3(S10)')	0.88186
+(' 550', 'clName: MZ7-mel', 'clCenterSpecificID: 51006', 'timePoint: 24', 'variable: p27 Kip1')	-2.1137
+(' 551', 'clName: MZ7-mel', 'clCenterSpecificID: 51006', 'timePoint: 48', 'variable: p-p90RSK(S380)')	
+(' 552', 'clName: MZ7-mel', 'clCenterSpecificID: 51006', 'timePoint: 48', 'variable: p-p90RSK(T573)')	2.2427
+(' 553', 'clName: MZ7-mel', 'clCenterSpecificID: 51006', 'timePoint: 48', 'variable: p-AKT(T308)')	-0.95693
+(' 554', 'clName: MZ7-mel', 'clCenterSpecificID: 51006', 'timePoint: 48', 'variable: p-AKT(S473)')	-0.40393
+(' 555', 'clName: MZ7-mel', 'clCenterSpecificID: 51006', 'timePoint: 48', 'variable: p-mTOR(S2448)')	
+(' 556', 'clName: MZ7-mel', 'clCenterSpecificID: 51006', 'timePoint: 48', 'variable: p-p70S6K(T421/S424)')	1.0387
+(' 557', 'clName: MZ7-mel', 'clCenterSpecificID: 51006', 'timePoint: 48', 'variable: p-p70S6K(T389)')	
+(' 558', 'clName: MZ7-mel', 'clCenterSpecificID: 51006', 'timePoint: 48', 'variable: p-S6(S235/236)')	1.325
+(' 559', 'clName: MZ7-mel', 'clCenterSpecificID: 51006', 'timePoint: 48', 'variable: p-AMPK(T172)')	-0.54943
+(' 560', 'clName: MZ7-mel', 'clCenterSpecificID: 51006', 'timePoint: 48', 'variable: p-JNK(T183/Y185)')	-0.74394
+(' 561', 'clName: MZ7-mel', 'clCenterSpecificID: 51006', 'timePoint: 48', 'variable: Total c-Jun')	-0.52248
+(' 562', 'clName: MZ7-mel', 'clCenterSpecificID: 51006', 'timePoint: 48', 'variable: p-cJun(S63)')	
+(' 563', 'clName: MZ7-mel', 'clCenterSpecificID: 51006', 'timePoint: 48', 'variable: p-P38(T180/Y182)')	1.3873
+(' 564', 'clName: MZ7-mel', 'clCenterSpecificID: 51006', 'timePoint: 48', 'variable: p-HSP27(S82)')	
+(' 565', 'clName: MZ7-mel', 'clCenterSpecificID: 51006', 'timePoint: 48', 'variable: p-NFKB(S536)')	-0.32198
+(' 566', 'clName: MZ7-mel', 'clCenterSpecificID: 51006', 'timePoint: 48', 'variable: Bim')	-2.3909
+(' 567', 'clName: MZ7-mel', 'clCenterSpecificID: 51006', 'timePoint: 48', 'variable: cPARP')	-2.0554
+(' 568', 'clName: MZ7-mel', 'clCenterSpecificID: 51006', 'timePoint: 48', 'variable: p-Histone H3(S10)')	2.9819
+(' 569', 'clName: MZ7-mel', 'clCenterSpecificID: 51006', 'timePoint: 48', 'variable: p27 Kip1')	-2.4182
+(' 570', 'clName: RVH-421', 'clCenterSpecificID: 50475', 'timePoint: 1', 'variable: p-p90RSK(S380)')	0.73089
+(' 571', 'clName: RVH-421', 'clCenterSpecificID: 50475', 'timePoint: 1', 'variable: p-p90RSK(T573)')	0.42888
+(' 572', 'clName: RVH-421', 'clCenterSpecificID: 50475', 'timePoint: 1', 'variable: p-AKT(T308)')	0.37869
+(' 573', 'clName: RVH-421', 'clCenterSpecificID: 50475', 'timePoint: 1', 'variable: p-AKT(S473)')	0.18467
+(' 574', 'clName: RVH-421', 'clCenterSpecificID: 50475', 'timePoint: 1', 'variable: p-mTOR(S2448)')	0.66328
+(' 575', 'clName: RVH-421', 'clCenterSpecificID: 50475', 'timePoint: 1', 'variable: p-p70S6K(T421/S424)')	1.0904
+(' 576', 'clName: RVH-421', 'clCenterSpecificID: 50475', 'timePoint: 1', 'variable: p-p70S6K(T389)')	0.77206
+(' 577', 'clName: RVH-421', 'clCenterSpecificID: 50475', 'timePoint: 1', 'variable: p-S6(S235/236)')	0.4975
+(' 578', 'clName: RVH-421', 'clCenterSpecificID: 50475', 'timePoint: 1', 'variable: p-AMPK(T172)')	0.83114
+(' 579', 'clName: RVH-421', 'clCenterSpecificID: 50475', 'timePoint: 1', 'variable: p-JNK(T183/Y185)')	0.73589
+(' 580', 'clName: RVH-421', 'clCenterSpecificID: 50475', 'timePoint: 1', 'variable: Total c-Jun')	0.37291
+(' 581', 'clName: RVH-421', 'clCenterSpecificID: 50475', 'timePoint: 1', 'variable: p-cJun(S63)')	
+(' 582', 'clName: RVH-421', 'clCenterSpecificID: 50475', 'timePoint: 1', 'variable: p-P38(T180/Y182)')	0.71579
+(' 583', 'clName: RVH-421', 'clCenterSpecificID: 50475', 'timePoint: 1', 'variable: p-HSP27(S82)')	0.69241
+(' 584', 'clName: RVH-421', 'clCenterSpecificID: 50475', 'timePoint: 1', 'variable: p-NFKB(S536)')	1.1487
+(' 585', 'clName: RVH-421', 'clCenterSpecificID: 50475', 'timePoint: 1', 'variable: Bim')	0.41103
+(' 586', 'clName: RVH-421', 'clCenterSpecificID: 50475', 'timePoint: 1', 'variable: cPARP')	0.5899
+(' 587', 'clName: RVH-421', 'clCenterSpecificID: 50475', 'timePoint: 1', 'variable: p-Histone H3(S10)')	
+(' 588', 'clName: RVH-421', 'clCenterSpecificID: 50475', 'timePoint: 1', 'variable: p27 Kip1')	0.55022
+(' 589', 'clName: RVH-421', 'clCenterSpecificID: 50475', 'timePoint: 5', 'variable: p-p90RSK(S380)')	-0.6997
+(' 590', 'clName: RVH-421', 'clCenterSpecificID: 50475', 'timePoint: 5', 'variable: p-p90RSK(T573)')	
+(' 591', 'clName: RVH-421', 'clCenterSpecificID: 50475', 'timePoint: 5', 'variable: p-AKT(T308)')	-0.65256
+(' 592', 'clName: RVH-421', 'clCenterSpecificID: 50475', 'timePoint: 5', 'variable: p-AKT(S473)')	-0.58425
+(' 593', 'clName: RVH-421', 'clCenterSpecificID: 50475', 'timePoint: 5', 'variable: p-mTOR(S2448)')	-0.77894
+(' 594', 'clName: RVH-421', 'clCenterSpecificID: 50475', 'timePoint: 5', 'variable: p-p70S6K(T421/S424)')	0.26993
+(' 595', 'clName: RVH-421', 'clCenterSpecificID: 50475', 'timePoint: 5', 'variable: p-p70S6K(T389)')	
+(' 596', 'clName: RVH-421', 'clCenterSpecificID: 50475', 'timePoint: 5', 'variable: p-S6(S235/236)')	0.61113
+(' 597', 'clName: RVH-421', 'clCenterSpecificID: 50475', 'timePoint: 5', 'variable: p-AMPK(T172)')	
+(' 598', 'clName: RVH-421', 'clCenterSpecificID: 50475', 'timePoint: 5', 'variable: p-JNK(T183/Y185)')	-0.63346
+(' 599', 'clName: RVH-421', 'clCenterSpecificID: 50475', 'timePoint: 5', 'variable: Total c-Jun')	
+(' 600', 'clName: RVH-421', 'clCenterSpecificID: 50475', 'timePoint: 5', 'variable: p-cJun(S63)')	
+(' 601', 'clName: RVH-421', 'clCenterSpecificID: 50475', 'timePoint: 5', 'variable: p-P38(T180/Y182)')	0.22986
+(' 602', 'clName: RVH-421', 'clCenterSpecificID: 50475', 'timePoint: 5', 'variable: p-HSP27(S82)')	-0.77288
+(' 603', 'clName: RVH-421', 'clCenterSpecificID: 50475', 'timePoint: 5', 'variable: p-NFKB(S536)')	-1.305
+(' 604', 'clName: RVH-421', 'clCenterSpecificID: 50475', 'timePoint: 5', 'variable: Bim')	-1.0463
+(' 605', 'clName: RVH-421', 'clCenterSpecificID: 50475', 'timePoint: 5', 'variable: cPARP')	-0.50626
+(' 606', 'clName: RVH-421', 'clCenterSpecificID: 50475', 'timePoint: 5', 'variable: p-Histone H3(S10)')	-0.6825
+(' 607', 'clName: RVH-421', 'clCenterSpecificID: 50475', 'timePoint: 5', 'variable: p27 Kip1')	-0.62768
+(' 608', 'clName: RVH-421', 'clCenterSpecificID: 50475', 'timePoint: 10', 'variable: p-p90RSK(S380)')	1.1134
+(' 609', 'clName: RVH-421', 'clCenterSpecificID: 50475', 'timePoint: 10', 'variable: p-p90RSK(T573)')	0.78083
+(' 610', 'clName: RVH-421', 'clCenterSpecificID: 50475', 'timePoint: 10', 'variable: p-AKT(T308)')	0.65412
+(' 611', 'clName: RVH-421', 'clCenterSpecificID: 50475', 'timePoint: 10', 'variable: p-AKT(S473)')	0.61229
+(' 612', 'clName: RVH-421', 'clCenterSpecificID: 50475', 'timePoint: 10', 'variable: p-mTOR(S2448)')	1.4057
+(' 613', 'clName: RVH-421', 'clCenterSpecificID: 50475', 'timePoint: 10', 'variable: p-p70S6K(T421/S424)')	1.4337
+(' 614', 'clName: RVH-421', 'clCenterSpecificID: 50475', 'timePoint: 10', 'variable: p-p70S6K(T389)')	1.6291
+(' 615', 'clName: RVH-421', 'clCenterSpecificID: 50475', 'timePoint: 10', 'variable: p-S6(S235/236)')	1.7646
+(' 616', 'clName: RVH-421', 'clCenterSpecificID: 50475', 'timePoint: 10', 'variable: p-AMPK(T172)')	1.4543
+(' 617', 'clName: RVH-421', 'clCenterSpecificID: 50475', 'timePoint: 10', 'variable: p-JNK(T183/Y185)')	1.4082
+(' 618', 'clName: RVH-421', 'clCenterSpecificID: 50475', 'timePoint: 10', 'variable: Total c-Jun')	
+(' 619', 'clName: RVH-421', 'clCenterSpecificID: 50475', 'timePoint: 10', 'variable: p-cJun(S63)')	
+(' 620', 'clName: RVH-421', 'clCenterSpecificID: 50475', 'timePoint: 10', 'variable: p-P38(T180/Y182)')	
+(' 621', 'clName: RVH-421', 'clCenterSpecificID: 50475', 'timePoint: 10', 'variable: p-HSP27(S82)')	0.77342
+(' 622', 'clName: RVH-421', 'clCenterSpecificID: 50475', 'timePoint: 10', 'variable: p-NFKB(S536)')	0.44518
+(' 623', 'clName: RVH-421', 'clCenterSpecificID: 50475', 'timePoint: 10', 'variable: Bim')	0.41463
+(' 624', 'clName: RVH-421', 'clCenterSpecificID: 50475', 'timePoint: 10', 'variable: cPARP')	0.16856
+(' 625', 'clName: RVH-421', 'clCenterSpecificID: 50475', 'timePoint: 10', 'variable: p-Histone H3(S10)')	
+(' 626', 'clName: RVH-421', 'clCenterSpecificID: 50475', 'timePoint: 10', 'variable: p27 Kip1')	
+(' 627', 'clName: RVH-421', 'clCenterSpecificID: 50475', 'timePoint: 24', 'variable: p-p90RSK(S380)')	
+(' 628', 'clName: RVH-421', 'clCenterSpecificID: 50475', 'timePoint: 24', 'variable: p-p90RSK(T573)')	
+(' 629', 'clName: RVH-421', 'clCenterSpecificID: 50475', 'timePoint: 24', 'variable: p-AKT(T308)')	-0.39409
+(' 630', 'clName: RVH-421', 'clCenterSpecificID: 50475', 'timePoint: 24', 'variable: p-AKT(S473)')	
+(' 631', 'clName: RVH-421', 'clCenterSpecificID: 50475', 'timePoint: 24', 'variable: p-mTOR(S2448)')	
+(' 632', 'clName: RVH-421', 'clCenterSpecificID: 50475', 'timePoint: 24', 'variable: p-p70S6K(T421/S424)')	1.3735
+(' 633', 'clName: RVH-421', 'clCenterSpecificID: 50475', 'timePoint: 24', 'variable: p-p70S6K(T389)')	
+(' 634', 'clName: RVH-421', 'clCenterSpecificID: 50475', 'timePoint: 24', 'variable: p-S6(S235/236)')	1.534
+(' 635', 'clName: RVH-421', 'clCenterSpecificID: 50475', 'timePoint: 24', 'variable: p-AMPK(T172)')	-0.66423
+(' 636', 'clName: RVH-421', 'clCenterSpecificID: 50475', 'timePoint: 24', 'variable: p-JNK(T183/Y185)')	-0.56908
+(' 637', 'clName: RVH-421', 'clCenterSpecificID: 50475', 'timePoint: 24', 'variable: Total c-Jun')	-1.2441
+(' 638', 'clName: RVH-421', 'clCenterSpecificID: 50475', 'timePoint: 24', 'variable: p-cJun(S63)')	-0.50516
+(' 639', 'clName: RVH-421', 'clCenterSpecificID: 50475', 'timePoint: 24', 'variable: p-P38(T180/Y182)')	
+(' 640', 'clName: RVH-421', 'clCenterSpecificID: 50475', 'timePoint: 24', 'variable: p-HSP27(S82)')	
+(' 641', 'clName: RVH-421', 'clCenterSpecificID: 50475', 'timePoint: 24', 'variable: p-NFKB(S536)')	-1.5242
+(' 642', 'clName: RVH-421', 'clCenterSpecificID: 50475', 'timePoint: 24', 'variable: Bim')	-1.3256
+(' 643', 'clName: RVH-421', 'clCenterSpecificID: 50475', 'timePoint: 24', 'variable: cPARP')	-1.3352
+(' 644', 'clName: RVH-421', 'clCenterSpecificID: 50475', 'timePoint: 24', 'variable: p-Histone H3(S10)')	0.81086
+(' 645', 'clName: RVH-421', 'clCenterSpecificID: 50475', 'timePoint: 24', 'variable: p27 Kip1')	-1.451
+(' 646', 'clName: RVH-421', 'clCenterSpecificID: 50475', 'timePoint: 48', 'variable: p-p90RSK(S380)')	-0.60222
+(' 647', 'clName: RVH-421', 'clCenterSpecificID: 50475', 'timePoint: 48', 'variable: p-p90RSK(T573)')	
+(' 648', 'clName: RVH-421', 'clCenterSpecificID: 50475', 'timePoint: 48', 'variable: p-AKT(T308)')	-0.79373
+(' 649', 'clName: RVH-421', 'clCenterSpecificID: 50475', 'timePoint: 48', 'variable: p-AKT(S473)')	0.49185
+(' 650', 'clName: RVH-421', 'clCenterSpecificID: 50475', 'timePoint: 48', 'variable: p-mTOR(S2448)')	
+(' 651', 'clName: RVH-421', 'clCenterSpecificID: 50475', 'timePoint: 48', 'variable: p-p70S6K(T421/S424)')	1.1251
+(' 652', 'clName: RVH-421', 'clCenterSpecificID: 50475', 'timePoint: 48', 'variable: p-p70S6K(T389)')	
+(' 653', 'clName: RVH-421', 'clCenterSpecificID: 50475', 'timePoint: 48', 'variable: p-S6(S235/236)')	1.2451
+(' 654', 'clName: RVH-421', 'clCenterSpecificID: 50475', 'timePoint: 48', 'variable: p-AMPK(T172)')	-0.6772
+(' 655', 'clName: RVH-421', 'clCenterSpecificID: 50475', 'timePoint: 48', 'variable: p-JNK(T183/Y185)')	-1.5508
+(' 656', 'clName: RVH-421', 'clCenterSpecificID: 50475', 'timePoint: 48', 'variable: Total c-Jun')	-1.7876
+(' 657', 'clName: RVH-421', 'clCenterSpecificID: 50475', 'timePoint: 48', 'variable: p-cJun(S63)')	-1.1707
+(' 658', 'clName: RVH-421', 'clCenterSpecificID: 50475', 'timePoint: 48', 'variable: p-P38(T180/Y182)')	
+(' 659', 'clName: RVH-421', 'clCenterSpecificID: 50475', 'timePoint: 48', 'variable: p-HSP27(S82)')	
+(' 660', 'clName: RVH-421', 'clCenterSpecificID: 50475', 'timePoint: 48', 'variable: p-NFKB(S536)')	-0.5505
+(' 661', 'clName: RVH-421', 'clCenterSpecificID: 50475', 'timePoint: 48', 'variable: Bim')	-1.6476
+(' 662', 'clName: RVH-421', 'clCenterSpecificID: 50475', 'timePoint: 48', 'variable: cPARP')	-1.3625
+(' 663', 'clName: RVH-421', 'clCenterSpecificID: 50475', 'timePoint: 48', 'variable: p-Histone H3(S10)')	2.0813
+(' 664', 'clName: RVH-421', 'clCenterSpecificID: 50475', 'timePoint: 48', 'variable: p27 Kip1')	-1.59
+(' 665', 'clName: SKMEL28', 'clCenterSpecificID: 51101', 'timePoint: 1', 'variable: p-p90RSK(S380)')	1.0417
+(' 666', 'clName: SKMEL28', 'clCenterSpecificID: 51101', 'timePoint: 1', 'variable: p-p90RSK(T573)')	0.41264
+(' 667', 'clName: SKMEL28', 'clCenterSpecificID: 51101', 'timePoint: 1', 'variable: p-AKT(T308)')	
+(' 668', 'clName: SKMEL28', 'clCenterSpecificID: 51101', 'timePoint: 1', 'variable: p-AKT(S473)')	0.61843
+(' 669', 'clName: SKMEL28', 'clCenterSpecificID: 51101', 'timePoint: 1', 'variable: p-mTOR(S2448)')	0.61188
+(' 670', 'clName: SKMEL28', 'clCenterSpecificID: 51101', 'timePoint: 1', 'variable: p-p70S6K(T421/S424)')	1.2096
+(' 671', 'clName: SKMEL28', 'clCenterSpecificID: 51101', 'timePoint: 1', 'variable: p-p70S6K(T389)')	0.60277
+(' 672', 'clName: SKMEL28', 'clCenterSpecificID: 51101', 'timePoint: 1', 'variable: p-S6(S235/236)')	0.58875
+(' 673', 'clName: SKMEL28', 'clCenterSpecificID: 51101', 'timePoint: 1', 'variable: p-AMPK(T172)')	
+(' 674', 'clName: SKMEL28', 'clCenterSpecificID: 51101', 'timePoint: 1', 'variable: p-JNK(T183/Y185)')	1.0784
+(' 675', 'clName: SKMEL28', 'clCenterSpecificID: 51101', 'timePoint: 1', 'variable: Total c-Jun')	0.59367
+(' 676', 'clName: SKMEL28', 'clCenterSpecificID: 51101', 'timePoint: 1', 'variable: p-cJun(S63)')	0.56096
+(' 677', 'clName: SKMEL28', 'clCenterSpecificID: 51101', 'timePoint: 1', 'variable: p-P38(T180/Y182)')	0.58098
+(' 678', 'clName: SKMEL28', 'clCenterSpecificID: 51101', 'timePoint: 1', 'variable: p-HSP27(S82)')	0.69218
+(' 679', 'clName: SKMEL28', 'clCenterSpecificID: 51101', 'timePoint: 1', 'variable: p-NFKB(S536)')	0.35365
+(' 680', 'clName: SKMEL28', 'clCenterSpecificID: 51101', 'timePoint: 1', 'variable: Bim')	0.36643
+(' 681', 'clName: SKMEL28', 'clCenterSpecificID: 51101', 'timePoint: 1', 'variable: cPARP')	0.47894
+(' 682', 'clName: SKMEL28', 'clCenterSpecificID: 51101', 'timePoint: 1', 'variable: p-Histone H3(S10)')	0.33634
+(' 683', 'clName: SKMEL28', 'clCenterSpecificID: 51101', 'timePoint: 1', 'variable: p27 Kip1')	0.41783
+(' 684', 'clName: SKMEL28', 'clCenterSpecificID: 51101', 'timePoint: 5', 'variable: p-p90RSK(S380)')	0.45569
+(' 685', 'clName: SKMEL28', 'clCenterSpecificID: 51101', 'timePoint: 5', 'variable: p-p90RSK(T573)')	-0.56904
+(' 686', 'clName: SKMEL28', 'clCenterSpecificID: 51101', 'timePoint: 5', 'variable: p-AKT(T308)')	
+(' 687', 'clName: SKMEL28', 'clCenterSpecificID: 51101', 'timePoint: 5', 'variable: p-AKT(S473)')	-0.99542
+(' 688', 'clName: SKMEL28', 'clCenterSpecificID: 51101', 'timePoint: 5', 'variable: p-mTOR(S2448)')	
+(' 689', 'clName: SKMEL28', 'clCenterSpecificID: 51101', 'timePoint: 5', 'variable: p-p70S6K(T421/S424)')	-0.7873
+(' 690', 'clName: SKMEL28', 'clCenterSpecificID: 51101', 'timePoint: 5', 'variable: p-p70S6K(T389)')	
+(' 691', 'clName: SKMEL28', 'clCenterSpecificID: 51101', 'timePoint: 5', 'variable: p-S6(S235/236)')	0.52224
+(' 692', 'clName: SKMEL28', 'clCenterSpecificID: 51101', 'timePoint: 5', 'variable: p-AMPK(T172)')	-0.4942
+(' 693', 'clName: SKMEL28', 'clCenterSpecificID: 51101', 'timePoint: 5', 'variable: p-JNK(T183/Y185)')	
+(' 694', 'clName: SKMEL28', 'clCenterSpecificID: 51101', 'timePoint: 5', 'variable: Total c-Jun')	0.83264
+(' 695', 'clName: SKMEL28', 'clCenterSpecificID: 51101', 'timePoint: 5', 'variable: p-cJun(S63)')	-1.0139
+(' 696', 'clName: SKMEL28', 'clCenterSpecificID: 51101', 'timePoint: 5', 'variable: p-P38(T180/Y182)')	
+(' 697', 'clName: SKMEL28', 'clCenterSpecificID: 51101', 'timePoint: 5', 'variable: p-HSP27(S82)')	
+(' 698', 'clName: SKMEL28', 'clCenterSpecificID: 51101', 'timePoint: 5', 'variable: p-NFKB(S536)')	
+(' 699', 'clName: SKMEL28', 'clCenterSpecificID: 51101', 'timePoint: 5', 'variable: Bim')	-0.59177
+(' 700', 'clName: SKMEL28', 'clCenterSpecificID: 51101', 'timePoint: 5', 'variable: cPARP')	-0.57451
+(' 701', 'clName: SKMEL28', 'clCenterSpecificID: 51101', 'timePoint: 5', 'variable: p-Histone H3(S10)')	-0.18617
+(' 702', 'clName: SKMEL28', 'clCenterSpecificID: 51101', 'timePoint: 5', 'variable: p27 Kip1')	
+(' 703', 'clName: SKMEL28', 'clCenterSpecificID: 51101', 'timePoint: 10', 'variable: p-p90RSK(S380)')	1.5846
+(' 704', 'clName: SKMEL28', 'clCenterSpecificID: 51101', 'timePoint: 10', 'variable: p-p90RSK(T573)')	0.66327
+(' 705', 'clName: SKMEL28', 'clCenterSpecificID: 51101', 'timePoint: 10', 'variable: p-AKT(T308)')	
+(' 706', 'clName: SKMEL28', 'clCenterSpecificID: 51101', 'timePoint: 10', 'variable: p-AKT(S473)')	0.67691
+(' 707', 'clName: SKMEL28', 'clCenterSpecificID: 51101', 'timePoint: 10', 'variable: p-mTOR(S2448)')	0.85779
+(' 708', 'clName: SKMEL28', 'clCenterSpecificID: 51101', 'timePoint: 10', 'variable: p-p70S6K(T421/S424)')	1.2257
+(' 709', 'clName: SKMEL28', 'clCenterSpecificID: 51101', 'timePoint: 10', 'variable: p-p70S6K(T389)')	1.2488
+(' 710', 'clName: SKMEL28', 'clCenterSpecificID: 51101', 'timePoint: 10', 'variable: p-S6(S235/236)')	1.4038
+(' 711', 'clName: SKMEL28', 'clCenterSpecificID: 51101', 'timePoint: 10', 'variable: p-AMPK(T172)')	0.6014
+(' 712', 'clName: SKMEL28', 'clCenterSpecificID: 51101', 'timePoint: 10', 'variable: p-JNK(T183/Y185)')	1.128
+(' 713', 'clName: SKMEL28', 'clCenterSpecificID: 51101', 'timePoint: 10', 'variable: Total c-Jun')	1.6522
+(' 714', 'clName: SKMEL28', 'clCenterSpecificID: 51101', 'timePoint: 10', 'variable: p-cJun(S63)')	0.59615
+(' 715', 'clName: SKMEL28', 'clCenterSpecificID: 51101', 'timePoint: 10', 'variable: p-P38(T180/Y182)')	0.65581
+(' 716', 'clName: SKMEL28', 'clCenterSpecificID: 51101', 'timePoint: 10', 'variable: p-HSP27(S82)')	0.53442
+(' 717', 'clName: SKMEL28', 'clCenterSpecificID: 51101', 'timePoint: 10', 'variable: p-NFKB(S536)')	1.492
+(' 718', 'clName: SKMEL28', 'clCenterSpecificID: 51101', 'timePoint: 10', 'variable: Bim')	-0.16529
+(' 719', 'clName: SKMEL28', 'clCenterSpecificID: 51101', 'timePoint: 10', 'variable: cPARP')	0.28001
+(' 720', 'clName: SKMEL28', 'clCenterSpecificID: 51101', 'timePoint: 10', 'variable: p-Histone H3(S10)')	
+(' 721', 'clName: SKMEL28', 'clCenterSpecificID: 51101', 'timePoint: 10', 'variable: p27 Kip1')	-0.51507
+(' 722', 'clName: SKMEL28', 'clCenterSpecificID: 51101', 'timePoint: 24', 'variable: p-p90RSK(S380)')	0.21054
+(' 723', 'clName: SKMEL28', 'clCenterSpecificID: 51101', 'timePoint: 24', 'variable: p-p90RSK(T573)')	
+(' 724', 'clName: SKMEL28', 'clCenterSpecificID: 51101', 'timePoint: 24', 'variable: p-AKT(T308)')	
+(' 725', 'clName: SKMEL28', 'clCenterSpecificID: 51101', 'timePoint: 24', 'variable: p-AKT(S473)')	
+(' 726', 'clName: SKMEL28', 'clCenterSpecificID: 51101', 'timePoint: 24', 'variable: p-mTOR(S2448)')	1.8551
+(' 727', 'clName: SKMEL28', 'clCenterSpecificID: 51101', 'timePoint: 24', 'variable: p-p70S6K(T421/S424)')	1.6584
+(' 728', 'clName: SKMEL28', 'clCenterSpecificID: 51101', 'timePoint: 24', 'variable: p-p70S6K(T389)')	1.5042
+(' 729', 'clName: SKMEL28', 'clCenterSpecificID: 51101', 'timePoint: 24', 'variable: p-S6(S235/236)')	
+(' 730', 'clName: SKMEL28', 'clCenterSpecificID: 51101', 'timePoint: 24', 'variable: p-AMPK(T172)')	-0.37196
+(' 731', 'clName: SKMEL28', 'clCenterSpecificID: 51101', 'timePoint: 24', 'variable: p-JNK(T183/Y185)')	
+(' 732', 'clName: SKMEL28', 'clCenterSpecificID: 51101', 'timePoint: 24', 'variable: Total c-Jun')	
+(' 733', 'clName: SKMEL28', 'clCenterSpecificID: 51101', 'timePoint: 24', 'variable: p-cJun(S63)')	-0.5919
+(' 734', 'clName: SKMEL28', 'clCenterSpecificID: 51101', 'timePoint: 24', 'variable: p-P38(T180/Y182)')	
+(' 735', 'clName: SKMEL28', 'clCenterSpecificID: 51101', 'timePoint: 24', 'variable: p-HSP27(S82)')	
+(' 736', 'clName: SKMEL28', 'clCenterSpecificID: 51101', 'timePoint: 24', 'variable: p-NFKB(S536)')	1.3887
+(' 737', 'clName: SKMEL28', 'clCenterSpecificID: 51101', 'timePoint: 24', 'variable: Bim')	-0.6898
+(' 738', 'clName: SKMEL28', 'clCenterSpecificID: 51101', 'timePoint: 24', 'variable: cPARP')	-1.2071
+(' 739', 'clName: SKMEL28', 'clCenterSpecificID: 51101', 'timePoint: 24', 'variable: p-Histone H3(S10)')	2.1675
+(' 740', 'clName: SKMEL28', 'clCenterSpecificID: 51101', 'timePoint: 24', 'variable: p27 Kip1')	-1.5216
+(' 741', 'clName: SKMEL28', 'clCenterSpecificID: 51101', 'timePoint: 48', 'variable: p-p90RSK(S380)')	1.1392
+(' 742', 'clName: SKMEL28', 'clCenterSpecificID: 51101', 'timePoint: 48', 'variable: p-p90RSK(T573)')	1.2806
+(' 743', 'clName: SKMEL28', 'clCenterSpecificID: 51101', 'timePoint: 48', 'variable: p-AKT(T308)')	
+(' 744', 'clName: SKMEL28', 'clCenterSpecificID: 51101', 'timePoint: 48', 'variable: p-AKT(S473)')	
+(' 745', 'clName: SKMEL28', 'clCenterSpecificID: 51101', 'timePoint: 48', 'variable: p-mTOR(S2448)')	1.2971
+(' 746', 'clName: SKMEL28', 'clCenterSpecificID: 51101', 'timePoint: 48', 'variable: p-p70S6K(T421/S424)')	0.71737
+(' 747', 'clName: SKMEL28', 'clCenterSpecificID: 51101', 'timePoint: 48', 'variable: p-p70S6K(T389)')	1.0817
+(' 748', 'clName: SKMEL28', 'clCenterSpecificID: 51101', 'timePoint: 48', 'variable: p-S6(S235/236)')	
+(' 749', 'clName: SKMEL28', 'clCenterSpecificID: 51101', 'timePoint: 48', 'variable: p-AMPK(T172)')	-0.84624
+(' 750', 'clName: SKMEL28', 'clCenterSpecificID: 51101', 'timePoint: 48', 'variable: p-JNK(T183/Y185)')	
+(' 751', 'clName: SKMEL28', 'clCenterSpecificID: 51101', 'timePoint: 48', 'variable: Total c-Jun')	-0.73459
+(' 752', 'clName: SKMEL28', 'clCenterSpecificID: 51101', 'timePoint: 48', 'variable: p-cJun(S63)')	-0.98814
+(' 753', 'clName: SKMEL28', 'clCenterSpecificID: 51101', 'timePoint: 48', 'variable: p-P38(T180/Y182)')	0.61775
+(' 754', 'clName: SKMEL28', 'clCenterSpecificID: 51101', 'timePoint: 48', 'variable: p-HSP27(S82)')	
+(' 755', 'clName: SKMEL28', 'clCenterSpecificID: 51101', 'timePoint: 48', 'variable: p-NFKB(S536)')	1.3318
+(' 756', 'clName: SKMEL28', 'clCenterSpecificID: 51101', 'timePoint: 48', 'variable: Bim')	
+(' 757', 'clName: SKMEL28', 'clCenterSpecificID: 51101', 'timePoint: 48', 'variable: cPARP')	-1.3751
+(' 758', 'clName: SKMEL28', 'clCenterSpecificID: 51101', 'timePoint: 48', 'variable: p-Histone H3(S10)')	2.1989
+(' 759', 'clName: SKMEL28', 'clCenterSpecificID: 51101', 'timePoint: 48', 'variable: p27 Kip1')	-2.2192
+(' 760', 'clName: WM-115', 'clCenterSpecificID: 50567', 'timePoint: 1', 'variable: p-p90RSK(S380)')	1.2269
+(' 761', 'clName: WM-115', 'clCenterSpecificID: 50567', 'timePoint: 1', 'variable: p-p90RSK(T573)')	0.35229
+(' 762', 'clName: WM-115', 'clCenterSpecificID: 50567', 'timePoint: 1', 'variable: p-AKT(T308)')	0.93461
+(' 763', 'clName: WM-115', 'clCenterSpecificID: 50567', 'timePoint: 1', 'variable: p-AKT(S473)')	
+(' 764', 'clName: WM-115', 'clCenterSpecificID: 50567', 'timePoint: 1', 'variable: p-mTOR(S2448)')	0.62683
+(' 765', 'clName: WM-115', 'clCenterSpecificID: 50567', 'timePoint: 1', 'variable: p-p70S6K(T421/S424)')	0.97563
+(' 766', 'clName: WM-115', 'clCenterSpecificID: 50567', 'timePoint: 1', 'variable: p-p70S6K(T389)')	0.74367
+(' 767', 'clName: WM-115', 'clCenterSpecificID: 50567', 'timePoint: 1', 'variable: p-S6(S235/236)')	0.43608
+(' 768', 'clName: WM-115', 'clCenterSpecificID: 50567', 'timePoint: 1', 'variable: p-AMPK(T172)')	
+(' 769', 'clName: WM-115', 'clCenterSpecificID: 50567', 'timePoint: 1', 'variable: p-JNK(T183/Y185)')	1.5297
+(' 770', 'clName: WM-115', 'clCenterSpecificID: 50567', 'timePoint: 1', 'variable: Total c-Jun')	0.8563
+(' 771', 'clName: WM-115', 'clCenterSpecificID: 50567', 'timePoint: 1', 'variable: p-cJun(S63)')	
+(' 772', 'clName: WM-115', 'clCenterSpecificID: 50567', 'timePoint: 1', 'variable: p-P38(T180/Y182)')	1.3195
+(' 773', 'clName: WM-115', 'clCenterSpecificID: 50567', 'timePoint: 1', 'variable: p-HSP27(S82)')	-0.33793
+(' 774', 'clName: WM-115', 'clCenterSpecificID: 50567', 'timePoint: 1', 'variable: p-NFKB(S536)')	0.41587
+(' 775', 'clName: WM-115', 'clCenterSpecificID: 50567', 'timePoint: 1', 'variable: Bim')	0.93658
+(' 776', 'clName: WM-115', 'clCenterSpecificID: 50567', 'timePoint: 1', 'variable: cPARP')	0.77093
+(' 777', 'clName: WM-115', 'clCenterSpecificID: 50567', 'timePoint: 1', 'variable: p-Histone H3(S10)')	0.42351
+(' 778', 'clName: WM-115', 'clCenterSpecificID: 50567', 'timePoint: 1', 'variable: p27 Kip1')	0.67655
+(' 779', 'clName: WM-115', 'clCenterSpecificID: 50567', 'timePoint: 5', 'variable: p-p90RSK(S380)')	0.89933
+(' 780', 'clName: WM-115', 'clCenterSpecificID: 50567', 'timePoint: 5', 'variable: p-p90RSK(T573)')	
+(' 781', 'clName: WM-115', 'clCenterSpecificID: 50567', 'timePoint: 5', 'variable: p-AKT(T308)')	-0.79027
+(' 782', 'clName: WM-115', 'clCenterSpecificID: 50567', 'timePoint: 5', 'variable: p-AKT(S473)')	-0.81455
+(' 783', 'clName: WM-115', 'clCenterSpecificID: 50567', 'timePoint: 5', 'variable: p-mTOR(S2448)')	0.4296
+(' 784', 'clName: WM-115', 'clCenterSpecificID: 50567', 'timePoint: 5', 'variable: p-p70S6K(T421/S424)')	-0.17204
+(' 785', 'clName: WM-115', 'clCenterSpecificID: 50567', 'timePoint: 5', 'variable: p-p70S6K(T389)')	
+(' 786', 'clName: WM-115', 'clCenterSpecificID: 50567', 'timePoint: 5', 'variable: p-S6(S235/236)')	0.6595
+(' 787', 'clName: WM-115', 'clCenterSpecificID: 50567', 'timePoint: 5', 'variable: p-AMPK(T172)')	-0.42314
+(' 788', 'clName: WM-115', 'clCenterSpecificID: 50567', 'timePoint: 5', 'variable: p-JNK(T183/Y185)')	
+(' 789', 'clName: WM-115', 'clCenterSpecificID: 50567', 'timePoint: 5', 'variable: Total c-Jun')	0.61828
+(' 790', 'clName: WM-115', 'clCenterSpecificID: 50567', 'timePoint: 5', 'variable: p-cJun(S63)')	-0.46479
+(' 791', 'clName: WM-115', 'clCenterSpecificID: 50567', 'timePoint: 5', 'variable: p-P38(T180/Y182)')	0.70534
+(' 792', 'clName: WM-115', 'clCenterSpecificID: 50567', 'timePoint: 5', 'variable: p-HSP27(S82)')	0.088223
+(' 793', 'clName: WM-115', 'clCenterSpecificID: 50567', 'timePoint: 5', 'variable: p-NFKB(S536)')	-0.16998
+(' 794', 'clName: WM-115', 'clCenterSpecificID: 50567', 'timePoint: 5', 'variable: Bim')	-0.8178
+(' 795', 'clName: WM-115', 'clCenterSpecificID: 50567', 'timePoint: 5', 'variable: cPARP')	
+(' 796', 'clName: WM-115', 'clCenterSpecificID: 50567', 'timePoint: 5', 'variable: p-Histone H3(S10)')	-0.94266
+(' 797', 'clName: WM-115', 'clCenterSpecificID: 50567', 'timePoint: 5', 'variable: p27 Kip1')	0.42857
+(' 798', 'clName: WM-115', 'clCenterSpecificID: 50567', 'timePoint: 10', 'variable: p-p90RSK(S380)')	1.1397
+(' 799', 'clName: WM-115', 'clCenterSpecificID: 50567', 'timePoint: 10', 'variable: p-p90RSK(T573)')	
+(' 800', 'clName: WM-115', 'clCenterSpecificID: 50567', 'timePoint: 10', 'variable: p-AKT(T308)')	-0.68812
+(' 801', 'clName: WM-115', 'clCenterSpecificID: 50567', 'timePoint: 10', 'variable: p-AKT(S473)')	-0.52788
+(' 802', 'clName: WM-115', 'clCenterSpecificID: 50567', 'timePoint: 10', 'variable: p-mTOR(S2448)')	0.65551
+(' 803', 'clName: WM-115', 'clCenterSpecificID: 50567', 'timePoint: 10', 'variable: p-p70S6K(T421/S424)')	0.51143
+(' 804', 'clName: WM-115', 'clCenterSpecificID: 50567', 'timePoint: 10', 'variable: p-p70S6K(T389)')	1.0162
+(' 805', 'clName: WM-115', 'clCenterSpecificID: 50567', 'timePoint: 10', 'variable: p-S6(S235/236)')	0.90692
+(' 806', 'clName: WM-115', 'clCenterSpecificID: 50567', 'timePoint: 10', 'variable: p-AMPK(T172)')	0.36597
+(' 807', 'clName: WM-115', 'clCenterSpecificID: 50567', 'timePoint: 10', 'variable: p-JNK(T183/Y185)')	0.88221
+(' 808', 'clName: WM-115', 'clCenterSpecificID: 50567', 'timePoint: 10', 'variable: Total c-Jun')	-1.3594
+(' 809', 'clName: WM-115', 'clCenterSpecificID: 50567', 'timePoint: 10', 'variable: p-cJun(S63)')	
+(' 810', 'clName: WM-115', 'clCenterSpecificID: 50567', 'timePoint: 10', 'variable: p-P38(T180/Y182)')	0.509
+(' 811', 'clName: WM-115', 'clCenterSpecificID: 50567', 'timePoint: 10', 'variable: p-HSP27(S82)')	-0.22354
+(' 812', 'clName: WM-115', 'clCenterSpecificID: 50567', 'timePoint: 10', 'variable: p-NFKB(S536)')	0.5029
+(' 813', 'clName: WM-115', 'clCenterSpecificID: 50567', 'timePoint: 10', 'variable: Bim')	-0.30135
+(' 814', 'clName: WM-115', 'clCenterSpecificID: 50567', 'timePoint: 10', 'variable: cPARP')	0.67536
+(' 815', 'clName: WM-115', 'clCenterSpecificID: 50567', 'timePoint: 10', 'variable: p-Histone H3(S10)')	-0.77003
+(' 816', 'clName: WM-115', 'clCenterSpecificID: 50567', 'timePoint: 10', 'variable: p27 Kip1')	0.43586
+(' 817', 'clName: WM-115', 'clCenterSpecificID: 50567', 'timePoint: 24', 'variable: p-p90RSK(S380)')	0.5204
+(' 818', 'clName: WM-115', 'clCenterSpecificID: 50567', 'timePoint: 24', 'variable: p-p90RSK(T573)')	
+(' 819', 'clName: WM-115', 'clCenterSpecificID: 50567', 'timePoint: 24', 'variable: p-AKT(T308)')	-0.79026
+(' 820', 'clName: WM-115', 'clCenterSpecificID: 50567', 'timePoint: 24', 'variable: p-AKT(S473)')	-0.68794
+(' 821', 'clName: WM-115', 'clCenterSpecificID: 50567', 'timePoint: 24', 'variable: p-mTOR(S2448)')	-0.40411
+(' 822', 'clName: WM-115', 'clCenterSpecificID: 50567', 'timePoint: 24', 'variable: p-p70S6K(T421/S424)')	-0.40436
+(' 823', 'clName: WM-115', 'clCenterSpecificID: 50567', 'timePoint: 24', 'variable: p-p70S6K(T389)')	
+(' 824', 'clName: WM-115', 'clCenterSpecificID: 50567', 'timePoint: 24', 'variable: p-S6(S235/236)')	1.8138
+(' 825', 'clName: WM-115', 'clCenterSpecificID: 50567', 'timePoint: 24', 'variable: p-AMPK(T172)')	-0.88057
+(' 826', 'clName: WM-115', 'clCenterSpecificID: 50567', 'timePoint: 24', 'variable: p-JNK(T183/Y185)')	
+(' 827', 'clName: WM-115', 'clCenterSpecificID: 50567', 'timePoint: 24', 'variable: Total c-Jun')	-1.1573
+(' 828', 'clName: WM-115', 'clCenterSpecificID: 50567', 'timePoint: 24', 'variable: p-cJun(S63)')	-0.80333
+(' 829', 'clName: WM-115', 'clCenterSpecificID: 50567', 'timePoint: 24', 'variable: p-P38(T180/Y182)')	
+(' 830', 'clName: WM-115', 'clCenterSpecificID: 50567', 'timePoint: 24', 'variable: p-HSP27(S82)')	-0.4255
+(' 831', 'clName: WM-115', 'clCenterSpecificID: 50567', 'timePoint: 24', 'variable: p-NFKB(S536)')	-0.47474
+(' 832', 'clName: WM-115', 'clCenterSpecificID: 50567', 'timePoint: 24', 'variable: Bim')	
+(' 833', 'clName: WM-115', 'clCenterSpecificID: 50567', 'timePoint: 24', 'variable: cPARP')	0.48989
+(' 834', 'clName: WM-115', 'clCenterSpecificID: 50567', 'timePoint: 24', 'variable: p-Histone H3(S10)')	
+(' 835', 'clName: WM-115', 'clCenterSpecificID: 50567', 'timePoint: 24', 'variable: p27 Kip1')	-0.39922
+(' 836', 'clName: WM-115', 'clCenterSpecificID: 50567', 'timePoint: 48', 'variable: p-p90RSK(S380)')	1.6033
+(' 837', 'clName: WM-115', 'clCenterSpecificID: 50567', 'timePoint: 48', 'variable: p-p90RSK(T573)')	1.03
+(' 838', 'clName: WM-115', 'clCenterSpecificID: 50567', 'timePoint: 48', 'variable: p-AKT(T308)')	-0.89141
+(' 839', 'clName: WM-115', 'clCenterSpecificID: 50567', 'timePoint: 48', 'variable: p-AKT(S473)')	-0.24656
+(' 840', 'clName: WM-115', 'clCenterSpecificID: 50567', 'timePoint: 48', 'variable: p-mTOR(S2448)')	0.61967
+(' 841', 'clName: WM-115', 'clCenterSpecificID: 50567', 'timePoint: 48', 'variable: p-p70S6K(T421/S424)')	2.0274
+(' 842', 'clName: WM-115', 'clCenterSpecificID: 50567', 'timePoint: 48', 'variable: p-p70S6K(T389)')	1.8257
+(' 843', 'clName: WM-115', 'clCenterSpecificID: 50567', 'timePoint: 48', 'variable: p-S6(S235/236)')	1.8616
+(' 844', 'clName: WM-115', 'clCenterSpecificID: 50567', 'timePoint: 48', 'variable: p-AMPK(T172)')	-0.91522
+(' 845', 'clName: WM-115', 'clCenterSpecificID: 50567', 'timePoint: 48', 'variable: p-JNK(T183/Y185)')	0.65144
+(' 846', 'clName: WM-115', 'clCenterSpecificID: 50567', 'timePoint: 48', 'variable: Total c-Jun')	-2.1836
+(' 847', 'clName: WM-115', 'clCenterSpecificID: 50567', 'timePoint: 48', 'variable: p-cJun(S63)')	-1.5545
+(' 848', 'clName: WM-115', 'clCenterSpecificID: 50567', 'timePoint: 48', 'variable: p-P38(T180/Y182)')	0.8708
+(' 849', 'clName: WM-115', 'clCenterSpecificID: 50567', 'timePoint: 48', 'variable: p-HSP27(S82)')	0.72441
+(' 850', 'clName: WM-115', 'clCenterSpecificID: 50567', 'timePoint: 48', 'variable: p-NFKB(S536)')	1.0574
+(' 851', 'clName: WM-115', 'clCenterSpecificID: 50567', 'timePoint: 48', 'variable: Bim')	
+(' 852', 'clName: WM-115', 'clCenterSpecificID: 50567', 'timePoint: 48', 'variable: cPARP')	
+(' 853', 'clName: WM-115', 'clCenterSpecificID: 50567', 'timePoint: 48', 'variable: p-Histone H3(S10)')	3.5739
+(' 854', 'clName: WM-115', 'clCenterSpecificID: 50567', 'timePoint: 48', 'variable: p27 Kip1')	-1.1015
+(' 855', 'clName: WM1552C', 'clCenterSpecificID: 50568', 'timePoint: 1', 'variable: p-p90RSK(S380)')	0.81016
+(' 856', 'clName: WM1552C', 'clCenterSpecificID: 50568', 'timePoint: 1', 'variable: p-p90RSK(T573)')	0.48146
+(' 857', 'clName: WM1552C', 'clCenterSpecificID: 50568', 'timePoint: 1', 'variable: p-AKT(T308)')	0.52449
+(' 858', 'clName: WM1552C', 'clCenterSpecificID: 50568', 'timePoint: 1', 'variable: p-AKT(S473)')	
+(' 859', 'clName: WM1552C', 'clCenterSpecificID: 50568', 'timePoint: 1', 'variable: p-mTOR(S2448)')	0.68414
+(' 860', 'clName: WM1552C', 'clCenterSpecificID: 50568', 'timePoint: 1', 'variable: p-p70S6K(T421/S424)')	1.0231
+(' 861', 'clName: WM1552C', 'clCenterSpecificID: 50568', 'timePoint: 1', 'variable: p-p70S6K(T389)')	0.80114
+(' 862', 'clName: WM1552C', 'clCenterSpecificID: 50568', 'timePoint: 1', 'variable: p-S6(S235/236)')	0.42843
+(' 863', 'clName: WM1552C', 'clCenterSpecificID: 50568', 'timePoint: 1', 'variable: p-AMPK(T172)')	0.97605
+(' 864', 'clName: WM1552C', 'clCenterSpecificID: 50568', 'timePoint: 1', 'variable: p-JNK(T183/Y185)')	1.0626
+(' 865', 'clName: WM1552C', 'clCenterSpecificID: 50568', 'timePoint: 1', 'variable: Total c-Jun')	0.6184
+(' 866', 'clName: WM1552C', 'clCenterSpecificID: 50568', 'timePoint: 1', 'variable: p-cJun(S63)')	0.85042
+(' 867', 'clName: WM1552C', 'clCenterSpecificID: 50568', 'timePoint: 1', 'variable: p-P38(T180/Y182)')	0.9603
+(' 868', 'clName: WM1552C', 'clCenterSpecificID: 50568', 'timePoint: 1', 'variable: p-HSP27(S82)')	0.81144
+(' 869', 'clName: WM1552C', 'clCenterSpecificID: 50568', 'timePoint: 1', 'variable: p-NFKB(S536)')	0.74671
+(' 870', 'clName: WM1552C', 'clCenterSpecificID: 50568', 'timePoint: 1', 'variable: Bim')	0.73961
+(' 871', 'clName: WM1552C', 'clCenterSpecificID: 50568', 'timePoint: 1', 'variable: cPARP')	0.79246
+(' 872', 'clName: WM1552C', 'clCenterSpecificID: 50568', 'timePoint: 1', 'variable: p-Histone H3(S10)')	0.2496
+(' 873', 'clName: WM1552C', 'clCenterSpecificID: 50568', 'timePoint: 1', 'variable: p27 Kip1')	
+(' 874', 'clName: WM1552C', 'clCenterSpecificID: 50568', 'timePoint: 5', 'variable: p-p90RSK(S380)')	
+(' 875', 'clName: WM1552C', 'clCenterSpecificID: 50568', 'timePoint: 5', 'variable: p-p90RSK(T573)')	
+(' 876', 'clName: WM1552C', 'clCenterSpecificID: 50568', 'timePoint: 5', 'variable: p-AKT(T308)')	-0.56449
+(' 877', 'clName: WM1552C', 'clCenterSpecificID: 50568', 'timePoint: 5', 'variable: p-AKT(S473)')	-0.46578
+(' 878', 'clName: WM1552C', 'clCenterSpecificID: 50568', 'timePoint: 5', 'variable: p-mTOR(S2448)')	
+(' 879', 'clName: WM1552C', 'clCenterSpecificID: 50568', 'timePoint: 5', 'variable: p-p70S6K(T421/S424)')	-0.47542
+(' 880', 'clName: WM1552C', 'clCenterSpecificID: 50568', 'timePoint: 5', 'variable: p-p70S6K(T389)')	
+(' 881', 'clName: WM1552C', 'clCenterSpecificID: 50568', 'timePoint: 5', 'variable: p-S6(S235/236)')	
+(' 882', 'clName: WM1552C', 'clCenterSpecificID: 50568', 'timePoint: 5', 'variable: p-AMPK(T172)')	-0.68836
+(' 883', 'clName: WM1552C', 'clCenterSpecificID: 50568', 'timePoint: 5', 'variable: p-JNK(T183/Y185)')	
+(' 884', 'clName: WM1552C', 'clCenterSpecificID: 50568', 'timePoint: 5', 'variable: Total c-Jun')	1.4197
+(' 885', 'clName: WM1552C', 'clCenterSpecificID: 50568', 'timePoint: 5', 'variable: p-cJun(S63)')	1.1822
+(' 886', 'clName: WM1552C', 'clCenterSpecificID: 50568', 'timePoint: 5', 'variable: p-P38(T180/Y182)')	
+(' 887', 'clName: WM1552C', 'clCenterSpecificID: 50568', 'timePoint: 5', 'variable: p-HSP27(S82)')	0.96946
+(' 888', 'clName: WM1552C', 'clCenterSpecificID: 50568', 'timePoint: 5', 'variable: p-NFKB(S536)')	-0.49639
+(' 889', 'clName: WM1552C', 'clCenterSpecificID: 50568', 'timePoint: 5', 'variable: Bim')	-0.58522
+(' 890', 'clName: WM1552C', 'clCenterSpecificID: 50568', 'timePoint: 5', 'variable: cPARP')	-0.47236
+(' 891', 'clName: WM1552C', 'clCenterSpecificID: 50568', 'timePoint: 5', 'variable: p-Histone H3(S10)')	-0.35061
+(' 892', 'clName: WM1552C', 'clCenterSpecificID: 50568', 'timePoint: 5', 'variable: p27 Kip1')	
+(' 893', 'clName: WM1552C', 'clCenterSpecificID: 50568', 'timePoint: 10', 'variable: p-p90RSK(S380)')	0.89499
+(' 894', 'clName: WM1552C', 'clCenterSpecificID: 50568', 'timePoint: 10', 'variable: p-p90RSK(T573)')	0.45496
+(' 895', 'clName: WM1552C', 'clCenterSpecificID: 50568', 'timePoint: 10', 'variable: p-AKT(T308)')	-1.0356
+(' 896', 'clName: WM1552C', 'clCenterSpecificID: 50568', 'timePoint: 10', 'variable: p-AKT(S473)')	
+(' 897', 'clName: WM1552C', 'clCenterSpecificID: 50568', 'timePoint: 10', 'variable: p-mTOR(S2448)')	0.64542
+(' 898', 'clName: WM1552C', 'clCenterSpecificID: 50568', 'timePoint: 10', 'variable: p-p70S6K(T421/S424)')	0.69219
+(' 899', 'clName: WM1552C', 'clCenterSpecificID: 50568', 'timePoint: 10', 'variable: p-p70S6K(T389)')	0.77814
+(' 900', 'clName: WM1552C', 'clCenterSpecificID: 50568', 'timePoint: 10', 'variable: p-S6(S235/236)')	0.79069
+(' 901', 'clName: WM1552C', 'clCenterSpecificID: 50568', 'timePoint: 10', 'variable: p-AMPK(T172)')	
+(' 902', 'clName: WM1552C', 'clCenterSpecificID: 50568', 'timePoint: 10', 'variable: p-JNK(T183/Y185)')	0.93172
+(' 903', 'clName: WM1552C', 'clCenterSpecificID: 50568', 'timePoint: 10', 'variable: Total c-Jun')	1.9743
+(' 904', 'clName: WM1552C', 'clCenterSpecificID: 50568', 'timePoint: 10', 'variable: p-cJun(S63)')	1.0538
+(' 905', 'clName: WM1552C', 'clCenterSpecificID: 50568', 'timePoint: 10', 'variable: p-P38(T180/Y182)')	0.61283
+(' 906', 'clName: WM1552C', 'clCenterSpecificID: 50568', 'timePoint: 10', 'variable: p-HSP27(S82)')	0.41162
+(' 907', 'clName: WM1552C', 'clCenterSpecificID: 50568', 'timePoint: 10', 'variable: p-NFKB(S536)')	0.52127
+(' 908', 'clName: WM1552C', 'clCenterSpecificID: 50568', 'timePoint: 10', 'variable: Bim')	
+(' 909', 'clName: WM1552C', 'clCenterSpecificID: 50568', 'timePoint: 10', 'variable: cPARP')	
+(' 910', 'clName: WM1552C', 'clCenterSpecificID: 50568', 'timePoint: 10', 'variable: p-Histone H3(S10)')	
+(' 911', 'clName: WM1552C', 'clCenterSpecificID: 50568', 'timePoint: 10', 'variable: p27 Kip1')	
+(' 912', 'clName: WM1552C', 'clCenterSpecificID: 50568', 'timePoint: 24', 'variable: p-p90RSK(S380)')	0.62822
+(' 913', 'clName: WM1552C', 'clCenterSpecificID: 50568', 'timePoint: 24', 'variable: p-p90RSK(T573)')	
+(' 914', 'clName: WM1552C', 'clCenterSpecificID: 50568', 'timePoint: 24', 'variable: p-AKT(T308)')	-0.98743
+(' 915', 'clName: WM1552C', 'clCenterSpecificID: 50568', 'timePoint: 24', 'variable: p-AKT(S473)')	-0.97161
+(' 916', 'clName: WM1552C', 'clCenterSpecificID: 50568', 'timePoint: 24', 'variable: p-mTOR(S2448)')	0.33699
+(' 917', 'clName: WM1552C', 'clCenterSpecificID: 50568', 'timePoint: 24', 'variable: p-p70S6K(T421/S424)')	-0.30308
+(' 918', 'clName: WM1552C', 'clCenterSpecificID: 50568', 'timePoint: 24', 'variable: p-p70S6K(T389)')	
+(' 919', 'clName: WM1552C', 'clCenterSpecificID: 50568', 'timePoint: 24', 'variable: p-S6(S235/236)')	
+(' 920', 'clName: WM1552C', 'clCenterSpecificID: 50568', 'timePoint: 24', 'variable: p-AMPK(T172)')	-0.31682
+(' 921', 'clName: WM1552C', 'clCenterSpecificID: 50568', 'timePoint: 24', 'variable: p-JNK(T183/Y185)')	
+(' 922', 'clName: WM1552C', 'clCenterSpecificID: 50568', 'timePoint: 24', 'variable: Total c-Jun')	0.62581
+(' 923', 'clName: WM1552C', 'clCenterSpecificID: 50568', 'timePoint: 24', 'variable: p-cJun(S63)')	-1.1751
+(' 924', 'clName: WM1552C', 'clCenterSpecificID: 50568', 'timePoint: 24', 'variable: p-P38(T180/Y182)')	
+(' 925', 'clName: WM1552C', 'clCenterSpecificID: 50568', 'timePoint: 24', 'variable: p-HSP27(S82)')	0.39
+(' 926', 'clName: WM1552C', 'clCenterSpecificID: 50568', 'timePoint: 24', 'variable: p-NFKB(S536)')	0.70333
+(' 927', 'clName: WM1552C', 'clCenterSpecificID: 50568', 'timePoint: 24', 'variable: Bim')	-1.646
+(' 928', 'clName: WM1552C', 'clCenterSpecificID: 50568', 'timePoint: 24', 'variable: cPARP')	
+(' 929', 'clName: WM1552C', 'clCenterSpecificID: 50568', 'timePoint: 24', 'variable: p-Histone H3(S10)')	1.4098
+(' 930', 'clName: WM1552C', 'clCenterSpecificID: 50568', 'timePoint: 24', 'variable: p27 Kip1')	
+(' 931', 'clName: WM1552C', 'clCenterSpecificID: 50568', 'timePoint: 48', 'variable: p-p90RSK(S380)')	1.9
+(' 932', 'clName: WM1552C', 'clCenterSpecificID: 50568', 'timePoint: 48', 'variable: p-p90RSK(T573)')	1.4538
+(' 933', 'clName: WM1552C', 'clCenterSpecificID: 50568', 'timePoint: 48', 'variable: p-AKT(T308)')	0.58462
+(' 934', 'clName: WM1552C', 'clCenterSpecificID: 50568', 'timePoint: 48', 'variable: p-AKT(S473)')	-1.3277
+(' 935', 'clName: WM1552C', 'clCenterSpecificID: 50568', 'timePoint: 48', 'variable: p-mTOR(S2448)')	1.2703
+(' 936', 'clName: WM1552C', 'clCenterSpecificID: 50568', 'timePoint: 48', 'variable: p-p70S6K(T421/S424)')	1.4441
+(' 937', 'clName: WM1552C', 'clCenterSpecificID: 50568', 'timePoint: 48', 'variable: p-p70S6K(T389)')	0.95501
+(' 938', 'clName: WM1552C', 'clCenterSpecificID: 50568', 'timePoint: 48', 'variable: p-S6(S235/236)')	-0.34452
+(' 939', 'clName: WM1552C', 'clCenterSpecificID: 50568', 'timePoint: 48', 'variable: p-AMPK(T172)')	0.70236
+(' 940', 'clName: WM1552C', 'clCenterSpecificID: 50568', 'timePoint: 48', 'variable: p-JNK(T183/Y185)')	1.5211
+(' 941', 'clName: WM1552C', 'clCenterSpecificID: 50568', 'timePoint: 48', 'variable: Total c-Jun')	0.40568
+(' 942', 'clName: WM1552C', 'clCenterSpecificID: 50568', 'timePoint: 48', 'variable: p-cJun(S63)')	-1.6459
+(' 943', 'clName: WM1552C', 'clCenterSpecificID: 50568', 'timePoint: 48', 'variable: p-P38(T180/Y182)')	
+(' 944', 'clName: WM1552C', 'clCenterSpecificID: 50568', 'timePoint: 48', 'variable: p-HSP27(S82)')	1.018
+(' 945', 'clName: WM1552C', 'clCenterSpecificID: 50568', 'timePoint: 48', 'variable: p-NFKB(S536)')	2.0087
+(' 946', 'clName: WM1552C', 'clCenterSpecificID: 50568', 'timePoint: 48', 'variable: Bim')	0.4278
+(' 947', 'clName: WM1552C', 'clCenterSpecificID: 50568', 'timePoint: 48', 'variable: cPARP')	1.9241
+(' 948', 'clName: WM1552C', 'clCenterSpecificID: 50568', 'timePoint: 48', 'variable: p-Histone H3(S10)')	2.8556
+(' 949', 'clName: WM1552C', 'clCenterSpecificID: 50568', 'timePoint: 48', 'variable: p27 Kip1')	

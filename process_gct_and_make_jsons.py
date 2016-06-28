@@ -15,13 +15,16 @@ def filter_and_cluster_tsvs():
   import glob
   all_paths = glob.glob('txt/*.txt')
 
-  all_paths = all_paths[0:3]
+  # all_paths = all_paths[3:4]
 
   for inst_filename in all_paths:
 
     name = inst_filename.split('/')[1].split('.txt')[0]
 
-    make_json_from_tsv(name)
+    try:
+      make_json_from_tsv(name)
+    except:
+      print('failed to make json from tsv')
 
 def make_json_from_tsv(name):
   '''
@@ -143,8 +146,8 @@ def get_meta_data(gct):
     cat_titles[inst_rc] = []
     for tmp_title in cat_titles['tmp_'+inst_rc]:
 
-      if 'ID' not in tmp_title:
-        cat_titles[inst_rc].append(tmp_title)
+      # if 'ID' not in tmp_title:
+      cat_titles[inst_rc].append(tmp_title)
 
     cat_info[inst_rc] = {}
 
@@ -152,19 +155,6 @@ def get_meta_data(gct):
 
     # tmp use ids, since they are unique
     if inst_rc == 'row':
-
-      # if 'smName' in cat_titles['row']:
-      #   print('*** smName')
-      #   tmp_names = gct.get_row_meta('smName')
-      # elif 'smallmolecule_smName' in cat_titles['row']:
-      #   print('*** smallmolecule_smName')
-      #   tmp_names = gct.get_row_meta('smallmolecule_smName')
-      # else:
-      #   print('using id/\n-----------')
-      #   tmp_names = gct.get_row_meta('id')
-
-      #   names[inst_rc] = tmp_names
-      #   # print(names)
 
       if 'smName' in cat_titles['row']:
         tmp_names = gct.get_row_meta('smName')
