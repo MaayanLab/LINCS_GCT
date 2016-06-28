@@ -1,10 +1,10 @@
 def main():
 
-  minimally_proc_gct_to_tsv('gcts-vis')
-  minimally_proc_gct_to_tsv('gcts-orig')
-  minimally_proc_gct_to_tsv('gcts-failed-orig')
+  # minimally_proc_gct_to_tsv('gcts-vis')
+  # minimally_proc_gct_to_tsv('gcts-orig')
+  # minimally_proc_gct_to_tsv('gcts-failed-orig')
 
-  # filter_and_cluster_tsvs()
+  filter_and_cluster_tsvs()
 
 def filter_and_cluster_tsvs():
   '''
@@ -15,7 +15,7 @@ def filter_and_cluster_tsvs():
   import glob
   all_paths = glob.glob('txt/*.txt')
 
-  all_paths = all_paths[0:1]
+  all_paths = all_paths[0:3]
 
   for inst_filename in all_paths:
 
@@ -29,7 +29,7 @@ def make_json_from_tsv(name):
   '''
   from clustergrammer import Network
 
-  print(name)
+  print('\n' + name)
 
   net = Network()
 
@@ -45,18 +45,19 @@ def make_json_from_tsv(name):
   net.normalize(axis='col', norm_type='zscore', keep_orig=True)
 
   # filter the rows to keep the perts with the largest normalizes values
-  net.filter_N_top('row', 100)
+  net.filter_N_top('row', 1000)
 
   num_rows = net.dat['mat'].shape[0]
-  num_coluns = net.dat['mat'].shape[1]
+  num_cols = net.dat['mat'].shape[1]
 
-  if num_coluns < 50:
+  print('num_rows ' + str(num_rows))
+  print('num_cols ' + str(num_cols))
+
+  if num_cols < 50 or num_rows < 1000:
 
     views = ['N_row_sum']
     net.make_clust(dist_type='cos', views=views)
-
     export_filename = 'json/' + name + '.json'
-
     net.write_json_to_file('viz', export_filename)
 
   else:
@@ -147,9 +148,33 @@ def get_meta_data(gct):
 
     cat_info[inst_rc] = {}
 
+    # print(inst_rc)
+
     # tmp use ids, since they are unique
     if inst_rc == 'row':
-      names[inst_rc] = gct.get_row_meta('id')
+
+      # if 'smName' in cat_titles['row']:
+      #   print('*** smName')
+      #   tmp_names = gct.get_row_meta('smName')
+      # elif 'smallmolecule_smName' in cat_titles['row']:
+      #   print('*** smallmolecule_smName')
+      #   tmp_names = gct.get_row_meta('smallmolecule_smName')
+      # else:
+      #   print('using id/\n-----------')
+      #   tmp_names = gct.get_row_meta('id')
+
+      #   names[inst_rc] = tmp_names
+      #   # print(names)
+
+      if 'smName' in cat_titles['row']:
+        tmp_names = gct.get_row_meta('smName')
+      elif 'smallmolecule_smName' in cat_titles['row']:
+        tmp_names = gct.get_row_meta('smallmolecule_smName')
+      else:
+        tmp_names = gct.get_row_meta('id')
+
+      names[inst_rc] = tmp_names
+
     elif inst_rc == 'col':
       names[inst_rc] = gct.get_column_meta('id')
 

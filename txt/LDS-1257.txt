@@ -1,691 +1,691 @@
 	('auc 0',)
-('490650 0', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: (R)- Roscovitine', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	0.74127
-('490651 1', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: AT-7519', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	-0.095085
-('490652 2', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: AZD7762', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	0.027417
-('490653 3', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: AZD8055', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	-0.041406
-('490654 4', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Sorafenib', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	0.79943
-('490655 5', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: CP466722', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	0.93378
-('490656 6', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: CP724714', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	0.75685
-('490657 7', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Flavopiridol', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	-0.30557
-('490658 8', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: GW843682', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	0.2298
-('490659 9', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: HG-5-113-01', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	0.3313
-('490660 10', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: HG-5-88-01', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	0.37241
-('490661 11', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: HG-6-64-01', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	0.74494
-('490662 12', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Neratinib', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	0.46171
-('490663 13', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: JW-7-24-1', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	0.29536
-('490664 14', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Dasatinib', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	0.11431
-('490665 15', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Dasatinib', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	-0.035189
-('490666 16', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Tozasertib', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	0.067341
-('490667 17', 'smallmolecule_smSalt: 103', 'smallmolecule_smName: Imatinib', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	1.0365
-('490668 18', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: NVP-TAE684', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	0.039928
-('490669 19', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: CGP60474', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	-0.11178
-('490670 20', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: CGP60474', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	-0.35227
-('490671 21', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PD173074', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	0.99804
-('490672 22', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Crizotinib', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	0.3919
-('490673 23', 'smallmolecule_smSalt: 102', 'smallmolecule_smName: BMS345541', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	0.51916
-('490674 24', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: KIN001-043', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	0.75418
-('490675 25', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Saracatinib', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	0.46043
-('490676 26', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Sigma A6730', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	0.51392
-('490677 27', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: WH-4-025', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	0.38175
-('490678 28', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: R406', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	0.80265
-('490679 29', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: BI-2536', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	0.016016
-('490680 30', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: A443654', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	-0.22707
-('490681 31', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: SB590885', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	0.88628
-('490682 32', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: GDC-0941', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	0.067698
-('490683 33', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PD184352', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	0.668
-('490684 34', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PLX-4720', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	0.89001
-('490685 35', 'smallmolecule_smSalt: 104', 'smallmolecule_smName: Lapatinib', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	0.80111
-('490686 36', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Rapamycin', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	0.48855
-('490687 37', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: ZSTK474', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	0.19979
-('490688 38', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: BX-912', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	0.5307
-('490689 39', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Selumetinib', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	0.62903
-('490690 40', 'smallmolecule_smSalt: 102', 'smallmolecule_smName: MK2206', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	0.2933
-('490691 41', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: AZD-6482', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	0.77407
-('490692 42', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: NU7441', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	0.79537
-('490693 43', 'smallmolecule_smSalt: 102', 'smallmolecule_smName: OSI-027', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	0.40948
-('490694 44', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: WYE-125132', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	0.11163
-('490695 45', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: AZD1152-HQPA', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	0.1342
-('490696 46', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Vemurafenib', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	0.98177
-('490697 47', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Enzastaurin', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	0.92685
-('490698 48', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Palbociclib', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	0.44429
-('490699 49', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PF562271', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	0.33518
-('490700 50', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PHA-793887', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	-0.0095943
-('490701 51', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: QL-X-138', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	0.24474
-('490702 52', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: QL-XII-47', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	0.094644
-('490703 53', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Torin1', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	0.048501
-('490704 54', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Torin2', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	-0.045307
-('490705 55', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: WZ-4-145', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	0.36311
-('490706 56', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: WZ3105', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	-0.28655
-('490707 57', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: XMD11-50', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	0.47262
-('490708 58', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: XMD11-85h', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	0.72083
-('490709 59', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: XMD16-144', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	0.092505
-('490710 60', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Erlotinib', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	0.96699
-('490711 61', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Gefitinib', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	1.0135
-('490712 62', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Nilotinib', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	0.83174
-('490713 63', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: JNK-9L', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	0.13017
-('490714 64', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PD0325901', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	0.40378
-('490715 65', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PD0325901', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	0.39024
-('490716 66', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Geldanamycin', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	0.074672
-('490717 67', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Geldanamycin', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	0.059171
-('490718 68', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: YM 201636', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	0.63545
-('490719 69', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: TWS119', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	0.74145
-('490720 70', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PF477736', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	0.29847
-('490721 71', 'smallmolecule_smSalt: 102', 'smallmolecule_smName: LDN-193189', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	0.64129
-('490722 72', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PF431396', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	0.19262
-('490723 73', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Celastrol', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	0.40347
-('490724 74', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: SU11274', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	0.80529
-('490725 75', 'smallmolecule_smSalt: 102', 'smallmolecule_smName: Canertinib', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	0.58018
-('490726 76', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: NVP-AEW541', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	0.50494
-('490727 77', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PHA-665752', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	0.96146
-('490728 78', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PI103', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	0.14646
-('490729 79', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Dovitinib', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	0.61242
-('490730 80', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: GSK 690693', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	0.42769
-('490731 81', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: BMS-387032', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	-0.28711
-('490732 82', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Afatinib', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	0.59312
-('490733 83', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: GSK1904529A', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	0.38938
-('490734 84', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Linsitinib', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	0.5214
-('490735 85', 'smallmolecule_smSalt: 105', 'smallmolecule_smName: Ruxolitinib', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	0.95954
-('490736 86', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: CYT387', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	0.61062
-('490737 87', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: TG 101348', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	0.52732
-('490738 88', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Trametinib', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	0.38794
-('490739 89', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: GSK2126458', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	-0.061026
-('490740 90', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Buparlisib', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	0.14884
-('490741 91', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: XL147', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	0.98972
-('490742 92', 'smallmolecule_smSalt: 102', 'smallmolecule_smName: Y39983', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	0.73186
-('490743 93', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Nintedanib', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	0.59126
-('490744 94', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Foretinib', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	0.24522
-('490745 95', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: AZD 5438', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	0.063495
-('490746 96', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Pelitinib', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	0.65935
-('490747 97', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: NVP-AUY922', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	0.02957
-('490748 98', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: AZD8330', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	0.38058
-('490749 99', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: TGX221', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	0.87
-('490750 100', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: GSK1059615', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	0.40259
-('490751 101', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: GSK1059615', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	0.39536
-('490752 102', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Brivanib', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	0.89681
-('490753 103', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: CHIR-99021', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	0.63324
-('490754 104', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Linifanib', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	0.82386
-('490755 105', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PIK-93', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	0.74839
-('490756 106', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: BEZ235', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	0.08
-('490757 107', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: BYL719', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	0.43583
-('490758 108', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: GDC-0980', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	-0.019079
-('490759 109', 'smallmolecule_smSalt: 102', 'smallmolecule_smName: Mitoxantrone', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	-0.14572
-('490760 110', 'smallmolecule_smSalt: 102', 'smallmolecule_smName: Mitoxantrone', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	-0.18643
-('490761 111', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Radicicol', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	0.18906
-('490762 112', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Radicicol', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	0.17798
-('490763 113', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Withaferin A', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	0.34443
-('490764 114', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Withaferin A', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	0.30779
-('490765 115', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: (R)- Roscovitine', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	0.79001
-('490766 116', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: AT-7519', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	-0.077212
-('490767 117', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: AZD7762', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	-0.19692
-('490768 118', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: AZD8055', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	-0.14163
-('490769 119', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Sorafenib', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	0.85479
-('490770 120', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: CP466722', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	0.92383
-('490771 121', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: CP724714', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	0.19429
-('490772 122', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Flavopiridol', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	-0.27009
-('490773 123', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: GW843682', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	0.14674
-('490774 124', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: HG-5-113-01', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	0.33001
-('490775 125', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: HG-5-88-01', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	0.56481
-('490776 126', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: HG-6-64-01', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	0.58953
-('490777 127', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Neratinib', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	-0.14125
-('490778 128', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: JW-7-24-1', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	0.40114
-('490779 129', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Dasatinib', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	0.70597
-('490780 130', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Dasatinib', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	0.58575
-('490781 131', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Tozasertib', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	-0.095811
-('490782 132', 'smallmolecule_smSalt: 103', 'smallmolecule_smName: Imatinib', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	1.0568
-('490783 133', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: NVP-TAE684', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	0.57432
-('490784 134', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: CGP60474', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	0.096149
-('490785 135', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: CGP60474', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	-0.34804
-('490786 136', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PD173074', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	0.96762
-('490787 137', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Crizotinib', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	0.50623
-('490788 138', 'smallmolecule_smSalt: 102', 'smallmolecule_smName: BMS345541', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	0.57148
-('490789 139', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: KIN001-043', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	0.71464
-('490790 140', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Saracatinib', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	0.85853
-('490791 141', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Sigma A6730', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	0.61424
-('490792 142', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: WH-4-025', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	0.71924
-('490793 143', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: R406', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	0.97457
-('490794 144', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: BI-2536', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	-0.15187
-('490795 145', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: A443654', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	-0.24587
-('490796 146', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: SB590885', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	0.90752
-('490797 147', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: GDC-0941', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	0.12932
-('490798 148', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PD184352', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	0.96137
-('490799 149', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PLX-4720', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	0.8257
-('490800 150', 'smallmolecule_smSalt: 104', 'smallmolecule_smName: Lapatinib', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	0.021668
-('490801 151', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Rapamycin', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	0.40527
-('490802 152', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: ZSTK474', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	0.22878
-('490803 153', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: BX-912', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	0.24584
-('490804 154', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Selumetinib', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	1.0382
-('490805 155', 'smallmolecule_smSalt: 102', 'smallmolecule_smName: MK2206', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	0.41595
-('490806 156', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: AZD-6482', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	0.67837
-('490807 157', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: NU7441', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	0.7376
-('490808 158', 'smallmolecule_smSalt: 102', 'smallmolecule_smName: OSI-027', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	0.22644
-('490809 159', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: WYE-125132', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	-0.011532
-('490810 160', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: AZD1152-HQPA', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	-0.064725
-('490811 161', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Vemurafenib', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	0.97883
-('490812 162', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Enzastaurin', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	1.0606
-('490813 163', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Palbociclib', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	0.63228
-('490814 164', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PF562271', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	0.43695
-('490815 165', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PHA-793887', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	-0.026349
-('490816 166', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: QL-X-138', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	0.18336
-('490817 167', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: QL-XII-47', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	0.04921
-('490818 168', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Torin1', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	-0.091173
-('490819 169', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Torin2', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	-0.18148
-('490820 170', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: WZ-4-145', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	0.1871
-('490821 171', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: WZ3105', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	-0.26976
-('490822 172', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: XMD11-50', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	0.48017
-('490823 173', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: XMD11-85h', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	0.69784
-('490824 174', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: XMD16-144', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	0.0024422
-('490825 175', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Erlotinib', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	0.75487
-('490826 176', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Gefitinib', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	0.50411
-('490827 177', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Nilotinib', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	0.9621
-('490828 178', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: JNK-9L', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	0.30897
-('490829 179', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PD0325901', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	0.66286
-('490830 180', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PD0325901', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	0.71611
-('490831 181', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Geldanamycin', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	-0.12125
-('490832 182', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Geldanamycin', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	-0.13419
-('490833 183', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: YM 201636', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	0.83322
-('490834 184', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: TWS119', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	0.737
-('490835 185', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PF477736', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	-0.12314
-('490836 186', 'smallmolecule_smSalt: 102', 'smallmolecule_smName: LDN-193189', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	0.60112
-('490837 187', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PF431396', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	0.31158
-('490838 188', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Celastrol', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	0.172
-('490839 189', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: SU11274', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	0.87637
-('490840 190', 'smallmolecule_smSalt: 102', 'smallmolecule_smName: Canertinib', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	-0.054943
-('490841 191', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: NVP-AEW541', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	0.87574
-('490842 192', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PHA-665752', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	0.86587
-('490843 193', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PI103', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	0.24561
-('490844 194', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Dovitinib', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	0.45973
-('490845 195', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: GSK 690693', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	0.58972
-('490846 196', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: BMS-387032', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	-0.18551
-('490847 197', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Afatinib', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	-0.11247
-('490848 198', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: GSK1904529A', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	0.93224
-('490849 199', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Linsitinib', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	0.69723
-('490850 200', 'smallmolecule_smSalt: 105', 'smallmolecule_smName: Ruxolitinib', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	0.89858
-('490851 201', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: CYT387', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	0.61569
-('490852 202', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: TG 101348', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	0.67357
-('490853 203', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Trametinib', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	0.59042
-('490854 204', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: GSK2126458', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	-0.23341
-('490855 205', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Buparlisib', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	0.14949
-('490856 206', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: XL147', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	1.0657
-('490857 207', 'smallmolecule_smSalt: 102', 'smallmolecule_smName: Y39983', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	0.58742
-('490858 208', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Nintedanib', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	0.76452
-('490859 209', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Foretinib', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	0.29582
-('490860 210', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: AZD 5438', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	0.15681
-('490861 211', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Pelitinib', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	0.080914
-('490862 212', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: NVP-AUY922', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	0.014243
-('490863 213', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: AZD8330', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	0.69956
-('490864 214', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: TGX221', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	0.86477
-('490865 215', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: GSK1059615', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	0.32348
-('490866 216', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: GSK1059615', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	0.22761
-('490867 217', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Brivanib', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	0.82479
-('490868 218', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: CHIR-99021', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	0.70161
-('490869 219', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Linifanib', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	0.95385
-('490870 220', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PIK-93', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	0.78515
-('490871 221', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: BEZ235', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	0.0075737
-('490872 222', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: BYL719', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	0.52836
-('490873 223', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: GDC-0980', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	-0.016123
-('490874 224', 'smallmolecule_smSalt: 102', 'smallmolecule_smName: Mitoxantrone', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	-0.2094
-('490875 225', 'smallmolecule_smSalt: 102', 'smallmolecule_smName: Mitoxantrone', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	-0.27438
-('490876 226', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Radicicol', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	0.073402
-('490877 227', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Radicicol', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	0.011053
-('490878 228', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Withaferin A', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	0.25558
-('490879 229', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Withaferin A', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	0.22078
-('490880 230', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: (R)- Roscovitine', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	0.8363
-('490881 231', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: AT-7519', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	-0.030285
-('490882 232', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: AZD7762', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	0.10811
-('490883 233', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: AZD8055', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	0.22509
-('490884 234', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Sorafenib', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	0.91911
-('490885 235', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: CP466722', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	0.87177
-('490886 236', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: CP724714', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	0.87488
-('490887 237', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Flavopiridol', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	-0.19513
-('490888 238', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: GW843682', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	0.3461
-('490889 239', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: HG-5-113-01', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	0.4958
-('490890 240', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: HG-5-88-01', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	0.74608
-('490891 241', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: HG-6-64-01', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	0.41506
-('490892 242', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Neratinib', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	0.58992
-('490893 243', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: JW-7-24-1', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	0.58026
-('490894 244', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Dasatinib', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	-0.073853
-('490895 245', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Dasatinib', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	-0.22013
-('490896 246', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Tozasertib', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	0.082276
-('490897 247', 'smallmolecule_smSalt: 103', 'smallmolecule_smName: Imatinib', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	0.99301
-('490898 248', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: NVP-TAE684', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	0.43619
-('490899 249', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: CGP60474', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	-0.0683
-('490900 250', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: CGP60474', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	-0.27833
-('490901 251', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PD173074', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	0.89828
-('490902 252', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Crizotinib', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	0.52763
-('490903 253', 'smallmolecule_smSalt: 102', 'smallmolecule_smName: BMS345541', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	0.57974
-('490904 254', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: KIN001-043', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	0.74703
-('490905 255', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Saracatinib', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	0.58337
-('490906 256', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Sigma A6730', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	0.82721
-('490907 257', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: WH-4-025', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	0.22011
-('490908 258', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: R406', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	0.7553
-('490909 259', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: BI-2536', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	0.0046288
-('490910 260', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: A443654', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	0.020136
-('490911 261', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: SB590885', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	0.69241
-('490912 262', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: GDC-0941', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	0.6646
-('490913 263', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PD184352', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	0.65646
-('490914 264', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PLX-4720', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	0.89648
-('490915 265', 'smallmolecule_smSalt: 104', 'smallmolecule_smName: Lapatinib', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	0.88111
-('490916 266', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Rapamycin', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	0.79429
-('490917 267', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: ZSTK474', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	0.66348
-('490918 268', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: BX-912', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	0.51233
-('490919 269', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Selumetinib', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	0.51841
-('490920 270', 'smallmolecule_smSalt: 102', 'smallmolecule_smName: MK2206', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	0.77432
-('490921 271', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: AZD-6482', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	0.75553
-('490922 272', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: NU7441', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	0.74011
-('490923 273', 'smallmolecule_smSalt: 102', 'smallmolecule_smName: OSI-027', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	0.72068
-('490924 274', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: WYE-125132', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	0.29696
-('490925 275', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: AZD1152-HQPA', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	0.14696
-('490926 276', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Vemurafenib', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	0.8416
-('490927 277', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Enzastaurin', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	1.0093
-('490928 278', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Palbociclib', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	0.46085
-('490929 279', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PF562271', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	0.50156
-('490930 280', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PHA-793887', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	0.018046
-('490931 281', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: QL-X-138', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	0.57375
-('490932 282', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: QL-XII-47', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	0.25015
-('490933 283', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Torin1', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	0.21803
-('490934 284', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Torin2', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	0.021055
-('490935 285', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: WZ-4-145', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	0.6232
-('490936 286', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: WZ3105', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	-0.21648
-('490937 287', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: XMD11-50', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	0.48144
-('490938 288', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: XMD11-85h', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	0.73642
-('490939 289', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: XMD16-144', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	0.10565
-('490940 290', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Erlotinib', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	0.8936
-('490941 291', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Gefitinib', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	1.0063
-('490942 292', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Nilotinib', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	0.72542
-('490943 293', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: JNK-9L', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	0.29175
-('490944 294', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PD0325901', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	0.22938
-('490945 295', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PD0325901', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	0.17648
-('490946 296', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Geldanamycin', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	0.023772
-('490947 297', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Geldanamycin', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	-0.0088282
-('490948 298', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: YM 201636', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	0.72636
-('490949 299', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: TWS119', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	0.71752
-('490950 300', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PF477736', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	0.56351
-('490951 301', 'smallmolecule_smSalt: 102', 'smallmolecule_smName: LDN-193189', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	0.54041
-('490952 302', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PF431396', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	0.38962
-('490953 303', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Celastrol', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	0.40412
-('490954 304', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: SU11274', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	0.83052
-('490955 305', 'smallmolecule_smSalt: 102', 'smallmolecule_smName: Canertinib', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	0.66994
-('490956 306', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: NVP-AEW541', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	0.85567
-('490957 307', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PHA-665752', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	0.77802
-('490958 308', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PI103', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	0.43099
-('490959 309', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Dovitinib', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	0.54606
-('490960 310', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: GSK 690693', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	0.91442
-('490961 311', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: BMS-387032', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	-0.12694
-('490962 312', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Afatinib', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	0.57426
-('490963 313', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: GSK1904529A', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	0.89661
-('490964 314', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Linsitinib', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	0.81536
-('490965 315', 'smallmolecule_smSalt: 105', 'smallmolecule_smName: Ruxolitinib', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	0.89437
-('490966 316', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: CYT387', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	0.51487
-('490967 317', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: TG 101348', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	0.54344
-('490968 318', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Trametinib', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	0.11427
-('490969 319', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: GSK2126458', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	0.085033
-('490970 320', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Buparlisib', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	0.53402
-('490971 321', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: XL147', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	1.0168
-('490972 322', 'smallmolecule_smSalt: 102', 'smallmolecule_smName: Y39983', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	0.58071
-('490973 323', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Nintedanib', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	0.84919
-('490974 324', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Foretinib', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	0.27812
-('490975 325', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: AZD 5438', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	0.20555
-('490976 326', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Pelitinib', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	0.64661
-('490977 327', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: NVP-AUY922', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	-0.081041
-('490978 328', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: AZD8330', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	0.074441
-('490979 329', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: TGX221', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	0.80811
-('490980 330', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: GSK1059615', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	0.57016
-('490981 331', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: GSK1059615', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	0.60417
-('490982 332', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Brivanib', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	0.86487
-('490983 333', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: CHIR-99021', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	0.82805
-('490984 334', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Linifanib', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	0.92773
-('490985 335', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PIK-93', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	0.83178
-('490986 336', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: BEZ235', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	0.26654
-('490987 337', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: BYL719', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	0.90344
-('490988 338', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: GDC-0980', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	0.40525
-('490989 339', 'smallmolecule_smSalt: 102', 'smallmolecule_smName: Mitoxantrone', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	-0.20121
-('490990 340', 'smallmolecule_smSalt: 102', 'smallmolecule_smName: Mitoxantrone', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	-0.22696
-('490991 341', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Radicicol', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	0.35005
-('490992 342', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Radicicol', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	0.36827
-('490993 343', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Withaferin A', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	0.38045
-('490994 344', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Withaferin A', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	0.33363
-('490995 345', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: (R)- Roscovitine', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	0.78849
-('490996 346', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: AT-7519', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	0.13388
-('490997 347', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: AZD7762', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	0.3906
-('490998 348', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: AZD8055', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	0.050583
-('490999 349', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Sorafenib', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	0.80596
-('491000 350', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: CP466722', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	0.94607
-('491001 351', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: CP724714', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	0.80678
-('491002 352', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Flavopiridol', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	-0.17814
-('491003 353', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: GW843682', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	0.27252
-('491004 354', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: HG-5-113-01', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	0.55989
-('491005 355', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: HG-5-88-01', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	0.79031
-('491006 356', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: HG-6-64-01', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	0.60183
-('491007 357', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Neratinib', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	0.54158
-('491008 358', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: JW-7-24-1', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	0.63805
-('491009 359', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Dasatinib', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	0.23231
-('491010 360', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Dasatinib', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	0.049945
-('491011 361', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Tozasertib', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	0.057
-('491012 362', 'smallmolecule_smSalt: 103', 'smallmolecule_smName: Imatinib', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	1.0004
-('491013 363', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: NVP-TAE684', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	0.69894
-('491014 364', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: CGP60474', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	-0.075069
-('491015 365', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: CGP60474', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	-0.35715
-('491016 366', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PD173074', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	1.0713
-('491017 367', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Crizotinib', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	0.60402
-('491018 368', 'smallmolecule_smSalt: 102', 'smallmolecule_smName: BMS345541', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	0.75738
-('491019 369', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: KIN001-043', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	0.87487
-('491020 370', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Saracatinib', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	0.74673
-('491021 371', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Sigma A6730', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	0.76917
-('491022 372', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: WH-4-025', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	0.41015
-('491023 373', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: R406', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	0.87712
-('491024 374', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: BI-2536', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	-0.17036
-('491025 375', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: A443654', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	-0.0024211
-('491026 376', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: SB590885', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	0.98346
-('491027 377', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: GDC-0941', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	0.36287
-('491028 378', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PD184352', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	0.88483
-('491029 379', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PLX-4720', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	0.82288
-('491030 380', 'smallmolecule_smSalt: 104', 'smallmolecule_smName: Lapatinib', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	0.91272
-('491031 381', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Rapamycin', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	0.53722
-('491032 382', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: ZSTK474', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	0.44359
-('491033 383', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: BX-912', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	0.81832
-('491034 384', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Selumetinib', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	1.0149
-('491035 385', 'smallmolecule_smSalt: 102', 'smallmolecule_smName: MK2206', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	0.61183
-('491036 386', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: AZD-6482', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	0.55015
-('491037 387', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: NU7441', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	0.85808
-('491038 388', 'smallmolecule_smSalt: 102', 'smallmolecule_smName: OSI-027', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	0.56128
-('491039 389', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: WYE-125132', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	0.2095
-('491040 390', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: AZD1152-HQPA', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	0.3486
-('491041 391', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Vemurafenib', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	0.88428
-('491042 392', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Enzastaurin', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	1.0834
-('491043 393', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Palbociclib', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	0.39316
-('491044 394', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PF562271', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	0.53104
-('491045 395', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PHA-793887', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	0.1846
-('491046 396', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: QL-X-138', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	0.46308
-('491047 397', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: QL-XII-47', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	0.21872
-('491048 398', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Torin1', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	-0.012863
-('491049 399', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Torin2', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	-0.16249
-('491050 400', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: WZ-4-145', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	0.69303
-('491051 401', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: WZ3105', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	-0.093963
-('491052 402', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: XMD11-50', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	0.67489
-('491053 403', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: XMD11-85h', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	0.87025
-('491054 404', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: XMD16-144', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	0.22691
-('491055 405', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Erlotinib', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	0.81317
-('491056 406', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Gefitinib', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	0.91619
-('491057 407', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Nilotinib', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	0.8416
-('491058 408', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: JNK-9L', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	0.36905
-('491059 409', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PD0325901', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	0.72784
-('491060 410', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PD0325901', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	0.71256
-('491061 411', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Geldanamycin', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	-0.021069
-('491062 412', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Geldanamycin', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	-0.040037
-('491063 413', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: YM 201636', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	0.72863
-('491064 414', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: TWS119', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	0.76265
-('491065 415', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PF477736', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	0.77675
-('491066 416', 'smallmolecule_smSalt: 102', 'smallmolecule_smName: LDN-193189', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	0.47881
-('491067 417', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PF431396', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	0.3416
-('491068 418', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Celastrol', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	0.43908
-('491069 419', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: SU11274', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	0.81916
-('491070 420', 'smallmolecule_smSalt: 102', 'smallmolecule_smName: Canertinib', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	0.66695
-('491071 421', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: NVP-AEW541', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	0.99528
-('491072 422', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PHA-665752', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	0.8666
-('491073 423', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PI103', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	0.32612
-('491074 424', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Dovitinib', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	0.43137
-('491075 425', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: GSK 690693', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	0.59638
-('491076 426', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: BMS-387032', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	-0.028577
-('491077 427', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Afatinib', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	0.67941
-('491078 428', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: GSK1904529A', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	0.92262
-('491079 429', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Linsitinib', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	0.88442
-('491080 430', 'smallmolecule_smSalt: 105', 'smallmolecule_smName: Ruxolitinib', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	0.91295
-('491081 431', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: CYT387', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	0.67014
-('491082 432', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: TG 101348', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	0.70949
-('491083 433', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Trametinib', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	0.73257
-('491084 434', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: GSK2126458', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	-0.2384
-('491085 435', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Buparlisib', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	0.2977
-('491086 436', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: XL147', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	0.8472
-('491087 437', 'smallmolecule_smSalt: 102', 'smallmolecule_smName: Y39983', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	0.82711
-('491088 438', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Nintedanib', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	0.8223
-('491089 439', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Foretinib', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	0.31733
-('491090 440', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: AZD 5438', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	0.24524
-('491091 441', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Pelitinib', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	0.60996
-('491092 442', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: NVP-AUY922', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	-0.035041
-('491093 443', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: AZD8330', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	0.75041
-('491094 444', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: TGX221', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	0.99951
-('491095 445', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: GSK1059615', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	0.12897
-('491096 446', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: GSK1059615', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	0.1212
-('491097 447', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Brivanib', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	0.91534
-('491098 448', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: CHIR-99021', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	0.94855
-('491099 449', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Linifanib', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	0.98155
-('491100 450', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PIK-93', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	0.81834
-('491101 451', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: BEZ235', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	0.11141
-('491102 452', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: BYL719', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	0.54349
-('491103 453', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: GDC-0980', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	-0.029188
-('491104 454', 'smallmolecule_smSalt: 102', 'smallmolecule_smName: Mitoxantrone', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	-0.13265
-('491105 455', 'smallmolecule_smSalt: 102', 'smallmolecule_smName: Mitoxantrone', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	-0.10262
-('491106 456', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Radicicol', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	0.18342
-('491107 457', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Radicicol', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	0.18605
-('491108 458', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Withaferin A', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	0.33164
-('491109 459', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Withaferin A', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	0.33919
-('491110 460', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: (R)- Roscovitine', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.93057
-('491111 461', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: AT-7519', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	0.11413
-('491112 462', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: AZD7762', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	-0.016243
-('491113 463', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: AZD8055', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	0.11148
-('491114 464', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Sorafenib', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	1.1062
-('491115 465', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: CP466722', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.96785
-('491116 466', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: CP724714', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.94078
-('491117 467', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Flavopiridol', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	-0.076392
-('491118 468', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: GW843682', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	0.22047
-('491119 469', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: HG-5-113-01', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.52144
-('491120 470', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: HG-5-88-01', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	0.85457
-('491121 471', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: HG-6-64-01', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	0.46041
-('491122 472', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Neratinib', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.52212
-('491123 473', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: JW-7-24-1', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	0.55853
-('491124 474', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Dasatinib', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.15562
-('491125 475', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Dasatinib', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	-0.023386
-('491126 476', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Tozasertib', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.089448
-('491127 477', 'smallmolecule_smSalt: 103', 'smallmolecule_smName: Imatinib', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	1.0222
-('491128 478', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: NVP-TAE684', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	0.39408
-('491129 479', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: CGP60474', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.038252
-('491130 480', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: CGP60474', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	-0.18588
-('491131 481', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PD173074', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	0.7215
-('491132 482', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Crizotinib', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.67268
-('491133 483', 'smallmolecule_smSalt: 102', 'smallmolecule_smName: BMS345541', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	0.7377
-('491134 484', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: KIN001-043', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	0.89274
-('491135 485', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Saracatinib', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	0.72982
-('491136 486', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Sigma A6730', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.83065
-('491137 487', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: WH-4-025', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.24661
-('491138 488', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: R406', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	0.69491
-('491139 489', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: BI-2536', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	-0.10029
-('491140 490', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: A443654', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	-0.0010867
-('491141 491', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: SB590885', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.98641
-('491142 492', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: GDC-0941', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	0.52669
-('491143 493', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PD184352', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.55748
-('491144 494', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PLX-4720', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	1.03
-('491145 495', 'smallmolecule_smSalt: 104', 'smallmolecule_smName: Lapatinib', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	0.92686
-('491146 496', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Rapamycin', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	0.62342
-('491147 497', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: ZSTK474', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	0.47027
-('491148 498', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: BX-912', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.50739
-('491149 499', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Selumetinib', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	0.44911
-('491150 500', 'smallmolecule_smSalt: 102', 'smallmolecule_smName: MK2206', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	0.67226
-('491151 501', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: AZD-6482', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.74283
-('491152 502', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: NU7441', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.72741
-('491153 503', 'smallmolecule_smSalt: 102', 'smallmolecule_smName: OSI-027', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	0.59781
-('491154 504', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: WYE-125132', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	0.18801
-('491155 505', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: AZD1152-HQPA', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.27645
-('491156 506', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Vemurafenib', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.92554
-('491157 507', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Enzastaurin', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.99596
-('491158 508', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Palbociclib', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	0.47814
-('491159 509', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PF562271', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	0.56776
-('491160 510', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PHA-793887', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	0.16779
-('491161 511', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: QL-X-138', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	0.51113
-('491162 512', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: QL-XII-47', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	0.48754
-('491163 513', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Torin1', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	0.11558
-('491164 514', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Torin2', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	-0.00015534
-('491165 515', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: WZ-4-145', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	0.48319
-('491166 516', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: WZ3105', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	-0.13519
-('491167 517', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: XMD11-50', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	0.61833
-('491168 518', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: XMD11-85h', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	0.81705
-('491169 519', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: XMD16-144', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.073537
-('491170 520', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Erlotinib', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.8906
-('491171 521', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Gefitinib', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	0.96501
-('491172 522', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Nilotinib', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.90817
-('491173 523', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: JNK-9L', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	0.56332
-('491174 524', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PD0325901', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.28831
-('491175 525', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PD0325901', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	0.26615
-('491176 526', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Geldanamycin', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.19901
-('491177 527', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Geldanamycin', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	0.18805
-('491178 528', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: YM 201636', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.77298
-('491179 529', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: TWS119', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.74771
-('491180 530', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PF477736', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.25021
-('491181 531', 'smallmolecule_smSalt: 102', 'smallmolecule_smName: LDN-193189', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.58391
-('491182 532', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PF431396', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.39112
-('491183 533', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Celastrol', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	0.46621
-('491184 534', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: SU11274', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.80381
-('491185 535', 'smallmolecule_smSalt: 102', 'smallmolecule_smName: Canertinib', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	0.74514
-('491186 536', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: NVP-AEW541', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.86943
-('491187 537', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PHA-665752', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.79771
-('491188 538', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PI103', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	0.28976
-('491189 539', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Dovitinib', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.41017
-('491190 540', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: GSK 690693', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.75481
-('491191 541', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: BMS-387032', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	0.012684
-('491192 542', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Afatinib', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	0.7393
-('491193 543', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: GSK1904529A', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	0.95311
-('491194 544', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Linsitinib', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.94167
-('491195 545', 'smallmolecule_smSalt: 105', 'smallmolecule_smName: Ruxolitinib', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.91592
-('491196 546', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: CYT387', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.6126
-('491197 547', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: TG 101348', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.60234
-('491198 548', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Trametinib', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.20345
-('491199 549', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: GSK2126458', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	-0.016983
-('491200 550', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Buparlisib', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.37009
-('491201 551', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: XL147', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.95778
-('491202 552', 'smallmolecule_smSalt: 102', 'smallmolecule_smName: Y39983', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	0.65307
-('491203 553', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Nintedanib', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	0.59776
-('491204 554', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Foretinib', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.39552
-('491205 555', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: AZD 5438', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	0.25976
-('491206 556', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Pelitinib', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.67117
-('491207 557', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: NVP-AUY922', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.071743
-('491208 558', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: AZD8330', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.21671
-('491209 559', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: TGX221', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.82042
-('491210 560', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: GSK1059615', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.44562
-('491211 561', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: GSK1059615', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	0.47333
-('491212 562', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Brivanib', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.92322
-('491213 563', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: CHIR-99021', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	0.873
-('491214 564', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Linifanib', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	0.9276
-('491215 565', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PIK-93', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.78186
-('491216 566', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: BEZ235', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.15712
-('491217 567', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: BYL719', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.81953
-('491218 568', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: GDC-0980', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.30204
-('491219 569', 'smallmolecule_smSalt: 102', 'smallmolecule_smName: Mitoxantrone', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	-0.18449
-('491220 570', 'smallmolecule_smSalt: 102', 'smallmolecule_smName: Mitoxantrone', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	-0.18533
-('491221 571', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Radicicol', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.53651
-('491222 572', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Radicicol', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	0.51308
-('491223 573', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Withaferin A', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.43042
-('491224 574', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Withaferin A', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	0.4053
-('491225 575', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: (R)- Roscovitine', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	0.87627
-('491226 576', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: AT-7519', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	0.22725
-('491227 577', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: AZD7762', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	0.45261
-('491228 578', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: AZD8055', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	0.20243
-('491229 579', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Sorafenib', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	0.92729
-('491230 580', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: CP466722', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	0.95571
-('491231 581', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: CP724714', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	0.98385
-('491232 582', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Flavopiridol', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	-0.18601
-('491233 583', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: GW843682', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	0.34347
-('491234 584', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: HG-5-113-01', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	0.6203
-('491235 585', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: HG-5-88-01', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	0.72767
-('491236 586', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: HG-6-64-01', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	0.72464
-('491237 587', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Neratinib', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	0.2278
-('491238 588', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: JW-7-24-1', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	0.80833
-('491239 589', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Dasatinib', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	0.27759
-('491240 590', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Dasatinib', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	0.097906
-('491241 591', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Tozasertib', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	0.158
-('491242 592', 'smallmolecule_smSalt: 103', 'smallmolecule_smName: Imatinib', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	1.0025
-('491243 593', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: NVP-TAE684', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	0.56604
-('491244 594', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: CGP60474', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	-0.044706
-('491245 595', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: CGP60474', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	-0.2498
-('491246 596', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PD173074', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	0.94109
-('491247 597', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Crizotinib', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	0.78649
-('491248 598', 'smallmolecule_smSalt: 102', 'smallmolecule_smName: BMS345541', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	0.95394
-('491249 599', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: KIN001-043', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	0.87468
-('491250 600', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Saracatinib', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	0.71217
-('491251 601', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Sigma A6730', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	0.90284
-('491252 602', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: WH-4-025', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	0.62103
-('491253 603', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: R406', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	0.88052
-('491254 604', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: BI-2536', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	-0.011508
-('491255 605', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: A443654', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	0.20826
-('491256 606', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: SB590885', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	0.93029
-('491257 607', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: GDC-0941', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	0.51749
-('491258 608', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PD184352', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	0.41286
-('491259 609', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PLX-4720', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	0.97847
-('491260 610', 'smallmolecule_smSalt: 104', 'smallmolecule_smName: Lapatinib', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	0.80062
-('491261 611', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Rapamycin', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	0.99306
-('491262 612', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: ZSTK474', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	0.57341
-('491263 613', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: BX-912', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	0.49733
-('491264 614', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Selumetinib', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	0.35353
-('491265 615', 'smallmolecule_smSalt: 102', 'smallmolecule_smName: MK2206', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	0.8034
-('491266 616', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: AZD-6482', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	0.82945
-('491267 617', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: NU7441', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	0.86889
-('491268 618', 'smallmolecule_smSalt: 102', 'smallmolecule_smName: OSI-027', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	0.436
-('491269 619', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: WYE-125132', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	0.24678
-('491270 620', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: AZD1152-HQPA', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	0.15178
-('491271 621', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Vemurafenib', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	0.86348
-('491272 622', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Enzastaurin', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	1.0038
-('491273 623', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Palbociclib', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	0.62852
-('491274 624', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PF562271', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	0.44255
-('491275 625', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PHA-793887', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	0.077608
-('491276 626', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: QL-X-138', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	0.67702
-('491277 627', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: QL-XII-47', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	0.62876
-('491278 628', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Torin1', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	0.23998
-('491279 629', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Torin2', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	0.075851
-('491280 630', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: WZ-4-145', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	0.72335
-('491281 631', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: WZ3105', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	-0.021326
-('491282 632', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: XMD11-50', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	0.65403
-('491283 633', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: XMD11-85h', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	0.936
-('491284 634', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: XMD16-144', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	0.26651
-('491285 635', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Erlotinib', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	0.43463
-('491286 636', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Gefitinib', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	0.34848
-('491287 637', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Nilotinib', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	0.90835
-('491288 638', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: JNK-9L', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	0.40941
-('491289 639', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PD0325901', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	0.17854
-('491290 640', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PD0325901', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	0.12241
-('491291 641', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Geldanamycin', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	-0.026341
-('491292 642', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Geldanamycin', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	-0.070257
-('491293 643', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: YM 201636', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	0.80234
-('491294 644', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: TWS119', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	0.83485
-('491295 645', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PF477736', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	0.59524
-('491296 646', 'smallmolecule_smSalt: 102', 'smallmolecule_smName: LDN-193189', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	0.69496
-('491297 647', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PF431396', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	0.24802
-('491298 648', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Celastrol', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	0.48395
-('491299 649', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: SU11274', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	0.8335
-('491300 650', 'smallmolecule_smSalt: 102', 'smallmolecule_smName: Canertinib', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	0.23348
-('491301 651', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: NVP-AEW541', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	0.79801
-('491302 652', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PHA-665752', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	0.90445
-('491303 653', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PI103', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	0.42491
-('491304 654', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Dovitinib', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	0.49884
-('491305 655', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: GSK 690693', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	0.92292
-('491306 656', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: BMS-387032', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	0.0034488
-('491307 657', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Afatinib', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	0.040752
-('491308 658', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: GSK1904529A', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	0.65632
-('491309 659', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Linsitinib', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	0.80507
-('491310 660', 'smallmolecule_smSalt: 105', 'smallmolecule_smName: Ruxolitinib', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	0.94686
-('491311 661', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: CYT387', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	0.73086
-('491312 662', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: TG 101348', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	0.72208
-('491313 663', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Trametinib', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	0.19177
-('491314 664', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: GSK2126458', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	-0.016145
-('491315 665', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Buparlisib', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	0.52346
-('491316 666', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: XL147', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	0.89618
-('491317 667', 'smallmolecule_smSalt: 102', 'smallmolecule_smName: Y39983', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	0.78981
-('491318 668', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Nintedanib', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	0.97877
-('491319 669', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Foretinib', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	0.57857
-('491320 670', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: AZD 5438', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	0.29462
-('491321 671', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Pelitinib', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	0.19106
-('491322 672', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: NVP-AUY922', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	-0.050787
-('491323 673', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: AZD8330', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	0.12089
-('491324 674', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: TGX221', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	0.90404
-('491325 675', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: GSK1059615', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	0.41031
-('491326 676', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: GSK1059615', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	0.41161
-('491327 677', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Brivanib', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	0.81293
-('491328 678', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: CHIR-99021', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	0.94457
-('491329 679', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Linifanib', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	0.97099
-('491330 680', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PIK-93', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	0.87956
-('491331 681', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: BEZ235', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	0.22795
-('491332 682', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: BYL719', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	0.81438
-('491333 683', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: GDC-0980', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	0.31391
-('491334 684', 'smallmolecule_smSalt: 102', 'smallmolecule_smName: Mitoxantrone', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	-0.017384
-('491335 685', 'smallmolecule_smSalt: 102', 'smallmolecule_smName: Mitoxantrone', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	-0.025841
-('491336 686', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Radicicol', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	0.28139
-('491337 687', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Radicicol', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	0.27957
-('491338 688', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Withaferin A', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	0.39816
-('491339 689', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Withaferin A', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	0.37806
+('(R)- Roscovitine 0', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: (R)- Roscovitine', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	0.74127
+('AT-7519 1', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: AT-7519', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	-0.095085
+('AZD7762 2', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: AZD7762', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	0.027417
+('AZD8055 3', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: AZD8055', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	-0.041406
+('Sorafenib 4', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Sorafenib', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	0.79943
+('CP466722 5', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: CP466722', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	0.93378
+('CP724714 6', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: CP724714', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	0.75685
+('Flavopiridol 7', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Flavopiridol', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	-0.30557
+('GW843682 8', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: GW843682', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	0.2298
+('HG-5-113-01 9', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: HG-5-113-01', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	0.3313
+('HG-5-88-01 10', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: HG-5-88-01', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	0.37241
+('HG-6-64-01 11', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: HG-6-64-01', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	0.74494
+('Neratinib 12', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Neratinib', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	0.46171
+('JW-7-24-1 13', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: JW-7-24-1', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	0.29536
+('Dasatinib 14', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Dasatinib', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	0.11431
+('Dasatinib 15', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Dasatinib', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	-0.035189
+('Tozasertib 16', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Tozasertib', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	0.067341
+('Imatinib 17', 'smallmolecule_smSalt: 103', 'smallmolecule_smName: Imatinib', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	1.0365
+('NVP-TAE684 18', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: NVP-TAE684', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	0.039928
+('CGP60474 19', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: CGP60474', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	-0.11178
+('CGP60474 20', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: CGP60474', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	-0.35227
+('PD173074 21', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PD173074', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	0.99804
+('Crizotinib 22', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Crizotinib', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	0.3919
+('BMS345541 23', 'smallmolecule_smSalt: 102', 'smallmolecule_smName: BMS345541', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	0.51916
+('KIN001-043 24', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: KIN001-043', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	0.75418
+('Saracatinib 25', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Saracatinib', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	0.46043
+('Sigma A6730 26', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Sigma A6730', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	0.51392
+('WH-4-025 27', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: WH-4-025', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	0.38175
+('R406 28', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: R406', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	0.80265
+('BI-2536 29', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: BI-2536', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	0.016016
+('A443654 30', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: A443654', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	-0.22707
+('SB590885 31', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: SB590885', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	0.88628
+('GDC-0941 32', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: GDC-0941', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	0.067698
+('PD184352 33', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PD184352', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	0.668
+('PLX-4720 34', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PLX-4720', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	0.89001
+('Lapatinib 35', 'smallmolecule_smSalt: 104', 'smallmolecule_smName: Lapatinib', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	0.80111
+('Rapamycin 36', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Rapamycin', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	0.48855
+('ZSTK474 37', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: ZSTK474', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	0.19979
+('BX-912 38', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: BX-912', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	0.5307
+('Selumetinib 39', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Selumetinib', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	0.62903
+('MK2206 40', 'smallmolecule_smSalt: 102', 'smallmolecule_smName: MK2206', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	0.2933
+('AZD-6482 41', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: AZD-6482', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	0.77407
+('NU7441 42', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: NU7441', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	0.79537
+('OSI-027 43', 'smallmolecule_smSalt: 102', 'smallmolecule_smName: OSI-027', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	0.40948
+('WYE-125132 44', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: WYE-125132', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	0.11163
+('AZD1152-HQPA 45', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: AZD1152-HQPA', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	0.1342
+('Vemurafenib 46', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Vemurafenib', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	0.98177
+('Enzastaurin 47', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Enzastaurin', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	0.92685
+('Palbociclib 48', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Palbociclib', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	0.44429
+('PF562271 49', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PF562271', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	0.33518
+('PHA-793887 50', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PHA-793887', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	-0.0095943
+('QL-X-138 51', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: QL-X-138', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	0.24474
+('QL-XII-47 52', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: QL-XII-47', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	0.094644
+('Torin1 53', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Torin1', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	0.048501
+('Torin2 54', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Torin2', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	-0.045307
+('WZ-4-145 55', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: WZ-4-145', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	0.36311
+('WZ3105 56', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: WZ3105', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	-0.28655
+('XMD11-50 57', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: XMD11-50', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	0.47262
+('XMD11-85h 58', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: XMD11-85h', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	0.72083
+('XMD16-144 59', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: XMD16-144', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	0.092505
+('Erlotinib 60', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Erlotinib', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	0.96699
+('Gefitinib 61', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Gefitinib', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	1.0135
+('Nilotinib 62', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Nilotinib', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	0.83174
+('JNK-9L 63', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: JNK-9L', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	0.13017
+('PD0325901 64', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PD0325901', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	0.40378
+('PD0325901 65', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PD0325901', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	0.39024
+('Geldanamycin 66', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Geldanamycin', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	0.074672
+('Geldanamycin 67', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Geldanamycin', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	0.059171
+('YM 201636 68', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: YM 201636', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	0.63545
+('TWS119 69', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: TWS119', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	0.74145
+('PF477736 70', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PF477736', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	0.29847
+('LDN-193189 71', 'smallmolecule_smSalt: 102', 'smallmolecule_smName: LDN-193189', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	0.64129
+('PF431396 72', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PF431396', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	0.19262
+('Celastrol 73', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Celastrol', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	0.40347
+('SU11274 74', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: SU11274', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	0.80529
+('Canertinib 75', 'smallmolecule_smSalt: 102', 'smallmolecule_smName: Canertinib', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	0.58018
+('NVP-AEW541 76', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: NVP-AEW541', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	0.50494
+('PHA-665752 77', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PHA-665752', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	0.96146
+('PI103 78', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PI103', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	0.14646
+('Dovitinib 79', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Dovitinib', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	0.61242
+('GSK 690693 80', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: GSK 690693', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	0.42769
+('BMS-387032 81', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: BMS-387032', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	-0.28711
+('Afatinib 82', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Afatinib', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	0.59312
+('GSK1904529A 83', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: GSK1904529A', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	0.38938
+('Linsitinib 84', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Linsitinib', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	0.5214
+('Ruxolitinib 85', 'smallmolecule_smSalt: 105', 'smallmolecule_smName: Ruxolitinib', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	0.95954
+('CYT387 86', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: CYT387', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	0.61062
+('TG 101348 87', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: TG 101348', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	0.52732
+('Trametinib 88', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Trametinib', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	0.38794
+('GSK2126458 89', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: GSK2126458', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	-0.061026
+('Buparlisib 90', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Buparlisib', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	0.14884
+('XL147 91', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: XL147', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	0.98972
+('Y39983 92', 'smallmolecule_smSalt: 102', 'smallmolecule_smName: Y39983', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	0.73186
+('Nintedanib 93', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Nintedanib', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	0.59126
+('Foretinib 94', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Foretinib', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	0.24522
+('AZD 5438 95', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: AZD 5438', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	0.063495
+('Pelitinib 96', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Pelitinib', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	0.65935
+('NVP-AUY922 97', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: NVP-AUY922', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	0.02957
+('AZD8330 98', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: AZD8330', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	0.38058
+('TGX221 99', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: TGX221', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	0.87
+('GSK1059615 100', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: GSK1059615', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	0.40259
+('GSK1059615 101', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: GSK1059615', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	0.39536
+('Brivanib 102', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Brivanib', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	0.89681
+('CHIR-99021 103', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: CHIR-99021', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	0.63324
+('Linifanib 104', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Linifanib', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	0.82386
+('PIK-93 105', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PIK-93', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	0.74839
+('BEZ235 106', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: BEZ235', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	0.08
+('BYL719 107', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: BYL719', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	0.43583
+('GDC-0980 108', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: GDC-0980', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	-0.019079
+('Mitoxantrone 109', 'smallmolecule_smSalt: 102', 'smallmolecule_smName: Mitoxantrone', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	-0.14572
+('Mitoxantrone 110', 'smallmolecule_smSalt: 102', 'smallmolecule_smName: Mitoxantrone', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	-0.18643
+('Radicicol 111', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Radicicol', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	0.18906
+('Radicicol 112', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Radicicol', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	0.17798
+('Withaferin A 113', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Withaferin A', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP5')	0.34443
+('Withaferin A 114', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Withaferin A', 'cell_clName: MCF7', 'ljpLibraryPlate: LJP6')	0.30779
+('(R)- Roscovitine 115', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: (R)- Roscovitine', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	0.79001
+('AT-7519 116', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: AT-7519', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	-0.077212
+('AZD7762 117', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: AZD7762', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	-0.19692
+('AZD8055 118', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: AZD8055', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	-0.14163
+('Sorafenib 119', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Sorafenib', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	0.85479
+('CP466722 120', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: CP466722', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	0.92383
+('CP724714 121', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: CP724714', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	0.19429
+('Flavopiridol 122', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Flavopiridol', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	-0.27009
+('GW843682 123', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: GW843682', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	0.14674
+('HG-5-113-01 124', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: HG-5-113-01', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	0.33001
+('HG-5-88-01 125', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: HG-5-88-01', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	0.56481
+('HG-6-64-01 126', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: HG-6-64-01', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	0.58953
+('Neratinib 127', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Neratinib', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	-0.14125
+('JW-7-24-1 128', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: JW-7-24-1', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	0.40114
+('Dasatinib 129', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Dasatinib', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	0.70597
+('Dasatinib 130', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Dasatinib', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	0.58575
+('Tozasertib 131', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Tozasertib', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	-0.095811
+('Imatinib 132', 'smallmolecule_smSalt: 103', 'smallmolecule_smName: Imatinib', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	1.0568
+('NVP-TAE684 133', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: NVP-TAE684', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	0.57432
+('CGP60474 134', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: CGP60474', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	0.096149
+('CGP60474 135', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: CGP60474', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	-0.34804
+('PD173074 136', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PD173074', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	0.96762
+('Crizotinib 137', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Crizotinib', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	0.50623
+('BMS345541 138', 'smallmolecule_smSalt: 102', 'smallmolecule_smName: BMS345541', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	0.57148
+('KIN001-043 139', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: KIN001-043', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	0.71464
+('Saracatinib 140', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Saracatinib', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	0.85853
+('Sigma A6730 141', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Sigma A6730', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	0.61424
+('WH-4-025 142', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: WH-4-025', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	0.71924
+('R406 143', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: R406', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	0.97457
+('BI-2536 144', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: BI-2536', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	-0.15187
+('A443654 145', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: A443654', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	-0.24587
+('SB590885 146', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: SB590885', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	0.90752
+('GDC-0941 147', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: GDC-0941', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	0.12932
+('PD184352 148', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PD184352', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	0.96137
+('PLX-4720 149', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PLX-4720', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	0.8257
+('Lapatinib 150', 'smallmolecule_smSalt: 104', 'smallmolecule_smName: Lapatinib', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	0.021668
+('Rapamycin 151', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Rapamycin', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	0.40527
+('ZSTK474 152', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: ZSTK474', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	0.22878
+('BX-912 153', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: BX-912', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	0.24584
+('Selumetinib 154', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Selumetinib', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	1.0382
+('MK2206 155', 'smallmolecule_smSalt: 102', 'smallmolecule_smName: MK2206', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	0.41595
+('AZD-6482 156', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: AZD-6482', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	0.67837
+('NU7441 157', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: NU7441', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	0.7376
+('OSI-027 158', 'smallmolecule_smSalt: 102', 'smallmolecule_smName: OSI-027', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	0.22644
+('WYE-125132 159', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: WYE-125132', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	-0.011532
+('AZD1152-HQPA 160', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: AZD1152-HQPA', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	-0.064725
+('Vemurafenib 161', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Vemurafenib', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	0.97883
+('Enzastaurin 162', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Enzastaurin', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	1.0606
+('Palbociclib 163', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Palbociclib', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	0.63228
+('PF562271 164', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PF562271', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	0.43695
+('PHA-793887 165', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PHA-793887', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	-0.026349
+('QL-X-138 166', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: QL-X-138', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	0.18336
+('QL-XII-47 167', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: QL-XII-47', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	0.04921
+('Torin1 168', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Torin1', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	-0.091173
+('Torin2 169', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Torin2', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	-0.18148
+('WZ-4-145 170', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: WZ-4-145', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	0.1871
+('WZ3105 171', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: WZ3105', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	-0.26976
+('XMD11-50 172', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: XMD11-50', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	0.48017
+('XMD11-85h 173', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: XMD11-85h', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	0.69784
+('XMD16-144 174', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: XMD16-144', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	0.0024422
+('Erlotinib 175', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Erlotinib', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	0.75487
+('Gefitinib 176', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Gefitinib', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	0.50411
+('Nilotinib 177', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Nilotinib', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	0.9621
+('JNK-9L 178', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: JNK-9L', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	0.30897
+('PD0325901 179', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PD0325901', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	0.66286
+('PD0325901 180', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PD0325901', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	0.71611
+('Geldanamycin 181', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Geldanamycin', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	-0.12125
+('Geldanamycin 182', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Geldanamycin', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	-0.13419
+('YM 201636 183', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: YM 201636', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	0.83322
+('TWS119 184', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: TWS119', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	0.737
+('PF477736 185', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PF477736', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	-0.12314
+('LDN-193189 186', 'smallmolecule_smSalt: 102', 'smallmolecule_smName: LDN-193189', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	0.60112
+('PF431396 187', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PF431396', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	0.31158
+('Celastrol 188', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Celastrol', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	0.172
+('SU11274 189', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: SU11274', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	0.87637
+('Canertinib 190', 'smallmolecule_smSalt: 102', 'smallmolecule_smName: Canertinib', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	-0.054943
+('NVP-AEW541 191', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: NVP-AEW541', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	0.87574
+('PHA-665752 192', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PHA-665752', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	0.86587
+('PI103 193', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PI103', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	0.24561
+('Dovitinib 194', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Dovitinib', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	0.45973
+('GSK 690693 195', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: GSK 690693', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	0.58972
+('BMS-387032 196', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: BMS-387032', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	-0.18551
+('Afatinib 197', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Afatinib', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	-0.11247
+('GSK1904529A 198', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: GSK1904529A', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	0.93224
+('Linsitinib 199', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Linsitinib', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	0.69723
+('Ruxolitinib 200', 'smallmolecule_smSalt: 105', 'smallmolecule_smName: Ruxolitinib', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	0.89858
+('CYT387 201', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: CYT387', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	0.61569
+('TG 101348 202', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: TG 101348', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	0.67357
+('Trametinib 203', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Trametinib', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	0.59042
+('GSK2126458 204', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: GSK2126458', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	-0.23341
+('Buparlisib 205', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Buparlisib', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	0.14949
+('XL147 206', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: XL147', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	1.0657
+('Y39983 207', 'smallmolecule_smSalt: 102', 'smallmolecule_smName: Y39983', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	0.58742
+('Nintedanib 208', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Nintedanib', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	0.76452
+('Foretinib 209', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Foretinib', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	0.29582
+('AZD 5438 210', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: AZD 5438', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	0.15681
+('Pelitinib 211', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Pelitinib', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	0.080914
+('NVP-AUY922 212', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: NVP-AUY922', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	0.014243
+('AZD8330 213', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: AZD8330', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	0.69956
+('TGX221 214', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: TGX221', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	0.86477
+('GSK1059615 215', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: GSK1059615', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	0.32348
+('GSK1059615 216', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: GSK1059615', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	0.22761
+('Brivanib 217', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Brivanib', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	0.82479
+('CHIR-99021 218', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: CHIR-99021', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	0.70161
+('Linifanib 219', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Linifanib', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	0.95385
+('PIK-93 220', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PIK-93', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	0.78515
+('BEZ235 221', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: BEZ235', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	0.0075737
+('BYL719 222', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: BYL719', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	0.52836
+('GDC-0980 223', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: GDC-0980', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	-0.016123
+('Mitoxantrone 224', 'smallmolecule_smSalt: 102', 'smallmolecule_smName: Mitoxantrone', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	-0.2094
+('Mitoxantrone 225', 'smallmolecule_smSalt: 102', 'smallmolecule_smName: Mitoxantrone', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	-0.27438
+('Radicicol 226', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Radicicol', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	0.073402
+('Radicicol 227', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Radicicol', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	0.011053
+('Withaferin A 228', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Withaferin A', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP5')	0.25558
+('Withaferin A 229', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Withaferin A', 'cell_clName: SK-BR-3', 'ljpLibraryPlate: LJP6')	0.22078
+('(R)- Roscovitine 230', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: (R)- Roscovitine', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	0.8363
+('AT-7519 231', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: AT-7519', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	-0.030285
+('AZD7762 232', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: AZD7762', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	0.10811
+('AZD8055 233', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: AZD8055', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	0.22509
+('Sorafenib 234', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Sorafenib', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	0.91911
+('CP466722 235', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: CP466722', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	0.87177
+('CP724714 236', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: CP724714', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	0.87488
+('Flavopiridol 237', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Flavopiridol', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	-0.19513
+('GW843682 238', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: GW843682', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	0.3461
+('HG-5-113-01 239', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: HG-5-113-01', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	0.4958
+('HG-5-88-01 240', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: HG-5-88-01', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	0.74608
+('HG-6-64-01 241', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: HG-6-64-01', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	0.41506
+('Neratinib 242', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Neratinib', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	0.58992
+('JW-7-24-1 243', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: JW-7-24-1', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	0.58026
+('Dasatinib 244', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Dasatinib', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	-0.073853
+('Dasatinib 245', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Dasatinib', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	-0.22013
+('Tozasertib 246', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Tozasertib', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	0.082276
+('Imatinib 247', 'smallmolecule_smSalt: 103', 'smallmolecule_smName: Imatinib', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	0.99301
+('NVP-TAE684 248', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: NVP-TAE684', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	0.43619
+('CGP60474 249', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: CGP60474', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	-0.0683
+('CGP60474 250', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: CGP60474', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	-0.27833
+('PD173074 251', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PD173074', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	0.89828
+('Crizotinib 252', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Crizotinib', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	0.52763
+('BMS345541 253', 'smallmolecule_smSalt: 102', 'smallmolecule_smName: BMS345541', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	0.57974
+('KIN001-043 254', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: KIN001-043', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	0.74703
+('Saracatinib 255', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Saracatinib', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	0.58337
+('Sigma A6730 256', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Sigma A6730', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	0.82721
+('WH-4-025 257', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: WH-4-025', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	0.22011
+('R406 258', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: R406', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	0.7553
+('BI-2536 259', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: BI-2536', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	0.0046288
+('A443654 260', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: A443654', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	0.020136
+('SB590885 261', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: SB590885', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	0.69241
+('GDC-0941 262', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: GDC-0941', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	0.6646
+('PD184352 263', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PD184352', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	0.65646
+('PLX-4720 264', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PLX-4720', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	0.89648
+('Lapatinib 265', 'smallmolecule_smSalt: 104', 'smallmolecule_smName: Lapatinib', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	0.88111
+('Rapamycin 266', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Rapamycin', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	0.79429
+('ZSTK474 267', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: ZSTK474', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	0.66348
+('BX-912 268', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: BX-912', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	0.51233
+('Selumetinib 269', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Selumetinib', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	0.51841
+('MK2206 270', 'smallmolecule_smSalt: 102', 'smallmolecule_smName: MK2206', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	0.77432
+('AZD-6482 271', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: AZD-6482', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	0.75553
+('NU7441 272', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: NU7441', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	0.74011
+('OSI-027 273', 'smallmolecule_smSalt: 102', 'smallmolecule_smName: OSI-027', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	0.72068
+('WYE-125132 274', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: WYE-125132', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	0.29696
+('AZD1152-HQPA 275', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: AZD1152-HQPA', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	0.14696
+('Vemurafenib 276', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Vemurafenib', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	0.8416
+('Enzastaurin 277', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Enzastaurin', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	1.0093
+('Palbociclib 278', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Palbociclib', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	0.46085
+('PF562271 279', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PF562271', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	0.50156
+('PHA-793887 280', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PHA-793887', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	0.018046
+('QL-X-138 281', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: QL-X-138', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	0.57375
+('QL-XII-47 282', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: QL-XII-47', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	0.25015
+('Torin1 283', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Torin1', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	0.21803
+('Torin2 284', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Torin2', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	0.021055
+('WZ-4-145 285', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: WZ-4-145', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	0.6232
+('WZ3105 286', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: WZ3105', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	-0.21648
+('XMD11-50 287', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: XMD11-50', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	0.48144
+('XMD11-85h 288', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: XMD11-85h', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	0.73642
+('XMD16-144 289', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: XMD16-144', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	0.10565
+('Erlotinib 290', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Erlotinib', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	0.8936
+('Gefitinib 291', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Gefitinib', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	1.0063
+('Nilotinib 292', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Nilotinib', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	0.72542
+('JNK-9L 293', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: JNK-9L', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	0.29175
+('PD0325901 294', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PD0325901', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	0.22938
+('PD0325901 295', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PD0325901', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	0.17648
+('Geldanamycin 296', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Geldanamycin', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	0.023772
+('Geldanamycin 297', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Geldanamycin', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	-0.0088282
+('YM 201636 298', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: YM 201636', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	0.72636
+('TWS119 299', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: TWS119', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	0.71752
+('PF477736 300', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PF477736', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	0.56351
+('LDN-193189 301', 'smallmolecule_smSalt: 102', 'smallmolecule_smName: LDN-193189', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	0.54041
+('PF431396 302', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PF431396', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	0.38962
+('Celastrol 303', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Celastrol', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	0.40412
+('SU11274 304', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: SU11274', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	0.83052
+('Canertinib 305', 'smallmolecule_smSalt: 102', 'smallmolecule_smName: Canertinib', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	0.66994
+('NVP-AEW541 306', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: NVP-AEW541', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	0.85567
+('PHA-665752 307', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PHA-665752', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	0.77802
+('PI103 308', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PI103', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	0.43099
+('Dovitinib 309', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Dovitinib', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	0.54606
+('GSK 690693 310', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: GSK 690693', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	0.91442
+('BMS-387032 311', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: BMS-387032', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	-0.12694
+('Afatinib 312', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Afatinib', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	0.57426
+('GSK1904529A 313', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: GSK1904529A', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	0.89661
+('Linsitinib 314', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Linsitinib', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	0.81536
+('Ruxolitinib 315', 'smallmolecule_smSalt: 105', 'smallmolecule_smName: Ruxolitinib', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	0.89437
+('CYT387 316', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: CYT387', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	0.51487
+('TG 101348 317', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: TG 101348', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	0.54344
+('Trametinib 318', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Trametinib', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	0.11427
+('GSK2126458 319', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: GSK2126458', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	0.085033
+('Buparlisib 320', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Buparlisib', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	0.53402
+('XL147 321', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: XL147', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	1.0168
+('Y39983 322', 'smallmolecule_smSalt: 102', 'smallmolecule_smName: Y39983', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	0.58071
+('Nintedanib 323', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Nintedanib', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	0.84919
+('Foretinib 324', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Foretinib', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	0.27812
+('AZD 5438 325', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: AZD 5438', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	0.20555
+('Pelitinib 326', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Pelitinib', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	0.64661
+('NVP-AUY922 327', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: NVP-AUY922', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	-0.081041
+('AZD8330 328', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: AZD8330', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	0.074441
+('TGX221 329', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: TGX221', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	0.80811
+('GSK1059615 330', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: GSK1059615', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	0.57016
+('GSK1059615 331', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: GSK1059615', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	0.60417
+('Brivanib 332', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Brivanib', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	0.86487
+('CHIR-99021 333', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: CHIR-99021', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	0.82805
+('Linifanib 334', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Linifanib', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	0.92773
+('PIK-93 335', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PIK-93', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	0.83178
+('BEZ235 336', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: BEZ235', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	0.26654
+('BYL719 337', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: BYL719', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	0.90344
+('GDC-0980 338', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: GDC-0980', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	0.40525
+('Mitoxantrone 339', 'smallmolecule_smSalt: 102', 'smallmolecule_smName: Mitoxantrone', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	-0.20121
+('Mitoxantrone 340', 'smallmolecule_smSalt: 102', 'smallmolecule_smName: Mitoxantrone', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	-0.22696
+('Radicicol 341', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Radicicol', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	0.35005
+('Radicicol 342', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Radicicol', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	0.36827
+('Withaferin A 343', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Withaferin A', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP5')	0.38045
+('Withaferin A 344', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Withaferin A', 'cell_clName: MDA-MB-231', 'ljpLibraryPlate: LJP6')	0.33363
+('(R)- Roscovitine 345', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: (R)- Roscovitine', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	0.78849
+('AT-7519 346', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: AT-7519', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	0.13388
+('AZD7762 347', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: AZD7762', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	0.3906
+('AZD8055 348', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: AZD8055', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	0.050583
+('Sorafenib 349', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Sorafenib', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	0.80596
+('CP466722 350', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: CP466722', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	0.94607
+('CP724714 351', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: CP724714', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	0.80678
+('Flavopiridol 352', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Flavopiridol', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	-0.17814
+('GW843682 353', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: GW843682', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	0.27252
+('HG-5-113-01 354', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: HG-5-113-01', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	0.55989
+('HG-5-88-01 355', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: HG-5-88-01', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	0.79031
+('HG-6-64-01 356', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: HG-6-64-01', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	0.60183
+('Neratinib 357', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Neratinib', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	0.54158
+('JW-7-24-1 358', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: JW-7-24-1', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	0.63805
+('Dasatinib 359', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Dasatinib', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	0.23231
+('Dasatinib 360', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Dasatinib', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	0.049945
+('Tozasertib 361', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Tozasertib', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	0.057
+('Imatinib 362', 'smallmolecule_smSalt: 103', 'smallmolecule_smName: Imatinib', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	1.0004
+('NVP-TAE684 363', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: NVP-TAE684', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	0.69894
+('CGP60474 364', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: CGP60474', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	-0.075069
+('CGP60474 365', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: CGP60474', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	-0.35715
+('PD173074 366', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PD173074', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	1.0713
+('Crizotinib 367', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Crizotinib', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	0.60402
+('BMS345541 368', 'smallmolecule_smSalt: 102', 'smallmolecule_smName: BMS345541', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	0.75738
+('KIN001-043 369', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: KIN001-043', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	0.87487
+('Saracatinib 370', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Saracatinib', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	0.74673
+('Sigma A6730 371', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Sigma A6730', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	0.76917
+('WH-4-025 372', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: WH-4-025', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	0.41015
+('R406 373', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: R406', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	0.87712
+('BI-2536 374', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: BI-2536', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	-0.17036
+('A443654 375', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: A443654', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	-0.0024211
+('SB590885 376', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: SB590885', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	0.98346
+('GDC-0941 377', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: GDC-0941', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	0.36287
+('PD184352 378', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PD184352', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	0.88483
+('PLX-4720 379', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PLX-4720', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	0.82288
+('Lapatinib 380', 'smallmolecule_smSalt: 104', 'smallmolecule_smName: Lapatinib', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	0.91272
+('Rapamycin 381', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Rapamycin', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	0.53722
+('ZSTK474 382', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: ZSTK474', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	0.44359
+('BX-912 383', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: BX-912', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	0.81832
+('Selumetinib 384', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Selumetinib', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	1.0149
+('MK2206 385', 'smallmolecule_smSalt: 102', 'smallmolecule_smName: MK2206', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	0.61183
+('AZD-6482 386', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: AZD-6482', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	0.55015
+('NU7441 387', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: NU7441', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	0.85808
+('OSI-027 388', 'smallmolecule_smSalt: 102', 'smallmolecule_smName: OSI-027', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	0.56128
+('WYE-125132 389', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: WYE-125132', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	0.2095
+('AZD1152-HQPA 390', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: AZD1152-HQPA', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	0.3486
+('Vemurafenib 391', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Vemurafenib', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	0.88428
+('Enzastaurin 392', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Enzastaurin', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	1.0834
+('Palbociclib 393', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Palbociclib', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	0.39316
+('PF562271 394', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PF562271', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	0.53104
+('PHA-793887 395', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PHA-793887', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	0.1846
+('QL-X-138 396', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: QL-X-138', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	0.46308
+('QL-XII-47 397', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: QL-XII-47', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	0.21872
+('Torin1 398', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Torin1', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	-0.012863
+('Torin2 399', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Torin2', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	-0.16249
+('WZ-4-145 400', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: WZ-4-145', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	0.69303
+('WZ3105 401', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: WZ3105', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	-0.093963
+('XMD11-50 402', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: XMD11-50', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	0.67489
+('XMD11-85h 403', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: XMD11-85h', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	0.87025
+('XMD16-144 404', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: XMD16-144', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	0.22691
+('Erlotinib 405', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Erlotinib', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	0.81317
+('Gefitinib 406', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Gefitinib', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	0.91619
+('Nilotinib 407', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Nilotinib', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	0.8416
+('JNK-9L 408', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: JNK-9L', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	0.36905
+('PD0325901 409', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PD0325901', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	0.72784
+('PD0325901 410', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PD0325901', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	0.71256
+('Geldanamycin 411', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Geldanamycin', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	-0.021069
+('Geldanamycin 412', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Geldanamycin', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	-0.040037
+('YM 201636 413', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: YM 201636', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	0.72863
+('TWS119 414', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: TWS119', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	0.76265
+('PF477736 415', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PF477736', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	0.77675
+('LDN-193189 416', 'smallmolecule_smSalt: 102', 'smallmolecule_smName: LDN-193189', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	0.47881
+('PF431396 417', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PF431396', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	0.3416
+('Celastrol 418', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Celastrol', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	0.43908
+('SU11274 419', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: SU11274', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	0.81916
+('Canertinib 420', 'smallmolecule_smSalt: 102', 'smallmolecule_smName: Canertinib', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	0.66695
+('NVP-AEW541 421', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: NVP-AEW541', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	0.99528
+('PHA-665752 422', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PHA-665752', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	0.8666
+('PI103 423', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PI103', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	0.32612
+('Dovitinib 424', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Dovitinib', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	0.43137
+('GSK 690693 425', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: GSK 690693', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	0.59638
+('BMS-387032 426', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: BMS-387032', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	-0.028577
+('Afatinib 427', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Afatinib', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	0.67941
+('GSK1904529A 428', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: GSK1904529A', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	0.92262
+('Linsitinib 429', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Linsitinib', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	0.88442
+('Ruxolitinib 430', 'smallmolecule_smSalt: 105', 'smallmolecule_smName: Ruxolitinib', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	0.91295
+('CYT387 431', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: CYT387', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	0.67014
+('TG 101348 432', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: TG 101348', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	0.70949
+('Trametinib 433', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Trametinib', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	0.73257
+('GSK2126458 434', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: GSK2126458', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	-0.2384
+('Buparlisib 435', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Buparlisib', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	0.2977
+('XL147 436', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: XL147', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	0.8472
+('Y39983 437', 'smallmolecule_smSalt: 102', 'smallmolecule_smName: Y39983', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	0.82711
+('Nintedanib 438', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Nintedanib', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	0.8223
+('Foretinib 439', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Foretinib', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	0.31733
+('AZD 5438 440', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: AZD 5438', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	0.24524
+('Pelitinib 441', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Pelitinib', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	0.60996
+('NVP-AUY922 442', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: NVP-AUY922', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	-0.035041
+('AZD8330 443', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: AZD8330', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	0.75041
+('TGX221 444', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: TGX221', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	0.99951
+('GSK1059615 445', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: GSK1059615', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	0.12897
+('GSK1059615 446', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: GSK1059615', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	0.1212
+('Brivanib 447', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Brivanib', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	0.91534
+('CHIR-99021 448', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: CHIR-99021', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	0.94855
+('Linifanib 449', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Linifanib', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	0.98155
+('PIK-93 450', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PIK-93', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	0.81834
+('BEZ235 451', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: BEZ235', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	0.11141
+('BYL719 452', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: BYL719', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	0.54349
+('GDC-0980 453', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: GDC-0980', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	-0.029188
+('Mitoxantrone 454', 'smallmolecule_smSalt: 102', 'smallmolecule_smName: Mitoxantrone', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	-0.13265
+('Mitoxantrone 455', 'smallmolecule_smSalt: 102', 'smallmolecule_smName: Mitoxantrone', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	-0.10262
+('Radicicol 456', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Radicicol', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	0.18342
+('Radicicol 457', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Radicicol', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	0.18605
+('Withaferin A 458', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Withaferin A', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP5')	0.33164
+('Withaferin A 459', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Withaferin A', 'cell_clName: BT-20', 'ljpLibraryPlate: LJP6')	0.33919
+('(R)- Roscovitine 460', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: (R)- Roscovitine', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.93057
+('AT-7519 461', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: AT-7519', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	0.11413
+('AZD7762 462', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: AZD7762', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	-0.016243
+('AZD8055 463', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: AZD8055', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	0.11148
+('Sorafenib 464', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Sorafenib', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	1.1062
+('CP466722 465', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: CP466722', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.96785
+('CP724714 466', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: CP724714', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.94078
+('Flavopiridol 467', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Flavopiridol', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	-0.076392
+('GW843682 468', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: GW843682', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	0.22047
+('HG-5-113-01 469', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: HG-5-113-01', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.52144
+('HG-5-88-01 470', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: HG-5-88-01', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	0.85457
+('HG-6-64-01 471', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: HG-6-64-01', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	0.46041
+('Neratinib 472', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Neratinib', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.52212
+('JW-7-24-1 473', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: JW-7-24-1', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	0.55853
+('Dasatinib 474', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Dasatinib', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.15562
+('Dasatinib 475', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Dasatinib', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	-0.023386
+('Tozasertib 476', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Tozasertib', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.089448
+('Imatinib 477', 'smallmolecule_smSalt: 103', 'smallmolecule_smName: Imatinib', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	1.0222
+('NVP-TAE684 478', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: NVP-TAE684', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	0.39408
+('CGP60474 479', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: CGP60474', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.038252
+('CGP60474 480', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: CGP60474', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	-0.18588
+('PD173074 481', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PD173074', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	0.7215
+('Crizotinib 482', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Crizotinib', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.67268
+('BMS345541 483', 'smallmolecule_smSalt: 102', 'smallmolecule_smName: BMS345541', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	0.7377
+('KIN001-043 484', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: KIN001-043', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	0.89274
+('Saracatinib 485', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Saracatinib', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	0.72982
+('Sigma A6730 486', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Sigma A6730', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.83065
+('WH-4-025 487', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: WH-4-025', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.24661
+('R406 488', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: R406', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	0.69491
+('BI-2536 489', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: BI-2536', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	-0.10029
+('A443654 490', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: A443654', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	-0.0010867
+('SB590885 491', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: SB590885', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.98641
+('GDC-0941 492', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: GDC-0941', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	0.52669
+('PD184352 493', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PD184352', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.55748
+('PLX-4720 494', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PLX-4720', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	1.03
+('Lapatinib 495', 'smallmolecule_smSalt: 104', 'smallmolecule_smName: Lapatinib', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	0.92686
+('Rapamycin 496', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Rapamycin', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	0.62342
+('ZSTK474 497', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: ZSTK474', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	0.47027
+('BX-912 498', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: BX-912', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.50739
+('Selumetinib 499', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Selumetinib', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	0.44911
+('MK2206 500', 'smallmolecule_smSalt: 102', 'smallmolecule_smName: MK2206', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	0.67226
+('AZD-6482 501', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: AZD-6482', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.74283
+('NU7441 502', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: NU7441', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.72741
+('OSI-027 503', 'smallmolecule_smSalt: 102', 'smallmolecule_smName: OSI-027', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	0.59781
+('WYE-125132 504', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: WYE-125132', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	0.18801
+('AZD1152-HQPA 505', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: AZD1152-HQPA', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.27645
+('Vemurafenib 506', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Vemurafenib', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.92554
+('Enzastaurin 507', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Enzastaurin', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.99596
+('Palbociclib 508', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Palbociclib', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	0.47814
+('PF562271 509', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PF562271', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	0.56776
+('PHA-793887 510', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PHA-793887', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	0.16779
+('QL-X-138 511', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: QL-X-138', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	0.51113
+('QL-XII-47 512', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: QL-XII-47', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	0.48754
+('Torin1 513', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Torin1', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	0.11558
+('Torin2 514', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Torin2', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	-0.00015534
+('WZ-4-145 515', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: WZ-4-145', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	0.48319
+('WZ3105 516', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: WZ3105', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	-0.13519
+('XMD11-50 517', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: XMD11-50', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	0.61833
+('XMD11-85h 518', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: XMD11-85h', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	0.81705
+('XMD16-144 519', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: XMD16-144', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.073537
+('Erlotinib 520', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Erlotinib', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.8906
+('Gefitinib 521', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Gefitinib', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	0.96501
+('Nilotinib 522', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Nilotinib', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.90817
+('JNK-9L 523', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: JNK-9L', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	0.56332
+('PD0325901 524', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PD0325901', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.28831
+('PD0325901 525', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PD0325901', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	0.26615
+('Geldanamycin 526', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Geldanamycin', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.19901
+('Geldanamycin 527', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Geldanamycin', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	0.18805
+('YM 201636 528', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: YM 201636', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.77298
+('TWS119 529', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: TWS119', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.74771
+('PF477736 530', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PF477736', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.25021
+('LDN-193189 531', 'smallmolecule_smSalt: 102', 'smallmolecule_smName: LDN-193189', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.58391
+('PF431396 532', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PF431396', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.39112
+('Celastrol 533', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Celastrol', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	0.46621
+('SU11274 534', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: SU11274', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.80381
+('Canertinib 535', 'smallmolecule_smSalt: 102', 'smallmolecule_smName: Canertinib', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	0.74514
+('NVP-AEW541 536', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: NVP-AEW541', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.86943
+('PHA-665752 537', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PHA-665752', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.79771
+('PI103 538', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PI103', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	0.28976
+('Dovitinib 539', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Dovitinib', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.41017
+('GSK 690693 540', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: GSK 690693', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.75481
+('BMS-387032 541', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: BMS-387032', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	0.012684
+('Afatinib 542', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Afatinib', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	0.7393
+('GSK1904529A 543', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: GSK1904529A', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	0.95311
+('Linsitinib 544', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Linsitinib', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.94167
+('Ruxolitinib 545', 'smallmolecule_smSalt: 105', 'smallmolecule_smName: Ruxolitinib', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.91592
+('CYT387 546', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: CYT387', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.6126
+('TG 101348 547', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: TG 101348', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.60234
+('Trametinib 548', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Trametinib', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.20345
+('GSK2126458 549', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: GSK2126458', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	-0.016983
+('Buparlisib 550', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Buparlisib', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.37009
+('XL147 551', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: XL147', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.95778
+('Y39983 552', 'smallmolecule_smSalt: 102', 'smallmolecule_smName: Y39983', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	0.65307
+('Nintedanib 553', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Nintedanib', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	0.59776
+('Foretinib 554', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Foretinib', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.39552
+('AZD 5438 555', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: AZD 5438', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	0.25976
+('Pelitinib 556', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Pelitinib', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.67117
+('NVP-AUY922 557', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: NVP-AUY922', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.071743
+('AZD8330 558', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: AZD8330', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.21671
+('TGX221 559', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: TGX221', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.82042
+('GSK1059615 560', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: GSK1059615', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.44562
+('GSK1059615 561', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: GSK1059615', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	0.47333
+('Brivanib 562', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Brivanib', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.92322
+('CHIR-99021 563', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: CHIR-99021', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	0.873
+('Linifanib 564', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Linifanib', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	0.9276
+('PIK-93 565', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PIK-93', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.78186
+('BEZ235 566', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: BEZ235', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.15712
+('BYL719 567', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: BYL719', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.81953
+('GDC-0980 568', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: GDC-0980', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.30204
+('Mitoxantrone 569', 'smallmolecule_smSalt: 102', 'smallmolecule_smName: Mitoxantrone', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	-0.18449
+('Mitoxantrone 570', 'smallmolecule_smSalt: 102', 'smallmolecule_smName: Mitoxantrone', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	-0.18533
+('Radicicol 571', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Radicicol', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.53651
+('Radicicol 572', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Radicicol', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	0.51308
+('Withaferin A 573', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Withaferin A', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP5')	0.43042
+('Withaferin A 574', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Withaferin A', 'cell_clName: Hs 578T', 'ljpLibraryPlate: LJP6')	0.4053
+('(R)- Roscovitine 575', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: (R)- Roscovitine', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	0.87627
+('AT-7519 576', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: AT-7519', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	0.22725
+('AZD7762 577', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: AZD7762', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	0.45261
+('AZD8055 578', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: AZD8055', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	0.20243
+('Sorafenib 579', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Sorafenib', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	0.92729
+('CP466722 580', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: CP466722', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	0.95571
+('CP724714 581', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: CP724714', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	0.98385
+('Flavopiridol 582', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Flavopiridol', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	-0.18601
+('GW843682 583', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: GW843682', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	0.34347
+('HG-5-113-01 584', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: HG-5-113-01', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	0.6203
+('HG-5-88-01 585', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: HG-5-88-01', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	0.72767
+('HG-6-64-01 586', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: HG-6-64-01', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	0.72464
+('Neratinib 587', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Neratinib', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	0.2278
+('JW-7-24-1 588', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: JW-7-24-1', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	0.80833
+('Dasatinib 589', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Dasatinib', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	0.27759
+('Dasatinib 590', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Dasatinib', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	0.097906
+('Tozasertib 591', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Tozasertib', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	0.158
+('Imatinib 592', 'smallmolecule_smSalt: 103', 'smallmolecule_smName: Imatinib', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	1.0025
+('NVP-TAE684 593', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: NVP-TAE684', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	0.56604
+('CGP60474 594', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: CGP60474', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	-0.044706
+('CGP60474 595', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: CGP60474', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	-0.2498
+('PD173074 596', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PD173074', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	0.94109
+('Crizotinib 597', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Crizotinib', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	0.78649
+('BMS345541 598', 'smallmolecule_smSalt: 102', 'smallmolecule_smName: BMS345541', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	0.95394
+('KIN001-043 599', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: KIN001-043', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	0.87468
+('Saracatinib 600', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Saracatinib', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	0.71217
+('Sigma A6730 601', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Sigma A6730', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	0.90284
+('WH-4-025 602', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: WH-4-025', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	0.62103
+('R406 603', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: R406', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	0.88052
+('BI-2536 604', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: BI-2536', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	-0.011508
+('A443654 605', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: A443654', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	0.20826
+('SB590885 606', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: SB590885', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	0.93029
+('GDC-0941 607', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: GDC-0941', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	0.51749
+('PD184352 608', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PD184352', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	0.41286
+('PLX-4720 609', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PLX-4720', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	0.97847
+('Lapatinib 610', 'smallmolecule_smSalt: 104', 'smallmolecule_smName: Lapatinib', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	0.80062
+('Rapamycin 611', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Rapamycin', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	0.99306
+('ZSTK474 612', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: ZSTK474', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	0.57341
+('BX-912 613', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: BX-912', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	0.49733
+('Selumetinib 614', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Selumetinib', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	0.35353
+('MK2206 615', 'smallmolecule_smSalt: 102', 'smallmolecule_smName: MK2206', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	0.8034
+('AZD-6482 616', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: AZD-6482', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	0.82945
+('NU7441 617', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: NU7441', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	0.86889
+('OSI-027 618', 'smallmolecule_smSalt: 102', 'smallmolecule_smName: OSI-027', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	0.436
+('WYE-125132 619', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: WYE-125132', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	0.24678
+('AZD1152-HQPA 620', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: AZD1152-HQPA', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	0.15178
+('Vemurafenib 621', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Vemurafenib', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	0.86348
+('Enzastaurin 622', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Enzastaurin', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	1.0038
+('Palbociclib 623', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Palbociclib', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	0.62852
+('PF562271 624', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PF562271', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	0.44255
+('PHA-793887 625', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PHA-793887', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	0.077608
+('QL-X-138 626', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: QL-X-138', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	0.67702
+('QL-XII-47 627', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: QL-XII-47', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	0.62876
+('Torin1 628', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Torin1', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	0.23998
+('Torin2 629', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Torin2', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	0.075851
+('WZ-4-145 630', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: WZ-4-145', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	0.72335
+('WZ3105 631', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: WZ3105', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	-0.021326
+('XMD11-50 632', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: XMD11-50', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	0.65403
+('XMD11-85h 633', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: XMD11-85h', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	0.936
+('XMD16-144 634', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: XMD16-144', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	0.26651
+('Erlotinib 635', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Erlotinib', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	0.43463
+('Gefitinib 636', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Gefitinib', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	0.34848
+('Nilotinib 637', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Nilotinib', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	0.90835
+('JNK-9L 638', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: JNK-9L', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	0.40941
+('PD0325901 639', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PD0325901', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	0.17854
+('PD0325901 640', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PD0325901', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	0.12241
+('Geldanamycin 641', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Geldanamycin', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	-0.026341
+('Geldanamycin 642', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Geldanamycin', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	-0.070257
+('YM 201636 643', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: YM 201636', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	0.80234
+('TWS119 644', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: TWS119', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	0.83485
+('PF477736 645', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PF477736', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	0.59524
+('LDN-193189 646', 'smallmolecule_smSalt: 102', 'smallmolecule_smName: LDN-193189', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	0.69496
+('PF431396 647', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PF431396', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	0.24802
+('Celastrol 648', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Celastrol', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	0.48395
+('SU11274 649', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: SU11274', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	0.8335
+('Canertinib 650', 'smallmolecule_smSalt: 102', 'smallmolecule_smName: Canertinib', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	0.23348
+('NVP-AEW541 651', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: NVP-AEW541', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	0.79801
+('PHA-665752 652', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PHA-665752', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	0.90445
+('PI103 653', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PI103', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	0.42491
+('Dovitinib 654', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Dovitinib', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	0.49884
+('GSK 690693 655', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: GSK 690693', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	0.92292
+('BMS-387032 656', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: BMS-387032', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	0.0034488
+('Afatinib 657', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Afatinib', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	0.040752
+('GSK1904529A 658', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: GSK1904529A', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	0.65632
+('Linsitinib 659', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Linsitinib', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	0.80507
+('Ruxolitinib 660', 'smallmolecule_smSalt: 105', 'smallmolecule_smName: Ruxolitinib', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	0.94686
+('CYT387 661', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: CYT387', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	0.73086
+('TG 101348 662', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: TG 101348', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	0.72208
+('Trametinib 663', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Trametinib', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	0.19177
+('GSK2126458 664', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: GSK2126458', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	-0.016145
+('Buparlisib 665', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Buparlisib', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	0.52346
+('XL147 666', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: XL147', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	0.89618
+('Y39983 667', 'smallmolecule_smSalt: 102', 'smallmolecule_smName: Y39983', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	0.78981
+('Nintedanib 668', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Nintedanib', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	0.97877
+('Foretinib 669', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Foretinib', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	0.57857
+('AZD 5438 670', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: AZD 5438', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	0.29462
+('Pelitinib 671', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Pelitinib', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	0.19106
+('NVP-AUY922 672', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: NVP-AUY922', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	-0.050787
+('AZD8330 673', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: AZD8330', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	0.12089
+('TGX221 674', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: TGX221', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	0.90404
+('GSK1059615 675', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: GSK1059615', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	0.41031
+('GSK1059615 676', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: GSK1059615', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	0.41161
+('Brivanib 677', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Brivanib', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	0.81293
+('CHIR-99021 678', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: CHIR-99021', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	0.94457
+('Linifanib 679', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Linifanib', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	0.97099
+('PIK-93 680', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: PIK-93', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	0.87956
+('BEZ235 681', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: BEZ235', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	0.22795
+('BYL719 682', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: BYL719', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	0.81438
+('GDC-0980 683', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: GDC-0980', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	0.31391
+('Mitoxantrone 684', 'smallmolecule_smSalt: 102', 'smallmolecule_smName: Mitoxantrone', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	-0.017384
+('Mitoxantrone 685', 'smallmolecule_smSalt: 102', 'smallmolecule_smName: Mitoxantrone', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	-0.025841
+('Radicicol 686', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Radicicol', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	0.28139
+('Radicicol 687', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Radicicol', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	0.27957
+('Withaferin A 688', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Withaferin A', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP5')	0.39816
+('Withaferin A 689', 'smallmolecule_smSalt: 101', 'smallmolecule_smName: Withaferin A', 'cell_clName: MCF 10A', 'ljpLibraryPlate: LJP6')	0.37806
