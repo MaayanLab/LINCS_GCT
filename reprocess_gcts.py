@@ -9,12 +9,12 @@ def main():
 
     print(name)
 
-    # try:
-    df = load_file(inst_filename)
-    print('works')
+    try:
+      inst_gct = load_file(inst_filename)
+      # print('works')
 
-    # except:
-    #   print('did not work')
+    except:
+      print('did not work')
 
     print('\n')
 
@@ -26,7 +26,12 @@ def load_file(filename):
   GCTObject = gct.GCT(filename)
   GCTObject.read(verbose=False)
 
-  print(GCTObject.matrix.shape)
+  return GCTObject
+
+def gct_to_df(gct):
+  # get the available meta data headers for the rows/cols
+  # cat_titles =
+  pass
 
 main()
 

@@ -1,3 +1,12 @@
+6-28-2016
+-----------
+I'm going to reprocess the original gcts and manually curated vis-gcts from
+Anders. I'll first load the gcts using the python script from cmap/Zichen and
+then save the gct to a tsv format (with tuple names/categories) - also at this
+point I will filter the gcts so that a max of 3000 rows are included. Anders also
+transposed some of the gcts, so I'll have to undo this.
+5-15-2016
+-----------
 
 I'm using the python cmap l1k io tools to read the gct file - I'm specifically
 using Zichen's modified version.
@@ -12,8 +21,6 @@ LDS-1207.gct:
   made for a perturbation (called id). The columns are the perturbations (data
   points) that were made. The main descriptor is the smName (small molecule name
   ). There is also the cell line name available - I'll make this a category.
-
-  If I do not find the
 
   I'll include a category if it meets two requirements
     1: there are more than one unique categories

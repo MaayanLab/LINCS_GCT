@@ -116,7 +116,6 @@ def load_file(filename):
 
         cat_info[inst_rc][inst_title] = inst_cats
 
-
     # define metadata: names, categories with optional titles
     meta_data[inst_rc] = []
     for i in range(len(names[inst_rc])):
