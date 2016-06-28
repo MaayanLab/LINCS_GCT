@@ -1,4 +1,4 @@
-make_clust('KiNativ-vis.txt.json');
+make_clust('example_gct_export.json');
 // make_clust('mult_view.json');
 // make_clust('filter_row_sum.json');
 // make_clust('mult_cats.json');

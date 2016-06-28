@@ -12,7 +12,16 @@ def filter_and_cluster_tsvs():
   which have been made from the gcts.
   '''
 
-  make_json_from_tsv('KiNativ-vis')
+  import glob
+  all_paths = glob.glob('txt/*.txt')
+
+  all_paths = all_paths[0:1]
+
+  for inst_filename in all_paths:
+
+    name = inst_filename.split('/')[1].split('.txt')[0]
+
+    make_json_from_tsv(name)
 
 def make_json_from_tsv(name):
   '''
@@ -57,7 +66,6 @@ def minimally_proc_gct_to_tsv(inst_directory):
   minimally process (clean meta data) gcts and save as tsv files
   '''
   import glob
-
   all_paths = glob.glob(inst_directory + '/*.gct')
 
   # all_paths = all_paths[0:1]
