@@ -113,14 +113,16 @@ def get_meta_data(gct):
       # names and categories are stored as tuples
       name_tuple = ()
 
-      # get individual row/col name
-      inst_name = names[inst_rc][i]
+      # get individual row/col name - making the names unique
+      inst_name = names[inst_rc][i] + ' ' + str(i)
 
       name_tuple = name_tuple + (inst_name,)
 
       all_titles = cat_titles[inst_rc]
 
       for inst_title in all_titles:
+
+        print(all_titles)
 
         if inst_title != 'ind':
 
