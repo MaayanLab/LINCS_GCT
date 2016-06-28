@@ -1,4 +1,10 @@
 def main():
+  minimally_proc_gct_to_df()
+
+def minimally_proc_gct_to_df():
+  '''
+  minimally process (clean meta data) gcts and save as tsv files
+  '''
   import glob
 
   all_paths = glob.glob('gcts-vis/*.gct')
@@ -14,6 +20,10 @@ def main():
     # try:
     inst_gct = load_file(inst_filename)
     inst_df = gct_to_df(inst_gct)
+
+    # save
+    filename = 'txt/tmp.tsv'
+    inst_df.to_csv(filename, sep='\t')
 
     # except:
     #   print('did not work')
@@ -37,30 +47,17 @@ def gct_to_df(gct):
   normalize, filter, clean meta data, return/save as pandas df
   '''
   import pandas as pd
-  from clustergrammer import Network
 
   print(gct.matrix.shape)
-
-  net = Network()
 
   meta_data = get_meta_data(gct)
 
   mat = gct.matrix
 
-  tmp_df = pd.DataFrame(data=mat, columns=meta_data['col'],
+  df = pd.DataFrame(data=mat, columns=meta_data['col'],
     index=meta_data['row'])
 
-  # print('\n------------')
-  # print(mat.shape)
-  # print('row')
-  # print(len(meta_data['row']))
-  # print(meta_data['row'])
-  # print('\n')
-  # print('col')
-  # print(len(meta_data['col']))
-  # print(meta_data['col'])
-
-  # print(tmp_df)
+  return df
 
 def get_meta_data(gct):
   '''
@@ -89,8 +86,6 @@ def get_meta_data(gct):
     elif inst_rc == 'col':
       names[inst_rc] = gct.get_column_meta('id')
 
-    # print(inst_rc + ' ' + str(len(cat_titles[inst_rc])) + '\n')
-
     # determine which categories (meta data) will be included
     # there must be more than one unique category and the number of unique
     # categories must not equal the number of data points
@@ -100,9 +95,6 @@ def get_meta_data(gct):
         inst_cats = gct.get_row_meta(inst_title)
       elif inst_rc == 'col':
         inst_cats = gct.get_column_meta(inst_title)
-
-      # print('\n' + inst_rc + ' title: ' + inst_title)
-      # print(len(inst_cats))
 
       num_data = len(inst_cats)
 
@@ -115,10 +107,6 @@ def get_meta_data(gct):
     # define metadata tuples
     # this includes names and categories with optional titles
     meta_data[inst_rc] = []
-
-    # print('\nnames length --------')
-
-    # print(len(names[inst_rc]))
 
     for i in range(len(names[inst_rc])):
 
@@ -145,9 +133,6 @@ def get_meta_data(gct):
 
       # save the entire tuple
       meta_data[inst_rc].append(name_tuple)
-
-
-    # print('check ' + str(len(meta_data[inst_rc])) )
 
   return meta_data
 
