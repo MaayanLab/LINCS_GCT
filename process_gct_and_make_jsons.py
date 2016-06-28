@@ -1,10 +1,10 @@
 def main():
 
-  # minimally_proc_gct_to_tsv('gcts-vis')
-  # minimally_proc_gct_to_tsv('gcts-orig')
-  # minimally_proc_gct_to_tsv('gcts-failed-orig')
+  minimally_proc_gct_to_tsv('gcts-vis')
+  minimally_proc_gct_to_tsv('gcts-orig')
+  minimally_proc_gct_to_tsv('gcts-failed-orig')
 
-  filter_and_cluster_tsvs()
+  # filter_and_cluster_tsvs()
 
 def filter_and_cluster_tsvs():
   '''
@@ -37,18 +37,20 @@ def make_json_from_tsv(name):
 
   net.load_file(filename)
 
+  df = net.dat_to_df()
+
   net.swap_nan_for_zero()
 
   # zscore first to get the columns distributions to be similar
   net.normalize(axis='col', norm_type='zscore', keep_orig=True)
 
   # filter the rows to keep the perts with the largest normalizes values
-  net.filter_N_top('row', 2000)
+  net.filter_N_top('row', 100)
 
   num_rows = net.dat['mat'].shape[0]
   num_coluns = net.dat['mat'].shape[1]
 
-  if num_coluns < 50 and num_rows < 1000:
+  if num_coluns < 50:
 
     views = ['N_row_sum']
     net.make_clust(dist_type='cos', views=views)
@@ -67,7 +69,6 @@ def minimally_proc_gct_to_tsv(inst_directory):
   '''
   import glob
   all_paths = glob.glob(inst_directory + '/*.gct')
-
   # all_paths = all_paths[0:1]
 
   for inst_filename in all_paths:
@@ -131,11 +132,18 @@ def get_meta_data(gct):
   # get the available meta data headers for the rows/cols
   cat_titles = {}
   # get hte gene symbol meta data field from the row data
-  cat_titles['row'] = gct.get_rhd()
+  cat_titles['tmp_row'] = gct.get_rhd()
   # get the perturbagen description meta data field from the column data
-  cat_titles['col'] = gct.get_chd()
+  cat_titles['tmp_col'] = gct.get_chd()
 
   for inst_rc in ['row', 'col']:
+
+    # remove all id categories
+    cat_titles[inst_rc] = []
+    for tmp_title in cat_titles['tmp_'+inst_rc]:
+
+      if 'ID' not in tmp_title:
+        cat_titles[inst_rc].append(tmp_title)
 
     cat_info[inst_rc] = {}
 
@@ -157,7 +165,12 @@ def get_meta_data(gct):
 
       num_data = len(inst_cats)
 
-      num_unique_cats = len(list(set(inst_cats)))
+      unique_cats = list(set(inst_cats))
+
+      # remove blank strings from list
+      unique_cats = filter(None, unique_cats)
+
+      num_unique_cats = len(unique_cats)
 
       if num_unique_cats > 1 and num_unique_cats < num_data:
 
