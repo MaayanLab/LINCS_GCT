@@ -1,30 +1,30 @@
 
-I'm using the python cmap l1k io tools to read the gct file - I'm specifically 
-using Zichen's modified version. 
+I'm using the python cmap l1k io tools to read the gct file - I'm specifically
+using Zichen's modified version.
 
-I'm only going to include categories that have unique values. I'm going to load 
-the gct data into a pandas dataframe with tuple labels and my custom category 
-title encoding (title: category) to pass the title of the category to the 
-visualization. 
+I'm only going to include categories that have unique values. I'm going to load
+the gct data into a pandas dataframe with tuple labels and my custom category
+title encoding (title: category) to pass the title of the category to the
+visualization.
 
-LDS-1207.gct: 
-  There are 30 rows and 5 columns. The columns are the measurements that were 
+LDS-1207.gct:
+  There are 30 rows and 5 columns. The columns are the measurements that were
   made for a perturbation (called id). The columns are the perturbations (data
   points) that were made. The main descriptor is the smName (small molecule name
-  ). There is also the cell line name available - I'll make this a category. 
+  ). There is also the cell line name available - I'll make this a category.
 
-  If I do not find the 
+  If I do not find the
 
-  I'll include a category if it meets two requirements 
-    1: there are more than one unique categories 
+  I'll include a category if it meets two requirements
+    1: there are more than one unique categories
     2: the number of unique categories is not equal to the number of data points
 
-  Columns: 
-    The id will be the name. 
+  Columns:
+    The id will be the name.
 
   Rows:
-    The smName (a.k.a. smallmolecule_smName) will be the name. 
+    The smName (a.k.a. smallmolecule_smName) will be the name.
 
-  It looks like the perturbations are always the rows. 
+  It looks like the perturbations are always the rows.
 
-  I'm saving a quick summary of the gct sizes in gct_sizes.txt. 
+  I'm saving a quick summary of the gct sizes in gct_sizes.txt.
