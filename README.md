@@ -5,6 +5,12 @@ in tsv format (with tuple names/cats).
 
 Then I'll make the jsons for clustergrammer and save them to the json directory.
 
+The script
+
+  process_gct_and_make_jsons.py
+
+processes (cleans/filters) the gcts and makes the clustergrammer jsons.
+
 --- 5-13-2016
 
 The processed (zscored, filtered, and category filtering) GCTs can be saved as tsvs that have row/col labels. See load_gct.py and the function process_GCT_export_tsv() for an example.
